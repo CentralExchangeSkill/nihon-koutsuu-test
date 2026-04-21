@@ -190,8 +190,8 @@ function showResult() {
       <div class="space-y-2 mb-3">
         <p class="text-slate-800 font-semibold">${item.questionJa || ""}</p>
         <p class="text-slate-600">${item.questionEn || ""}</p>
-        <p class="text-slate-700">${item.questionNe || ""}</p>
-        <p class="text-slate-700">${item.questionHi || ""}</p>
+        <p class="text-slate-700 devanagari-font">${item.questionNe || ""}</p>
+        <p class="text-slate-700 devanagari-font">${item.questionHi || ""}</p>
       </div>
 
       <p class="${item.isCorrect ? 'text-green-600' : 'text-red-600'} font-medium mb-1">
@@ -205,8 +205,8 @@ function showResult() {
       <div class="bg-white border border-slate-200 rounded-xl p-3 space-y-2">
         <p class="text-slate-800 font-medium">${item.correctExplanationJa || ""}</p>
         <p class="text-slate-600 text-sm">${item.correctExplanationEn || ""}</p>
-        <p class="text-slate-700 text-sm">${item.correctExplanationNe || ""}</p>
-        <p class="text-slate-700 text-sm">${item.correctExplanationHi || ""}</p>
+        <p class="text-slate-700 text-sm devanagari-font">${item.correctExplanationNe || ""}</p>
+        <p class="text-slate-700 text-sm devanagari-font">${item.correctExplanationHi || ""}</p>
       </div>
     </div>
   `;
