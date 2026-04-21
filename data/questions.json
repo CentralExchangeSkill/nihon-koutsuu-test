@@ -4,76 +4,98 @@
     "image": "assets/signs/sign1.png",
     "question_ja": "この標識は、車両が通行できないことを表している。",
     "question_en": "This sign means that vehicles are not allowed to pass.",
-    "answer": true
+    "answer": true,
+    "correct_explanation_ja": "この標識は、車両が通行できないことを表している。",
+    "correct_explanation_en": "This sign means that vehicles are not allowed to pass."
   },
   {
     "id": 2,
     "image": "assets/signs/sign2.png",
     "question_ja": "この標識は、一時停止を表している。",
     "question_en": "This sign indicates a temporary stop.",
-    "answer": false
+    "answer": false,
+    "correct_explanation_ja": "この標識は、車両の通行が禁止されていることを表している。",
+    "correct_explanation_en": "This sign means that vehicles are prohibited from passing."
   },
   {
     "id": 3,
     "image": "assets/signs/sign3.png",
     "question_ja": "この標識は、進入禁止を表している。",
     "question_en": "This sign indicates no entry.",
-    "answer": true
+    "answer": true,
+    "correct_explanation_ja": "この標識は、車両がこの先に進入してはいけないことを表している。",
+    "correct_explanation_en": "This sign means that vehicles are not allowed to enter beyond this point."
   },
   {
     "id": 4,
     "image": "assets/signs/sign4.png",
     "question_ja": "この標識は、すべての車両が通行止めであることを表している。",
     "question_en": "This sign indicates that all vehicles are prohibited from passing.",
-    "answer": false
+    "answer": false,
+    "correct_explanation_ja": "この標識は、自動車が通行してはいけないことを表している。",
+    "correct_explanation_en": "This sign means that automobiles are not allowed to pass."
   },
   {
     "id": 5,
     "image": "assets/signs/sign5.png",
     "question_ja": "この標識は、大型貨物自動車等通行止めを表している。",
     "question_en": "This sign indicates that large trucks and similar vehicles are prohibited from passing.",
-    "answer": true
+    "answer": true,
+    "correct_explanation_ja": "この標識は、大型貨物自動車などが通行してはいけないことを表している。",
+    "correct_explanation_en": "This sign means that large trucks and similar vehicles are not allowed to pass."
   },
   {
     "id": 6,
     "image": "assets/signs/sign6.png",
     "question_ja": "この標識は、交差点での右折だけが禁止されていることを表している。",
     "question_en": "This sign means that only right turns at intersections are prohibited.",
-    "answer": false
+    "answer": false,
+    "correct_explanation_ja": "この標識は、右折してはいけないことを表している。",
+    "correct_explanation_en": "This sign means that turning right is prohibited."
   },
   {
     "id": 7,
     "image": "assets/signs/sign7.png",
     "question_ja": "この標識は、交差点では転回できないが、交差点以外では転回できることを表している。",
     "question_en": "This sign means that U-turns are prohibited at intersections, but allowed outside intersections.",
-    "answer": false
+    "answer": false,
+    "correct_explanation_ja": "この標識は、転回してはいけないことを表している。",
+    "correct_explanation_en": "This sign means that making a U-turn is prohibited."
   },
   {
     "id": 8,
     "image": "assets/signs/sign8.png",
     "question_ja": "この標識は、追い越すために道路の右側部分へはみ出して通行してはいけないことを表している。",
     "question_en": "This sign means that you must not cross into the right side of the road in order to overtake another vehicle.",
-    "answer": true
+    "answer": true,
+    "correct_explanation_ja": "この標識は、追い越すために道路の右側部分へはみ出して通行してはいけないことを表している。",
+    "correct_explanation_en": "This sign means that you must not cross into the right side of the road in order to overtake another vehicle."
   },
   {
     "id": 9,
-    "image": "assets/signs/sign9.png",
+    "image": "assets/signs/sign10.png",
     "question_ja": "この標識は、8時から20時までは停車も駐車もどちらも禁止されていることを表している。",
     "question_en": "This sign means that both stopping and parking are prohibited from 8:00 to 20:00.",
-    "answer": false
+    "answer": false,
+    "correct_explanation_ja": "この標識は、8時から20時まで駐車してはいけないことを表している。",
+    "correct_explanation_en": "This sign means that parking is prohibited from 8:00 to 20:00."
   },
   {
     "id": 10,
-    "image": "assets/signs/sign10.png",
+    "image": "assets/signs/sign9.png",
     "question_ja": "この標識は、8時から20時までは駐車だけが禁止されていて、短時間の停車はできることを表している。",
     "question_en": "This sign means that only parking is prohibited from 8:00 to 20:00, and short stops are allowed.",
-    "answer": false
+    "answer": false,
+    "correct_explanation_ja": "この標識は、8時から20時まで停車も駐車もしてはいけないことを表している。",
+    "correct_explanation_en": "This sign means that both stopping and parking are prohibited from 8:00 to 20:00."
   },
   {
     "id": 11,
     "image": "assets/signs/sign11.png",
     "question_ja": "この標識は、最高速度が毎時50キロメートルであることを表している。",
     "question_en": "This sign means that the maximum speed is 50 kilometers per hour.",
-    "answer": true
+    "answer": true,
+    "correct_explanation_ja": "この標識は、最高速度が毎時50キロメートルであることを表している。",
+    "correct_explanation_en": "This sign means that the maximum speed is 50 kilometers per hour."
   }
 ]

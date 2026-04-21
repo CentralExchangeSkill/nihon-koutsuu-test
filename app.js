@@ -92,9 +92,11 @@ function handleAnswer(userAnswer) {
         questionEn: currentQuestion.question_en,
         image: currentQuestion.image,
         correctAnswer: currentQuestion.answer,
+        correctExplanationJa: currentQuestion.correct_explanation_ja,
+        correctExplanationEn: currentQuestion.correct_explanation_en,
         userAnswer: userAnswer,
         isCorrect: isCorrect
-    });
+        });
 
   currentIndex++;
 
@@ -162,15 +164,21 @@ function showResult() {
         <p class="text-slate-800 font-medium mb-1">${item.questionJa}</p>
         <p class="text-slate-600 mb-3">${item.questionEn}</p>
 
-        <p class="${item.isCorrect ? 'text-green-600' : 'text-red-600'} font-medium">
+        <p class="${item.isCorrect ? 'text-green-600' : 'text-red-600'} font-medium mb-1">
             Your answer: ${item.userAnswer ? "True" : "False"}
         </p>
-        <p class="text-slate-600">
+
+        <p class="text-slate-700 font-medium mb-3">
             Correct answer: ${item.correctAnswer ? "True" : "False"}
         </p>
+
+        <div class="bg-white border border-slate-200 rounded-xl p-3">
+            <p class="text-slate-800 font-medium mb-1">${item.correctExplanationJa || ""}</p>
+            <p class="text-slate-600 text-sm">${item.correctExplanationEn || ""}</p>
+        </div>
         </div>
     `;
-    }).join("");  
+    }).join(""); 
 
   sendResultToGoogleSheet();
 }
