@@ -97,5 +97,446 @@
     "answer": true,
     "correct_explanation_ja": "この標識は、最高速度が毎時50キロメートルであることを表している。",
     "correct_explanation_en": "This sign means that the maximum speed is 50 kilometers per hour."
+  },
+  {
+    "id": 12,
+    "image": "assets/signs/sign12.png",
+    "question_ja": "この標識は、二段階右折を禁止し、自動車と同様に道路中央から小回りで右折することを表している。",
+    "question_en": "This sign indicates that two-stage right turns are prohibited, and that you must make a sharp right turn from the center of the road in the same manner as an automobile.",
+    "answer": true,
+    "correct_explanation_ja": "この標識は、二段階右折を禁止し、自動車と同様に道路中央から小回りで右折することを表している。",
+    "correct_explanation_en": "This sign indicates that two-stage right turns are prohibited, and that you must make a sharp right turn from the center of the road in the same manner as an automobile."
+  },
+  {
+    "id": 13,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "徐行や停止をするときにも、合図をしなければならない。",
+    "question_en": "Even when slowing down or stopping, you must give a signal.",
+    "answer": true,
+    "correct_explanation_ja": "徐行や停止をするときには制動灯などで後続車に合図します。",
+    "correct_explanation_en": "When slowing down or stopping, you signal to the vehicles behind by using the brake light, etc."
+  },
+  {
+    "id": 14,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "前車が一般原動機付自転車を追い越そうとしているときに、その車を追い越しても二重追い越しにはならない。",
+    "question_en": "When the vehicle ahead is trying to overtake a standard motorized bicycle, overtaking that vehicle does not count as double overtaking.",
+    "answer": true,
+    "correct_explanation_ja": "先頭車両が「自動車」の場合は二重追い越し禁止ですが、先頭車両が「原動機付自転車」の場合には二重追い越しになりません。",
+    "correct_explanation_en": "If the lead vehicle is an automobile, double overtaking is prohibited; however, if the lead vehicle is a motorized bicycle, it is not considered double overtaking."
+  },
+  {
+    "id": 15,
+    "image": "assets/signs/sign1.png",
+    "question_ja": "この標識は、道路の右側部分へはみ出して追い越すことを禁止している。",
+    "question_en": "This sign prohibits overtaking by crossing over into the right side of the road.",
+    "answer": false,
+    "correct_explanation_ja": "この標識は、車両が通行できないことを表している。",
+    "correct_explanation_en": "This sign means that vehicles are not allowed to pass."
+  },
+  {
+    "id": 16,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "自動車を車道の左側端に停車していて発進しようとする場合の合図は、右折の場合と同じ要領でおこない安全確認をしなければならない。",
+    "question_en": "When a car is stopped at the left edge of the roadway and is about to start moving, the signal must be given in the same manner as for a right turn, and safety must be checked.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 17,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "四輪車の運転者は、左折しようとするとき、バックミラーでは見えない部分に二輪車や自転車がいることを予測し、方向指示器により自分の意思を知らせることが必要である。",
+    "question_en": "When a four-wheeled vehicle driver is about to turn left, they must anticipate that there may be motorcycles or bicycles in areas not visible in the rearview mirror, and must use the turn signal to indicate their intention.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 18,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "対向車のライトがまぶしいときは、視線をやや右前方に移して目がくらまないようにする。",
+    "question_en": "When the headlights of an oncoming vehicle are dazzling, you should shift your gaze slightly toward the front right so that you are not blinded.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 19,
+    "image": "assets/signs/sign18.png",
+    "question_ja": "この標識は、自動車や一般原動機付自転車及び軽車両は通行できないことを表わしている。",
+    "question_en": "This sign indicates that automobiles, standard motorized bicycles, and light vehicles are not allowed to pass.",
+    "answer": false,
+    "correct_explanation_ja": "この標識は「自動車組み合わせ通行止め」で、軽車両は通行できます。「車両通行止め」の標識の場合は軽車両も通行できません。",
+    "correct_explanation_en": "This sign means “No entry for combinations of motor vehicles,” and light vehicles are allowed to pass. In the case of the “No vehicles allowed” sign, light vehicles are also prohibited."
+  },
+  {
+    "id": 20,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "大型特殊免許で運転できるのは、大型特殊自動車、大型自動車、小型特殊自動車、一般原動機付自転車である。",
+    "question_en": "With a large special vehicle license, you may drive a large special vehicle, a large vehicle, a small special vehicle, and a standard motorized bicycle.",
+    "answer": false,
+    "correct_explanation_ja": "大型自動車は運転できません。",
+    "correct_explanation_en": "Large vehicles cannot be driven."
+  },
+  {
+    "id": 21,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "一般の車両は、交差点や交差点の付近で緊急自動車が近づいてきた場合は、交差点をさけて道路の左側に寄って一時停止をしなければならない。",
+    "question_en": "When an emergency vehicle approaches at or near an intersection, ordinary vehicles must avoid the intersection, move to the left side of the road, and make a temporary stop.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 22,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "仮運転免許では、練習又は路上試験（技能検定）を受ける場合のほかは路上で運転してはならない。",
+    "question_en": "A learner’s permit may not be used to drive on public roads except when practicing or taking a road test (skills test).",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 23,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "道路外の施設へ進入するため、歩道を横切るときは、歩行者のあるなしに係わらず、必ず一時停止して安全を確かめなければならない。",
+    "question_en": "When crossing a sidewalk in order to enter a facility off the road, you must always come to a full stop and check safety, regardless of whether there are pedestrians or not.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 24,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "進路変更をするときは、まず方向指示器で合図をしてから安全を確認する。",
+    "question_en": "When changing course, you first signal with the turn indicator and then check safety.",
+    "answer": false,
+    "correct_explanation_ja": "まず安全確認をしてから合図を出します。",
+    "correct_explanation_en": "First, check for safety, and then give a signal."
+  },
+  {
+    "id": 25,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "信号機の信号が赤色になっても、交差点ですでに右折している車はそのまま進行することができる。",
+    "question_en": "Even if the traffic signal turns red, a vehicle that is already turning right in the intersection may continue forward.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 26,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "障害物がある場所ですれちがうときは、障害物のある方を進行する車が優先して通行することが出来る。",
+    "question_en": "When passing each other at a place with an obstacle, the vehicle traveling on the side with the obstacle has priority.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 27,
+    "image": "assets/signs/sign17.png",
+    "question_ja": "図の交差点にさしかかったＡ車はアの交差点の手前で徐行しなければならない。",
+    "question_en": "Vehicle A, approaching the intersection shown in the figure, must slow down before the intersection marked 'A.'",
+    "answer": false,
+    "correct_explanation_ja": "中央線が交差点内に引かれているので、Ａ車が進行している道路が優先道路です。優先道路を進行している場合は必ずしもアで徐行する必要はありません。",
+    "correct_explanation_en": "Because the center line is marked within the intersection, the road on which Vehicle A is traveling is the priority road. If you are traveling on a priority road, it is not always necessary to slow down at point A."
+  },
+  {
+    "id": 28,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "歩行者や自転車のそばを通るときは、必ず徐行しなければならない。",
+    "question_en": "When passing near pedestrians or bicycles, you must always slow down.",
+    "answer": false,
+    "correct_explanation_ja": "安全な間隔がとれる場合は徐行しなくてよいことになっています。「必ず」という言葉があるときは、よく考えましょう。",
+    "correct_explanation_en": "If a safe distance can be maintained, there is no need to slow down. Whenever the word “always” appears, you should think carefully."
+  },
+  {
+    "id": 29,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "車両は、車両通行帯の有無に関係なく、トンネルの中は追い越しが禁止されている。",
+    "question_en": "Vehicles are prohibited from overtaking inside a tunnel, regardless of whether there are marked traffic lanes or not.",
+    "answer": false,
+    "correct_explanation_ja": "車両通行帯があれば追い越しは可能です（標識標示で禁止されている場合を除きます。)",
+    "correct_explanation_en": "If there is a marked traffic lane, overtaking is permitted (unless prohibited by signs or road markings)."
+  },
+  {
+    "id": 30,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "自動車や一般原動機付自転車は、交通が混雑している道路で路側帯があるときには、その路側帯の中を通行することができる。",
+    "question_en": "Automobiles and standard motorized bicycles may travel in the roadside strip when traffic is congested and such a strip is present.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 31,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "前方の交差点を左折しようとするときは、左側を通行する車の安全を考え、道路の中央に寄ってから徐行しながら左折する。",
+    "question_en": "When turning left at the intersection ahead, in consideration of vehicles traveling on the left side, you should move toward the center of the road and then turn left while slowing down.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 32,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "車両は、停留所に止まっている路線バスに追いついたときは、一時停止しバスが発進するまでその横を通過してはならない。",
+    "question_en": "When a vehicle catches up with a route bus stopped at a bus stop, it must stop temporarily and must not pass alongside it until the bus starts moving.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 33,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "仮運転免許は、第一種運転免許を受けようとする者が練習のため大型自動車、中型自動車、準中型自動車、普通自動車又は大型特殊自動車を運転しようとする場合に必要な免許である。",
+    "question_en": "A learner’s permit is required when a person seeking to obtain a first-class driver’s license intends to practice driving a large vehicle, medium-sized vehicle, semi-medium-sized vehicle, ordinary vehicle, or large special vehicle.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 34,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "車は、横断歩道のない交差点や、その近くを歩行者が横断しているときは、その通行を妨げてはいけません。",
+    "question_en": "A car must not obstruct a pedestrian crossing at or near an intersection that has no crosswalk.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 35,
+    "image": "assets/signs/sign15.png",
+    "question_ja": "この警察官の灯火による信号の意味は、矢印の方向から接近する交通に対する信号機の青色の灯火の信号と同じである。",
+    "question_en": "The meaning of this police officer’s light signal is the same as the green traffic signal for traffic approaching from the direction of the arrow.",
+    "answer": false,
+    "correct_explanation_ja": "これは赤色の灯火と同じ意味です。警察官の体に対面（背面）する交通に対しては腕の状態にかかわらず「赤色」、警察官の体に平行する交通に対しては腕が上に上がっている状態は「黄色」、それ以外は「青色」と覚えておきましょう。",
+    "correct_explanation_en": "This has the same meaning as a red light. Remember it this way: for traffic facing the police officer’s front or back, it means “red” regardless of the position of the officer’s arms; for traffic parallel to the police officer’s body, if the arm is raised upward it means “yellow,” and in all other cases it means “green.”"
+  },
+  {
+    "id": 36,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "運転免許には、第一種運転免許、第二種運転免許及び仮運転免許の三種がある。",
+    "question_en": "There are three types of driver’s licenses: first-class, second-class, and learner’s permit.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 37,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "一般の通行車両が一方通行の道路で緊急自動車に進路をゆずる場合は、左側に寄るとかえってさまたげになるときは道路の右側に寄らなければならない。",
+    "question_en": "When an ordinary vehicle on a one-way road gives way to an emergency vehicle, if moving to the left would instead obstruct it, the vehicle must move to the right side of the road.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 38,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "路面に図のような標示があるときは、その前方に交差点があることを示している。",
+    "question_en": "When there is a road marking as shown in the figure, it indicates that there is an intersection ahead.",
+    "answer": false,
+    "correct_explanation_ja": "これは「前方に横断歩道・自転車横断帯あり」です。",
+    "correct_explanation_en": "This means “Pedestrian crossing and bicycle crossing ahead.”"
+  },
+  {
+    "id": 39,
+    "image": "assets/signs/sign14.png",
+    "question_ja": "この標識は、この先の道路が右カーブになっていることを表わしている。",
+    "question_en": "This sign indicates that the road ahead curves to the right.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 40,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "自動車を運転して右折するときは、あらかじめその前からできる限り道路の中央に寄り、交差点の中心のすぐ内側（標識などによって、通行すべきところが指定されているときは、その指定されたところ）を徐行しなければならない。",
+    "question_en": "When driving a car and making a right turn, you must beforehand move as close as possible to the center of the road and proceed slowly just inside the center of the intersection (or through the designated place if signs, etc. specify where to pass).",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 41,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "自動車を運転して追い越しを始めるときは、ハンドル操作を手ぎわよくするため、あらかじめ前車との車間距離を短くしてから始めるのがよい。",
+    "question_en": "When starting to overtake while driving a car, it is better to shorten the following distance to the vehicle ahead in advance so that steering can be handled quickly.",
+    "answer": false,
+    "correct_explanation_ja": "車間距離を詰めるのは危険です。安全な車間距離をとって追い越しができるまで待ってから追い越しをします。",
+    "correct_explanation_en": "It is dangerous to shorten the distance between vehicles. Maintain a safe following distance and wait until it is safe to overtake before doing so."
+  },
+  {
+    "id": 42,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "車両は、車両通行帯のある道路では、追い越しなどでやむを得ない場合のほかは二つの車両通行帯にまたがって通行してはならない。",
+    "question_en": "On a road with traffic lanes, a vehicle must not straddle two lanes except when unavoidable, such as when overtaking.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 43,
+    "image": "assets/signs/sign13.png",
+    "question_ja": "この標識は、「横断歩道」を表わしている。",
+    "question_en": "This sign indicates a pedestrian crossing.",
+    "answer": false,
+    "correct_explanation_ja": "この警戒標識は「付近に学校などがある」ことを意味しています。",
+    "correct_explanation_en": "This warning sign means that there is a school or similar facility nearby."
+  },
+  {
+    "id": 44,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "交通整理中の警察官が腕を垂直に上げているとき、警察官の身体の正面に対面する交通については、信号機の赤色の灯火の信号と同じ意味である。",
+    "question_en": "When a police officer directing traffic raises one arm vertically, for traffic facing the front of the officer’s body, it has the same meaning as a red traffic signal.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 45,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "車両等は、一時停止の標識があるときは停止線の直前で、停止線がないときは交差点の直前で一時停止しなければならない。",
+    "question_en": "When there is a stop sign, vehicles must stop immediately before the stop line; if there is no stop line, they must stop immediately before the intersection.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 46,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "歩行者が横断歩道以外の場所を横断しているときは、車の方が優先するので警音器を鳴らして、走行すればよい。",
+    "question_en": "When a pedestrian is crossing somewhere other than a crosswalk, the car has priority, so it is fine to sound the horn and keep driving.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 47,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "車両等は、横断歩道に近づいた場合、歩行者が横断しているときは一時停止しなければならないが、これから横断しようとしている場合は徐行すれば通行してもよい。",
+    "question_en": "When approaching a crosswalk, a vehicle must stop temporarily if a pedestrian is crossing; however, if a pedestrian is only about to cross, it may proceed if it slows down.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 48,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "仮運転免許で路上練習をする場合は、「初心者マーク」を車の前後につけなければならない。",
+    "question_en": "When practicing on public roads with a learner’s permit, a 'beginner driver mark' must be displayed on the front and rear of the car.",
+    "answer": false,
+    "correct_explanation_ja": "仮免許で運転するときに付けるのは「仮免許練習標識」です。",
+    "correct_explanation_en": "When driving with a learner’s permit, the sign that must be displayed is the “Learner’s Permit Practice” sign."
+  },
+  {
+    "id": 49,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "自動車または一般原動機付自転車を運転中、横断歩道や自転車横断帯の手前で止まっている車があるときは、その側方を通過して前方に出る前に一時停止しなければならない。",
+    "question_en": "When driving an automobile or a standard motorized bicycle, if there is a vehicle stopped before a crosswalk or bicycle crossing zone, you must stop temporarily before passing it on the side and moving ahead.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 50,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "交通整理の行われていない交差点で、道幅が同じである場合は、左方からの車にゆずる。",
+    "question_en": "At an intersection not controlled by traffic signals or police, if the roads are of equal width, you must yield to vehicles coming from the left.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 51,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "普通貨物自動車（ミニカーを除く）の一般道路での法定最高速度は50キロメートル毎時である。",
+    "question_en": "The legal maximum speed on ordinary roads for an ordinary freight vehicle (excluding minicars) is 50 kilometers per hour.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 52,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "正面の信号が青色のときは、車は直進し、左折し、右折することができる。",
+    "question_en": "When the traffic signal ahead is green, a car may go straight, turn left, or turn right.",
+    "answer": false,
+    "correct_explanation_ja": "自動車は直進、左折、右折できますが、軽車両は右折できません。",
+    "correct_explanation_en": "Automobiles may go straight, turn left, or turn right, but light vehicles may not turn right."
+  },
+  {
+    "id": 53,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "右折するときには内輪差は生じない。",
+    "question_en": "When turning right, off-tracking does not occur.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 54,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "歩道と車道の区別のない道路で、車が歩行者のそばを通るときは必ず徐行しなければならない。",
+    "question_en": "On a road where there is no distinction between sidewalk and roadway, a car must always slow down when passing near pedestrians.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 55,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "児童、幼児の乗り降りのため停止している通学・通園バスの側方を通るとき、バスとの間に安全な間隔がとれれば徐行しないで通ってもよい。",
+    "question_en": "When passing alongside a school bus or kindergarten bus stopped for children getting on or off, if there is a safe distance between your vehicle and the bus, you may pass without slowing down.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 56,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "車両は一方通行になっている道路では道路の中央から右の部分にはみ出して通行することができる。",
+    "question_en": "On a one-way road, vehicles may travel extending into the area to the right of the center of the road.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 57,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "バスや路面電車の停留所から10メートル以内は追い越しが禁止されている（運行時間外を除く）。",
+    "question_en": "Overtaking is prohibited within 10 meters of a bus stop or streetcar stop, except outside service hours.",
+    "answer": false,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 58,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "大型乗用自動車の一般道路での法定最高速度は60キロメートル毎時である。",
+    "question_en": "The legal maximum speed on ordinary roads for a large passenger vehicle is 60 kilometers per hour.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
+  },
+  {
+    "id": 59,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "停止距離とは、ブレーキがきき始めてから車が停止するまでの距離をいう。",
+    "question_en": "Stopping distance means the distance from when the brakes begin to take effect until the vehicle comes to a stop.",
+    "answer": false,
+    "correct_explanation_ja": "ブレーキがきき始めてから停止するまでの距離は制動距離です。",
+    "correct_explanation_en": "The distance from the moment the brakes begin to take effect until the vehicle stops is called the braking distance."
+  },
+  {
+    "id": 60,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "重い荷物を積んでいるときは、制動距離が長くなる。",
+    "question_en": "When carrying a heavy load, the braking distance becomes longer.",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": ""
   }
 ]

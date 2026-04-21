@@ -17,6 +17,7 @@ const falseBtn = document.getElementById("falseBtn");
 
 const resultName = document.getElementById("resultName");
 const scoreText = document.getElementById("scoreText");
+const passStatus = document.getElementById("passStatus");
 const resultDetail = document.getElementById("resultDetail");
 const submitStatus = document.getElementById("submitStatus");
 const restartBtn = document.getElementById("restartBtn");
@@ -53,12 +54,12 @@ function startQuiz() {
     return;
   }
 
-  if (allQuestions.length < 10) {
-    alert("The question database must contain at least 10 questions.");
+  if (allQuestions.length < 30) {
+    alert("The question database must contain at least 30 questions.");
     return;
   }
 
-  selectedQuestions = shuffleArray(allQuestions).slice(0, 10);
+  selectedQuestions = shuffleArray(allQuestions).slice(0, 30);
   currentIndex = 0;
   score = 0;
   userAnswers = [];
@@ -108,11 +109,13 @@ function handleAnswer(userAnswer) {
 }
 
 async function sendResultToGoogleSheet() {
+  const wrongAnswersOnly = userAnswers.filter(item => !item.isCorrect);
+
   const payload = {
     name: userName,
     score: score,
     total: selectedQuestions.length,
-    answers: userAnswers
+    answers: wrongAnswersOnly
   };
 
   try {
@@ -149,6 +152,14 @@ function showResult() {
 
   resultName.textContent = `Name: ${userName}`;
   scoreText.textContent = `${score} / ${selectedQuestions.length}`;
+
+  if (score >= 25) {
+    passStatus.textContent = "合格 (Passed)";
+    passStatus.className = "text-center text-2xl font-bold mb-6 text-green-600";
+  } else {
+    passStatus.textContent = "不合格 (Failed)";
+    passStatus.className = "text-center text-2xl font-bold mb-6 text-red-600";
+  }
 
   resultDetail.innerHTML = userAnswers.map((item, index) => {
     return `
@@ -192,6 +203,7 @@ restartBtn.addEventListener("click", () => {
   startScreen.classList.remove("hidden");
   userNameInput.value = "";
   submitStatus.textContent = "";
+  passStatus.textContent = "";
 });
 
 (async function init() {
