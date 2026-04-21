@@ -196,7 +196,7 @@ function showResult() {
       <img
         src="${item.image}"
         alt="Traffic Sign ${index + 1}"
-        class="w-full max-h-56 object-contain bg-white rounded-xl border border-slate-200 mb-4"
+        class="w-full max-h-24 object-contain bg-white rounded-xl border border-slate-200 mb-4"
       />
 
       <div class="space-y-2 mb-3">

@@ -778,5 +778,250 @@
     "correct_explanation_en": "",
     "correct_explanation_ne": "",
     "correct_explanation_hi": ""
+  }, 
+  {
+    "id": 61,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "横断禁止や転回禁止の標識のある道路では、後退もしてはいけない。",
+    "question_en": "On roads where there are signs prohibiting crossing or U-turns, reversing is also prohibited.",
+    "question_ne": "जहाँ क्रस गर्न वा यू-टर्न गर्न निषेध गर्ने चिन्ह छ, त्यस्ता सडकमा पछाडि हट्न पनि पाइँदैन।",
+    "question_hi": "जिन सड़कों पर पार करने या यू-टर्न करने पर प्रतिबंध का संकेत हो, वहाँ पीछे जाना भी मना है।",
+    "answer": false,
+    "correct_explanation_ja": "横断や転回が禁止されていても、後退まで禁止されているわけではありません。",
+    "correct_explanation_en": "Even if crossing or making a U-turn is prohibited, reversing is not necessarily prohibited.",
+    "correct_explanation_ne": "क्रस गर्नु वा यू-टर्न गर्न निषेध भए पनि, पछाडि हट्नु अनिवार्य रूपमा निषेध हुँदैन।",
+    "correct_explanation_hi": "भले ही पार करना या यू-टर्न लेना प्रतिबंधित हो, लेकिन पीछे जाना आवश्यक रूप से प्रतिबंधित नहीं होता।"
+  }, 
+  {
+    "id": 62,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "初心運転者期間に交通違反などをして再試験対象初心運転者となり、再試験に不合格になると免許が取り消される。",
+    "question_en": "If, during the beginner driver period, a driver commits traffic violations and becomes subject to a re-examination, failing that re-examination will result in the cancellation of the license.",
+    "question_ne": "नवशिक्षार्थी चालक अवधिमा ट्राफिक उल्लंघन आदि गरेर पुनःपरीक्षाको 대상 बनेपछि, पुनःपरीक्षामा असफल भए लाइसेन्स रद्द गरिन्छ।",
+    "question_hi": "यदि प्रारंभिक चालक अवधि के दौरान यातायात उल्लंघन आदि करके चालक पुनर्परीक्षा के लिए पात्र बन जाता है, तो पुनर्परीक्षा में असफल होने पर उसका लाइसेंस रद्द कर दिया जाता है।",
+    "answer": true,
+    "correct_explanation_ja": "初心運転者期間中に一定の違反をして再試験対象となり、再試験に合格しないと免許は取り消されます。",
+    "correct_explanation_en": "If a beginner driver commits certain violations during the beginner period and becomes subject to a re-examination, the license will be canceled if the driver does not pass the re-examination.",
+    "correct_explanation_ne": "नवशिक्षार्थी चालक अवधिमा निश्चित उल्लंघन गरी पुनःपरीक्षाको 대상 बनेपछि, पुनःपरीक्षामा उत्तीर्ण नभए लाइसेन्स रद्द हुन्छ।",
+    "correct_explanation_hi": "प्रारंभिक चालक अवधि में कुछ निश्चित उल्लंघन करके यदि चालक पुनर्परीक्षा के लिए पात्र बनता है, तो पुनर्परीक्षा पास न करने पर लाइसेंस रद्द कर दिया जाता है।"
+  }, {
+    "id": 63,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "タクシーはグリーンナンバーを付けているので、修理や回送などの時でも二種免許保持者でなければ運転してはならない。",
+    "question_en": "Because taxis have green license plates, they may not be driven by anyone other than a holder of a second-class license, even when being repaired or moved.",
+    "question_ne": "ट्याक्सीमा हरियो नम्बर प्लेट भएको कारण, मर्मत वा सार्ने जस्ता अवस्थामा पनि दोस्रो श्रेणीको लाइसेन्स भएको व्यक्तिले मात्र चलाउन पाउँछ।",
+    "question_hi": "टैक्सी पर हरी नंबर प्लेट होने के कारण, मरम्मत या वाहन स्थानांतरण जैसी स्थिति में भी उसे केवल द्वितीय श्रेणी लाइसेंसधारी ही चला सकता है।",
+    "answer": false,
+    "correct_explanation_ja": "タクシーであっても、旅客を運送しない修理や回送などの場合は、二種免許がなくても運転できる場合があります。",
+    "correct_explanation_en": "Even for a taxi, when it is being repaired or moved without carrying passengers, it may be driven without a second-class license.",
+    "correct_explanation_ne": "ट्याक्सी भए पनि, यात्रु नबोक्ने मर्मत वा सार्ने जस्ता अवस्थामा दोस्रो श्रेणीको लाइसेन्स बिना पनि चलाउन सकिने हुन्छ।",
+    "correct_explanation_hi": "टैक्सी होने पर भी, यदि वह यात्रियों को नहीं ले जा रही है, जैसे मरम्मत या स्थानांतरण के समय, तो उसे द्वितीय श्रेणी लाइसेंस के बिना भी चलाया जा सकता है।"
+  }
+, {
+    "id": 64,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "交通整理中の警察官が腕を垂直に上げているとき、警察官の身体の正面に対面する交通については、信号機の黄信号と同じ意味である。",
+    "question_en": "When a police officer directing traffic raises an arm vertically, for traffic facing the front of the officer’s body, it has the same meaning as a yellow traffic signal.",
+    "question_ne": "ट्राफिक नियन्त्रण गरिरहेका प्रहरी अधिकारीले हात ठाडो माथि उठाएको बेला, उनको शरीरको अगाडिबाट सामना गरिरहेको यातायातका लागि यसको अर्थ पहेंलो बत्तीसरह हुन्छ।",
+    "question_hi": "जब ट्रैफिक नियंत्रित कर रहा पुलिस अधिकारी अपना हाथ सीधा ऊपर उठाता है, तो उसके शरीर के सामने की दिशा से आने वाले यातायात के लिए उसका अर्थ पीली बत्ती के समान होता है।",
+    "answer": false,
+    "correct_explanation_ja": "これは赤色の灯火と同じ意味です。警察官の体に対面（背面）する交通に対しては腕の状態にかかわらず「赤色」、警察官の体に平行する交通に対しては腕が上に上がっている状態は「黄色」、それ以外は「青色」と覚えておきましょう。",
+    "correct_explanation_en": "This has the same meaning as a red light. Remember it this way: for traffic facing the police officer’s front or back, it means 'red' regardless of the position of the officer’s arms; for traffic parallel to the police officer’s body, if the arm is raised upward it means 'yellow,' and in all other cases it means 'green.'",
+    "correct_explanation_ne": "यो रातो बत्तीको जस्तै अर्थ हुन्छ। यसरी सम्झनुहोस्: प्रहरीको शरीरको अगाडि वा पछाडि सिधै सामना गर्ने यातायातका लागि हातको अवस्थासँग सम्बन्ध नभई 'रातो' हुन्छ; प्रहरीको शरीरसँग समानान्तर यातायातका लागि हात माथि उठेको अवस्थामा 'पहेंलो' हुन्छ; अन्य अवस्थामा 'हरियो' हुन्छ।",
+    "correct_explanation_hi": "यह लाल बत्ती के समान अर्थ रखता है। इसे ऐसे याद रखें: पुलिस अधिकारी के शरीर के सामने या पीछे की दिशा से आने वाले यातायात के लिए, हाथ की स्थिति चाहे जो हो, अर्थ 'लाल' होता है; अधिकारी के शरीर के समानांतर यातायात के लिए, यदि हाथ ऊपर उठा हो तो अर्थ 'पीला' होता है; और बाकी सभी स्थितियों में 'हरा' होता है।"
+  }
+, {
+    "id": 65,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "普通貨物自動車の一般道路における法定速度は６０キロメートル毎時である。",
+    "question_en": "The legal speed limit for an ordinary freight vehicle on ordinary roads is 60 kilometers per hour.",
+    "question_ne": "साधारण मालवाहक सवारीसाधनको सामान्य सडकमा कानुनी गति सीमा प्रतिघण्टा ६० किलोमिटर हो।",
+    "question_hi": "सामान्य सड़कों पर साधारण मालवाहक वाहन की कानूनी गति सीमा 60 किलोमीटर प्रति घंटा है।",
+    "answer": true,
+    "correct_explanation_ja": "普通貨物自動車（ミニカーを除く）の一般道路での法定最高速度は60キロメートル毎時である。",
+    "correct_explanation_en": "The legal maximum speed on ordinary roads for an ordinary freight vehicle (excluding minicars) is 60 kilometers per hour.",
+    "correct_explanation_ne": "साधारण मालवाहक सवारीसाधन (मिनिकार बाहेक) को सामान्य सडकमा कानुनी अधिकतम गति प्रतिघण्टा ६० किलोमिटर हो।",
+    "correct_explanation_hi": "सामान्य सड़कों पर सामान्य मालवाहक वाहन (मिनीकार को छोड़कर) की कानूनी अधिकतम गति 60 किलोमीटर प्रति घंटा है।"
+  }
+, {
+    "id": 66,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "トンネルの中では、原則として追い越しは禁止されている。",
+    "question_en": "Inside a tunnel, overtaking is prohibited in principle.",
+    "question_ne": "सुरुङभित्र, सिद्धान्ततः ओभरटेक गर्न निषेध गरिएको हुन्छ।",
+    "question_hi": "टनल के अंदर, सिद्धांततः ओवरटेक करना प्रतिबंधित होता है।",
+    "answer": false,
+    "correct_explanation_ja": "車両通行帯があれば追い越しは可能です（標識標示で禁止されている場合を除きます。)",
+    "correct_explanation_en": "If there is a marked traffic lane, overtaking is permitted (unless prohibited by signs or road markings).",
+    "correct_explanation_ne": "यदि स्पष्ट रूपमा छुट्ट्याइएको ट्राफिक लेन छ भने, ओभरटेक गर्न पाइन्छ (तर चिन्ह वा सडक चिन्हाङ्कनले निषेध गरेको अवस्थामा बाहेक)।",
+    "correct_explanation_hi": "यदि चिह्नित ट्रैफिक लेन हो, तो ओवरटेक करना संभव है (जब तक कि संकेत या सड़क चिह्नों द्वारा मना न किया गया हो)।"
+  }
+, {
+    "id": 67,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "「高齢車マーク」を付けて、高齢者が運転している車両の側方に幅よせしてはならない。",
+    "question_en": "You must not crowd or squeeze alongside a vehicle being driven by an elderly person displaying the elderly driver mark.",
+    "question_ne": "‘ज्येष्ठ चालक चिन्ह’ लगाएको वृद्ध व्यक्तिले चलाएको सवारीको छेउमा नजिकिएर थिच्न वा साँघुरो पार्न हुँदैन।",
+    "question_hi": "‘वरिष्ठ चालक चिह्न’ लगाए हुए वृद्ध चालक के वाहन के बगल में दबाव डालते हुए बहुत पास नहीं जाना चाहिए।",
+    "answer": true,
+    "correct_explanation_ja": "高齢運転者標識を付けた車に対して、幅寄せや無理な進路変更などで通行を妨げてはいけません。",
+    "correct_explanation_en": "You must not obstruct a vehicle displaying the elderly driver mark by squeezing it, crowding it, or making an unreasonable lane change near it.",
+    "correct_explanation_ne": "ज्येष्ठ चालक चिन्ह भएको सवारीलाई थिचेर, धेरै नजिकिएर वा अनुचित रूपमा लेन परिवर्तन गरेर अवरोध गर्नु हुँदैन।",
+    "correct_explanation_hi": "वरिष्ठ चालक चिह्न लगे वाहन को बहुत पास से दबाकर, घेरकर या अनुचित रूप से लेन बदलकर बाधित नहीं करना चाहिए।"
+  }
+, {
+    "id": 68,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "路線バス専用通行帯であっても、一般原動機付自転車、小型特殊自動車、軽車両は通行することができる。",
+    "question_en": "Even in a lane reserved exclusively for route buses, standard motorized bicycles, small special vehicles, and light vehicles may use it.",
+    "question_ne": "रुट बसका लागि मात्र तोकिएको लेनमा पनि साधारण मोटरयुक्त साइकल, सानो विशेष सवारी र हल्का सवारी चल्न सक्छन्।",
+    "question_hi": "केवल रूट बसों के लिए निर्धारित लेन में भी सामान्य मोटरयुक्त साइकिल, छोटे विशेष वाहन और हल्के वाहन चल सकते हैं।",
+    "answer": true,
+    "correct_explanation_ja": "路線バス専用通行帯でも、一般原動機付自転車、小型特殊自動車、軽車両は通行することができます。",
+    "correct_explanation_en": "Even in a lane reserved for route buses, standard motorized bicycles, small special vehicles, and light vehicles are allowed to use it.",
+    "correct_explanation_ne": "रुट बसका लागि आरक्षित लेनमा पनि साधारण मोटरयुक्त साइकल, सानो विशेष सवारी र हल्का सवारी चल्न पाउँछन्।",
+    "correct_explanation_hi": "रूट बस के लिए आरक्षित लेन में भी सामान्य मोटरयुक्त साइकिल, छोटे विशेष वाहन और हल्के वाहन चल सकते हैं।"
+  }
+, {
+    "id": 69,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "追い越し禁止の道路であっても、一般原動機付自転車を追い越すことは違反にならない。",
+    "question_en": "Even on a road where overtaking is prohibited, overtaking a standard motorized bicycle is not a violation.",
+    "question_ne": "ओभरटेक निषेध भएको सडकमा पनि साधारण मोटरयुक्त साइकललाई ओभरटेक गर्नु उल्लंघन हुँदैन।",
+    "question_hi": "ओवरटेकिंग निषिद्ध सड़क पर भी सामान्य मोटरयुक्त साइकिल को ओवरटेक करना उल्लंघन नहीं है।",
+    "answer": false,
+    "correct_explanation_ja": "追い越し禁止の道路では、一般原動機付自転車であっても追い越しは違反になります。",
+    "correct_explanation_en": "On a road where overtaking is prohibited, overtaking even a standard motorized bicycle is a violation.",
+    "correct_explanation_ne": "ओभरटेक निषेध भएको सडकमा साधारण मोटरयुक्त साइकललाई ओभरटेक गर्नु पनि उल्लंघन हुन्छ।",
+    "correct_explanation_hi": "जहाँ ओवरटेक करना मना है, वहाँ सामान्य मोटरयुक्त साइकिल को ओवरटेक करना भी उल्लंघन है।"
+  }
+, {
+    "id": 70,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "対面する信号機が青色になった場合は、どんな場合でも直ちに発進しなければならない。",
+    "question_en": "When the traffic signal facing you turns green, you must start immediately in all cases.",
+    "question_ne": "तपाईंको अगाडि भएको ट्राफिक बत्ती हरियो भएपछि, जुनसुकै अवस्थामा पनि तुरुन्तै अघि बढ्नुपर्छ।",
+    "question_hi": "जब सामने की ट्रैफिक लाइट हरी हो जाए, तो हर स्थिति में तुरंत चलना शुरू करना चाहिए।",
+    "answer": false,
+    "correct_explanation_ja": "青信号になっても、周囲の安全を確認してから発進しなければなりません。どんな場合でも直ちに発進するわけではありません。",
+    "correct_explanation_en": "Even when the light turns green, you must first confirm that it is safe before starting. You do not have to start immediately in every situation.",
+    "correct_explanation_ne": "बत्ती हरियो भए पनि, सुरु गर्नु अघि वरिपरिको सुरक्षा पुष्टि गर्नुपर्छ। हरेक अवस्थामा तुरुन्तै अघि बढ्नुपर्ने होइन।",
+    "correct_explanation_hi": "बत्ती हरी होने पर भी, चलना शुरू करने से पहले आसपास की सुरक्षा की पुष्टि करनी चाहिए। हर स्थिति में तुरंत चलना आवश्यक नहीं है।"
+  }, {
+    "id": 71,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "横断歩道の直前で停止している一般原動機付自転車があるときは、他の車両は徐行して通過しなければならない。",
+    "question_en": "When there is a standard motorized bicycle stopped immediately before a crosswalk, other vehicles must slow down and pass.",
+    "question_ne": "यदि जेब्रा क्रसिङको ठीक अगाडि एउटा साधारण मोटरयुक्त साइकल रोकिएको छ भने, अन्य सवारीसाधनले बिस्तारै चलाएर पास गर्नुपर्छ।",
+    "question_hi": "यदि ज़ेब्रा क्रॉसिंग के ठीक पहले एक सामान्य मोटरयुक्त साइकिल रुकी हुई है, तो अन्य वाहनों को धीमी गति से गुजरना चाहिए।",
+    "answer": false,
+    "correct_explanation_ja": "横断歩道や自転車横断帯の手前で止まっている車両などがあるときは、その側方を通過して前方に出る前に一時停止しなければなりません。",
+    "correct_explanation_en": "When there is a vehicle stopped before a crosswalk or bicycle crossing, you must come to a full stop before passing it on the side and moving ahead.",
+    "correct_explanation_ne": "यदि जेब्रा क्रसिङ वा साइकल क्रसिङभन्दा अगाडि कुनै सवारी रोकिएको छ भने, त्यसको छेउबाट अघि निस्कनुअघि पूर्ण रूपमा रोकिनुपर्छ।",
+    "correct_explanation_hi": "यदि ज़ेब्रा क्रॉसिंग या साइकिल क्रॉसिंग से पहले कोई वाहन रुका हुआ है, तो उसके बगल से आगे निकलने से पहले पूरी तरह रुकना आवश्यक है।"
+  }
+, {
+    "id": 72,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "赤点滅信号の意味は、一時停止の標識の意味と同じである。",
+    "question_en": "A flashing red signal has the same meaning as a stop sign.",
+    "question_ne": "रातो झिम्किने सिग्नलको अर्थ स्टप चिन्हसँग समान हुन्छ।",
+    "question_hi": "लाल टिमटिमाती बत्ती का अर्थ स्टॉप संकेत के समान होता है।",
+    "answer": true,
+    "correct_explanation_ja": "赤点滅信号では一時停止し、安全を確認してから進行しなければならず、一時停止の標識と同じ意味です。",
+    "correct_explanation_en": "At a flashing red signal, you must come to a full stop and proceed only after confirming safety, so it has the same meaning as a stop sign.",
+    "correct_explanation_ne": "रातो झिम्किने सिग्नलमा पूर्ण रूपमा रोकिनु पर्छ र सुरक्षा पुष्टि गरेपछि मात्र अघि बढ्नुपर्छ, त्यसैले यसको अर्थ स्टप चिन्हसँग समान हुन्छ।",
+    "correct_explanation_hi": "लाल टिमटिमाती बत्ती पर पूरी तरह रुकना और सुरक्षा की पुष्टि के बाद ही आगे बढ़ना होता है, इसलिए इसका अर्थ स्टॉप संकेत जैसा ही है।"
+  }
+, {
+    "id": 73,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "小型特殊自動車の免許では一般原動機付自転車も運転することができる。",
+    "question_en": "With a small special vehicle license, you can also drive a standard motorized bicycle.",
+    "question_ne": "सानो विशेष सवारीको लाइसेन्सले साधारण मोटरयुक्त साइकल पनि चलाउन सकिन्छ।",
+    "question_hi": "छोटे विशेष वाहन के लाइसेंस से सामान्य मोटरयुक्त साइकिल भी चलाई जा सकती है।",
+    "answer": false,
+    "correct_explanation_ja": "小型特殊免許で運転できるのは小型特殊自動車であり、一般原動機付自転車は運転できません。",
+    "correct_explanation_en": "A small special vehicle license allows you to drive only small special vehicles, and it does not allow you to drive a standard motorized bicycle.",
+    "correct_explanation_ne": "सानो विशेष सवारीको लाइसेन्सले केवल सानो विशेष सवारी मात्र चलाउन दिन्छ; साधारण मोटरयुक्त साइकल चलाउन पाइँदैन।",
+    "correct_explanation_hi": "छोटे विशेष वाहन का लाइसेंस केवल छोटे विशेष वाहन चलाने की अनुमति देता है; इससे सामान्य मोटरयुक्त साइकिल नहीं चलाई जा सकती।"
+  }
+, {
+    "id": 74,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "運転免許証または、免許情報記録個人番号カードを携帯しないで運転をすると無免許運転となる。",
+    "question_en": "Driving without carrying your driver's license or your My Number card with license information recorded on it is considered unlicensed driving.",
+    "question_ne": "ड्राइभर लाइसेन्स वा लाइसेन्स जानकारी अभिलेख गरिएको माई नम्बर कार्ड साथमा नराखी गाडी चलाउँदा, त्यो बिना लाइसेन्स चलाएको मानिन्छ।",
+    "question_hi": "ड्राइविंग लाइसेंस या लाइसेंस जानकारी दर्ज माई नंबर कार्ड साथ में रखे बिना वाहन चलाना बिना लाइसेंस चलाना माना जाता है।",
+    "answer": false,
+    "correct_explanation_ja": "免許証などを携帯せずに運転するのは免許証不携帯であり、無免許運転ではありません。",
+    "correct_explanation_en": "Driving without carrying your license is a violation for not carrying your license, but it is not the same as unlicensed driving.",
+    "correct_explanation_ne": "लाइसेन्स साथमा नराखी चलाउनु लाइसेन्स बोक्न बिर्सिएको उल्लंघन हो, तर त्यो बिना लाइसेन्स चलाएको भने होइन।",
+    "correct_explanation_hi": "लाइसेंस साथ में न रखकर वाहन चलाना लाइसेंस साथ न रखने का उल्लंघन है, लेकिन यह बिना लाइसेंस चलाना नहीं है।"
+  }
+, {
+    "id": 75,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "転回の合図を出す時期は右折の合図を出す時期と同じである。",
+    "question_en": "The timing for giving a signal for a U-turn is the same as the timing for giving a signal for a right turn.",
+    "question_ne": "यू-टर्नको संकेत दिने समय दायाँ मोड्ने संकेत दिने समयसँग समान हुन्छ।",
+    "question_hi": "यू-टर्न का संकेत देने का समय दाएँ मुड़ने के संकेत देने के समय के समान होता है।",
+    "answer": true,
+    "correct_explanation_ja": "転回の合図を出す時期は、右折の合図を出す時期と同じです。",
+    "correct_explanation_en": "The timing for signaling a U-turn is the same as the timing for signaling a right turn.",
+    "correct_explanation_ne": "यू-टर्नको संकेत दिने समय दायाँ मोड्ने संकेत दिने समयसँग समान हुन्छ।",
+    "correct_explanation_hi": "यू-टर्न का संकेत देने का समय दाएँ मुड़ने के संकेत देने के समय के समान होता है।"
+  }
+, {
+    "id": 76,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "普通免許取得後１年間は、普通自動車を運転する際に「初心者マーク」を車の前後につけなければならない。",
+    "question_en": "For one year after obtaining an ordinary driver's license, you must display a beginner driver mark on the front and rear of the car when driving an ordinary car.",
+    "question_ne": "साधारण ड्राइभिङ लाइसेन्स पाएपछि १ वर्षसम्म, साधारण गाडी चलाउँदा गाडीको अगाडि र पछाडि ‘बिगिनर मार्क’ लगाउनुपर्छ।",
+    "question_hi": "सामान्य ड्राइविंग लाइसेंस प्राप्त करने के बाद 1 वर्ष तक, सामान्य कार चलाते समय वाहन के आगे और पीछे ‘शुरुआती चालक चिह्न’ लगाना आवश्यक है।",
+    "answer": true,
+    "correct_explanation_ja": "普通免許取得後１年間は、普通自動車を運転するときに初心者マークを前後につけなければなりません。",
+    "correct_explanation_en": "For one year after obtaining an ordinary driver's license, you must display the beginner driver mark on the front and rear when driving an ordinary car.",
+    "correct_explanation_ne": "साधारण लाइसेन्स पाएपछि १ वर्षसम्म, साधारण गाडी चलाउँदा अगाडि र पछाडि बिगिनर मार्क राख्नुपर्छ।",
+    "correct_explanation_hi": "सामान्य लाइसेंस प्राप्त करने के बाद 1 वर्ष तक, सामान्य कार चलाते समय आगे और पीछे शुरुआती चालक चिह्न लगाना आवश्यक है।"
+  }
+, {
+    "id": 77,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "運転席と運転席の横の座席に人を乗せるときはシートベルトを着用しなければならないが、後部座席に人を乗せるときは着用させる義務はない。",
+    "question_en": "People in the driver's seat and the seat next to the driver must wear seat belts, but there is no obligation to have rear-seat passengers wear seat belts.",
+    "question_ne": "चालक सिट र चालकको छेउको सिटमा बसेकाले सिटबेल्ट लगाउनुपर्छ, तर पछाडिको सिटमा बसेकालाई लगाउनुपर्ने बाध्यता छैन।",
+    "question_hi": "चालक सीट और उसके बगल की सीट पर बैठे लोगों को सीट बेल्ट पहननी चाहिए, लेकिन पीछे की सीट पर बैठे लोगों को पहनाना अनिवार्य नहीं है।",
+    "answer": false,
+    "correct_explanation_ja": "後部座席の同乗者にもシートベルトを着用させる義務があります。",
+    "correct_explanation_en": "There is also an obligation to have rear-seat passengers wear seat belts.",
+    "correct_explanation_ne": "पछाडिको सिटमा बसेकालाई पनि सिटबेल्ट लगाउन लगाउने दायित्व हुन्छ।",
+    "correct_explanation_hi": "पीछे की सीट पर बैठे यात्रियों के लिए भी सीट बेल्ट पहनना अनिवार्य है।"
+  }
+, {
+    "id": 78,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "制限速度が30キロメートル毎時以下の道路だけはシートベルトを着用しないで運転してもよい。",
+    "question_en": "Only on roads with a speed limit of 30 kilometers per hour or less may you drive without wearing a seat belt.",
+    "question_ne": "३० किलोमिटर प्रतिघण्टा वा कम गति सीमा भएका सडकमा मात्र सिटबेल्ट नलगाई गाडी चलाउन पाइन्छ।",
+    "question_hi": "केवल 30 किलोमीटर प्रति घंटा या उससे कम गति सीमा वाली सड़कों पर सीट बेल्ट बिना वाहन चलाया जा सकता है।",
+    "answer": false,
+    "correct_explanation_ja": "速度制限に関係なく、運転者や同乗者はシートベルトを着用しなければなりません。",
+    "correct_explanation_en": "Regardless of the speed limit, drivers and passengers must wear seat belts.",
+    "correct_explanation_ne": "गति सीमासँग सम्बन्ध नभई चालक र यात्रुहरूले सिटबेल्ट लगाउनै पर्छ।",
+    "correct_explanation_hi": "गति सीमा चाहे जो हो, चालक और यात्रियों को सीट बेल्ट पहननी ही चाहिए।"
+  }
+, {
+    "id": 79,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "進路変更をするときはまず後方をよく確かめてから合図を出す。",
+    "question_en": "When changing course, you should first check carefully behind you and then give a signal.",
+    "question_ne": "दिशा परिवर्तन गर्दा पहिले पछाडि राम्रोसँग जाँच गरेर त्यसपछि संकेत दिनुपर्छ।",
+    "question_hi": "दिशा बदलते समय पहले पीछे अच्छी तरह देखना चाहिए और फिर संकेत देना चाहिए।",
+    "answer": false,
+    "correct_explanation_ja": "進路変更をするときは、まず合図を出してから安全を確認します。",
+    "correct_explanation_en": "When changing course, you should first give a signal and then check for safety.",
+    "correct_explanation_ne": "दिशा परिवर्तन गर्दा पहिले संकेत दिनुपर्छ र त्यसपछि सुरक्षा जाँच गर्नुपर्छ।",
+    "correct_explanation_hi": "दिशा बदलते समय पहले संकेत देना चाहिए, फिर सुरक्षा की पुष्टि करनी चाहिए।"
   }
 ]
