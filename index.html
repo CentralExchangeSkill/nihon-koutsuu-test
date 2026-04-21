@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Japanese Traffic Sign Test</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-100 min-h-screen">
+  <div class="max-w-2xl mx-auto px-4 py-8">
+    <div class="bg-white shadow-xl rounded-2xl p-6">
+
+      <h1 class="text-2xl md:text-3xl font-bold text-center text-slate-800 mb-6">
+        Japanese Traffic Sign Test
+      </h1>
+
+      <!-- Start Screen -->
+      <section id="startScreen">
+        <label class="block text-sm font-semibold text-slate-700 mb-2">
+          Enter your name
+        </label>
+        <input
+          id="userName"
+          type="text"
+          placeholder="Example: John"
+          class="w-full border border-slate-300 rounded-xl px-4 py-3 mb-4 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        />
+        <button
+          id="startBtn"
+          class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded-xl transition"
+        >
+          Start Test
+        </button>
+      </section>
+
+      <!-- Quiz Screen -->
+      <section id="quizScreen" class="hidden">
+        <div class="flex justify-between items-center mb-4">
+          <p id="progressText" class="text-sm font-medium text-slate-600">Question 1 / 10</p>
+          <p id="userLabel" class="text-sm text-slate-500"></p>
+        </div>
+
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl p-4">
+          <img
+            id="questionImage"
+            src=""
+            alt="Traffic Sign"
+            class="w-full max-h-72 object-contain bg-white rounded-xl mb-4"
+          />
+
+            <div class="mb-6">
+                <p id="questionTextJa" class="text-lg font-semibold text-slate-800 mb-2"></p>
+                <p id="questionTextEn" class="text-base text-slate-600"></p>
+            </div>
+
+          <div class="grid grid-cols-2 gap-3">
+            <button
+              id="trueBtn"
+              class="bg-green-600 hover:bg-green-700 text-white font-bold py-3 rounded-xl"
+            >
+              True
+            </button>
+            <button
+              id="falseBtn"
+              class="bg-red-600 hover:bg-red-700 text-white font-bold py-3 rounded-xl"
+            >
+              False
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Result Screen -->
+      <section id="resultScreen" class="hidden">
+        <h2 class="text-2xl font-bold text-center text-slate-800 mb-4">Test Result</h2>
+        <p id="resultName" class="text-center text-slate-600 mb-2"></p>
+        <p id="scoreText" class="text-center text-3xl font-bold text-blue-700 mb-6"></p>
+
+        <div id="submitStatus" class="text-center text-sm mb-4"></div>
+        <div id="resultDetail" class="space-y-3 mb-6"></div>
+
+        <button
+          id="restartBtn"
+          class="w-full bg-slate-800 hover:bg-slate-900 text-white font-semibold py-3 rounded-xl"
+        >
+          Restart Test
+        </button>
+      </section>
+
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
