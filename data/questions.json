@@ -334,7 +334,7 @@
   },
   {
     "id": 38,
-    "image": "assets/signs/nopict.png",
+    "image": "assets/signs/sign16.png",
     "question_ja": "路面に図のような標示があるときは、その前方に交差点があることを示している。",
     "question_en": "When there is a road marking as shown in the figure, it indicates that there is an intersection ahead.",
     "answer": false,
