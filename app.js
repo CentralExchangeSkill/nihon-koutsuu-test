@@ -24,6 +24,11 @@ const resultDetail = document.getElementById("resultDetail");
 const submitStatus = document.getElementById("submitStatus");
 const restartBtn = document.getElementById("restartBtn");
 
+const questionCountButtons = document.querySelectorAll(".question-count-btn");
+const questionCountError = document.getElementById("questionCountError");
+
+let selectedQuestionCount = 0;
+
 let allQuestions = [];
 let selectedQuestions = [];
 let currentIndex = 0;
@@ -56,12 +61,17 @@ function startQuiz() {
     return;
   }
 
-  if (allQuestions.length < 30) {
-    alert("The question database must contain at least 30 questions.");
+  if (!selectedQuestionCount) {
+    questionCountError.classList.remove("hidden");
     return;
   }
 
-  selectedQuestions = shuffleArray(allQuestions).slice(0, 30);
+  if (allQuestions.length < selectedQuestionCount) {
+    alert(`The question database must contain at least ${selectedQuestionCount} questions.`);
+    return;
+  }
+
+  selectedQuestions = shuffleArray(allQuestions).slice(0, selectedQuestionCount);
   currentIndex = 0;
   score = 0;
   userAnswers = [];
@@ -168,11 +178,13 @@ function showResult() {
   resultName.textContent = `Name: ${userName}`;
   scoreText.textContent = `${score} / ${selectedQuestions.length}`;
 
-  if (score >= 25) {
-    passStatus.textContent = "合格 (Passed)";
+  const passingScore = getPassingScore(selectedQuestions.length);
+
+  if (score >= passingScore) {
+    passStatus.textContent = `合格 (Passed) - Passing score: ${passingScore}/${selectedQuestions.length}`;
     passStatus.className = "text-center text-2xl font-bold mb-6 text-green-600";
   } else {
-    passStatus.textContent = "不合格 (Failed)";
+    passStatus.textContent = `不合格 (Failed) - Passing score: ${passingScore}/${selectedQuestions.length}`;
     passStatus.className = "text-center text-2xl font-bold mb-6 text-red-600";
   }
 
@@ -225,6 +237,9 @@ restartBtn.addEventListener("click", () => {
   userNameInput.value = "";
   submitStatus.textContent = "";
   passStatus.textContent = "";
+  selectedQuestionCount = 0;
+  questionCountError.classList.add("hidden");
+  questionCountButtons.forEach(btn => btn.classList.remove("active"));
 });
 
 (async function init() {
@@ -235,3 +250,20 @@ restartBtn.addEventListener("click", () => {
     console.error(error);
   }
 })();
+
+questionCountButtons.forEach(button => {
+  button.addEventListener("click", () => {
+    questionCountButtons.forEach(btn => btn.classList.remove("active"));
+    button.classList.add("active");
+
+    selectedQuestionCount = Number(button.dataset.count);
+    questionCountError.classList.add("hidden");
+  });
+});
+
+function getPassingScore(questionCount) {
+  if (questionCount === 10) return 7;
+  if (questionCount === 30) return 25;
+  if (questionCount === 50) return 45;
+  return 0;
+}
