@@ -12,6 +12,8 @@ const userLabel = document.getElementById("userLabel");
 const questionImage = document.getElementById("questionImage");
 const questionTextJa = document.getElementById("questionTextJa");
 const questionTextEn = document.getElementById("questionTextEn");
+const questionTextNe = document.getElementById("questionTextNe");
+const questionTextHi = document.getElementById("questionTextHi");
 const trueBtn = document.getElementById("trueBtn");
 const falseBtn = document.getElementById("falseBtn");
 
@@ -77,8 +79,10 @@ function renderQuestion() {
   progressText.textContent = `Question ${currentIndex + 1} / ${selectedQuestions.length}`;
   userLabel.textContent = `Name: ${userName}`;
   questionImage.src = q.image;
-  questionTextJa.textContent = q.question_ja;
-  questionTextEn.textContent = q.question_en; 
+  questionTextJa.textContent = q.question_ja || "";
+  questionTextEn.textContent = q.question_en || "";
+  questionTextNe.textContent = q.question_ne || "";
+  questionTextHi.textContent = q.question_hi || "";
 }
 
 function handleAnswer(userAnswer) {
@@ -88,16 +92,20 @@ function handleAnswer(userAnswer) {
   if (isCorrect) score++;
 
     userAnswers.push({
-        questionId: currentQuestion.id,
-        questionJa: currentQuestion.question_ja,
-        questionEn: currentQuestion.question_en,
-        image: currentQuestion.image,
-        correctAnswer: currentQuestion.answer,
-        correctExplanationJa: currentQuestion.correct_explanation_ja,
-        correctExplanationEn: currentQuestion.correct_explanation_en,
-        userAnswer: userAnswer,
-        isCorrect: isCorrect
-        });
+      questionId: currentQuestion.id,
+      questionJa: currentQuestion.question_ja,
+      questionEn: currentQuestion.question_en,
+      questionNe: currentQuestion.question_ne,
+      questionHi: currentQuestion.question_hi,
+      image: currentQuestion.image,
+      correctAnswer: currentQuestion.answer,
+      correctExplanationJa: currentQuestion.correct_explanation_ja,
+      correctExplanationEn: currentQuestion.correct_explanation_en,
+      correctExplanationNe: currentQuestion.correct_explanation_ne,
+      correctExplanationHi: currentQuestion.correct_explanation_hi,
+      userAnswer: userAnswer,
+      isCorrect: isCorrect
+    });
 
   currentIndex++;
 
@@ -109,13 +117,20 @@ function handleAnswer(userAnswer) {
 }
 
 async function sendResultToGoogleSheet() {
-  const wrongAnswersOnly = userAnswers.filter(item => !item.isCorrect);
+  const wrongAnswersOnlyJa = userAnswers
+    .filter(item => !item.isCorrect)
+    .map(item => ({
+      questionJa: item.questionJa || "",
+      correctAnswer: item.correctAnswer,
+      userAnswer: item.userAnswer,
+      correctExplanationJa: item.correctExplanationJa || ""
+    }));
 
   const payload = {
     name: userName,
     score: score,
     total: selectedQuestions.length,
-    answers: wrongAnswersOnly
+    answers: wrongAnswersOnlyJa
   };
 
   try {
@@ -162,34 +177,40 @@ function showResult() {
   }
 
   resultDetail.innerHTML = userAnswers.map((item, index) => {
-    return `
-        <div class="border border-slate-200 rounded-xl p-4 bg-slate-50">
-        <p class="font-semibold text-slate-800 mb-3">Question ${index + 1}</p>
+  return `
+    <div class="border border-slate-200 rounded-xl p-4 bg-slate-50">
+      <p class="font-semibold text-slate-800 mb-3">Question ${index + 1}</p>
 
-        <img
-            src="${item.image}"
-            alt="Traffic Sign ${index + 1}"
-            class="w-full max-h-56 object-contain bg-white rounded-xl border border-slate-200 mb-4"
-        />
+      <img
+        src="${item.image}"
+        alt="Traffic Sign ${index + 1}"
+        class="w-full max-h-56 object-contain bg-white rounded-xl border border-slate-200 mb-4"
+      />
 
-        <p class="text-slate-800 font-medium mb-1">${item.questionJa}</p>
-        <p class="text-slate-600 mb-3">${item.questionEn}</p>
+      <div class="space-y-2 mb-3">
+        <p class="text-slate-800 font-semibold">${item.questionJa || ""}</p>
+        <p class="text-slate-600">${item.questionEn || ""}</p>
+        <p class="text-slate-700">${item.questionNe || ""}</p>
+        <p class="text-slate-700">${item.questionHi || ""}</p>
+      </div>
 
-        <p class="${item.isCorrect ? 'text-green-600' : 'text-red-600'} font-medium mb-1">
-            Your answer: ${item.userAnswer ? "True" : "False"}
-        </p>
+      <p class="${item.isCorrect ? 'text-green-600' : 'text-red-600'} font-medium mb-1">
+        Your answer: ${item.userAnswer ? "True" : "False"}
+      </p>
 
-        <p class="text-slate-700 font-medium mb-3">
-            Correct answer: ${item.correctAnswer ? "True" : "False"}
-        </p>
+      <p class="text-slate-700 font-medium mb-3">
+        Correct answer: ${item.correctAnswer ? "True" : "False"}
+      </p>
 
-        <div class="bg-white border border-slate-200 rounded-xl p-3">
-            <p class="text-slate-800 font-medium mb-1">${item.correctExplanationJa || ""}</p>
-            <p class="text-slate-600 text-sm">${item.correctExplanationEn || ""}</p>
-        </div>
-        </div>
-    `;
-    }).join(""); 
+      <div class="bg-white border border-slate-200 rounded-xl p-3 space-y-2">
+        <p class="text-slate-800 font-medium">${item.correctExplanationJa || ""}</p>
+        <p class="text-slate-600 text-sm">${item.correctExplanationEn || ""}</p>
+        <p class="text-slate-700 text-sm">${item.correctExplanationNe || ""}</p>
+        <p class="text-slate-700 text-sm">${item.correctExplanationHi || ""}</p>
+      </div>
+    </div>
+  `;
+}).join(""); 
 
   sendResultToGoogleSheet();
 }

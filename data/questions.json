@@ -4,539 +4,779 @@
     "image": "assets/signs/sign1.png",
     "question_ja": "この標識は、車両が通行できないことを表している。",
     "question_en": "This sign means that vehicles are not allowed to pass.",
+    "question_ne": "यो चिन्हले सवारी साधनहरू जान नपाइने जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि वाहनों का आना-जाना निषिद्ध है।",
     "answer": true,
     "correct_explanation_ja": "この標識は、車両が通行できないことを表している。",
-    "correct_explanation_en": "This sign means that vehicles are not allowed to pass."
+    "correct_explanation_en": "This sign means that vehicles are not allowed to pass.",
+    "correct_explanation_ne": "यो चिन्हले सवारी साधनहरू जान नपाइने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि वाहनों का आना-जाना निषिद्ध है।"
   },
   {
     "id": 2,
     "image": "assets/signs/sign2.png",
     "question_ja": "この標識は、一時停止を表している。",
     "question_en": "This sign indicates a temporary stop.",
+    "question_ne": "यो चिन्हले अस्थायी रोकिने संकेत गर्दछ।",
+    "question_hi": "यह संकेत अस्थायी रुकने को दर्शाता है।",
     "answer": false,
     "correct_explanation_ja": "この標識は、車両の通行が禁止されていることを表している。",
-    "correct_explanation_en": "This sign means that vehicles are prohibited from passing."
+    "correct_explanation_en": "This sign means that vehicles are prohibited from passing.",
+    "correct_explanation_ne": "यो चिन्हले सवारी साधनहरूको आवागमन निषेध गरिएको जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि वाहनों का गुजरना निषिद्ध है।"
   },
   {
     "id": 3,
     "image": "assets/signs/sign3.png",
     "question_ja": "この標識は、進入禁止を表している。",
     "question_en": "This sign indicates no entry.",
+    "question_ne": "यो चिन्हले प्रवेश निषेध जनाउँछ।",
+    "question_hi": "यह संकेत प्रवेश निषेध को दर्शाता है।",
     "answer": true,
     "correct_explanation_ja": "この標識は、車両がこの先に進入してはいけないことを表している。",
-    "correct_explanation_en": "This sign means that vehicles are not allowed to enter beyond this point."
+    "correct_explanation_en": "This sign means that vehicles are not allowed to enter beyond this point.",
+    "correct_explanation_ne": "यो चिन्हले यस बिन्दुभन्दा अगाडि सवारी साधन प्रवेश गर्न नपाइने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि इस बिंदु के आगे वाहनों का प्रवेश निषिद्ध है।"
   },
   {
     "id": 4,
     "image": "assets/signs/sign4.png",
     "question_ja": "この標識は、すべての車両が通行止めであることを表している。",
     "question_en": "This sign indicates that all vehicles are prohibited from passing.",
+    "question_ne": "यो चिन्हले सबै सवारी साधनहरूलाई जान निषेध गरिएको जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि सभी वाहनों का गुजरना निषिद्ध है।",
     "answer": false,
     "correct_explanation_ja": "この標識は、自動車が通行してはいけないことを表している。",
-    "correct_explanation_en": "This sign means that automobiles are not allowed to pass."
+    "correct_explanation_en": "This sign means that automobiles are not allowed to pass.",
+    "correct_explanation_ne": "यो चिन्हले मोटरगाडीहरू जान नपाइने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि मोटरगाड़ियों का गुजरना निषिद्ध है।"
   },
   {
     "id": 5,
     "image": "assets/signs/sign5.png",
     "question_ja": "この標識は、大型貨物自動車等通行止めを表している。",
     "question_en": "This sign indicates that large trucks and similar vehicles are prohibited from passing.",
+    "question_ne": "यो चिन्हले ठूला मालवाहक ट्रक आदि जान निषेध गरिएको जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि बड़े मालवाहक ट्रक आदि का गुजरना निषिद्ध है।",
     "answer": true,
     "correct_explanation_ja": "この標識は、大型貨物自動車などが通行してはいけないことを表している。",
-    "correct_explanation_en": "This sign means that large trucks and similar vehicles are not allowed to pass."
+    "correct_explanation_en": "This sign means that large trucks and similar vehicles are not allowed to pass.",
+    "correct_explanation_ne": "यो चिन्हले ठूला ट्रक र यस्तै सवारी साधनहरू जान नपाइने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि बड़े ट्रक और इसी प्रकार के वाहन गुजर नहीं सकते।"
   },
   {
     "id": 6,
     "image": "assets/signs/sign6.png",
     "question_ja": "この標識は、交差点での右折だけが禁止されていることを表している。",
     "question_en": "This sign means that only right turns at intersections are prohibited.",
+    "question_ne": "यो चिन्हले चौराहामा मात्र दायाँ मोड्न निषेध गरिएको जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि केवल चौराहे पर दाएँ मुड़ना निषिद्ध है।",
     "answer": false,
     "correct_explanation_ja": "この標識は、右折してはいけないことを表している。",
-    "correct_explanation_en": "This sign means that turning right is prohibited."
+    "correct_explanation_en": "This sign means that turning right is prohibited.",
+    "correct_explanation_ne": "यो चिन्हले दायाँ मोड्न निषेध गरिएको जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि दाएँ मुड़ना निषिद्ध है।"
   },
   {
     "id": 7,
     "image": "assets/signs/sign7.png",
     "question_ja": "この標識は、交差点では転回できないが、交差点以外では転回できることを表している。",
     "question_en": "This sign means that U-turns are prohibited at intersections, but allowed outside intersections.",
+    "question_ne": "यो चिन्हले चौराहामा यू-टर्न गर्न नपाइने तर चौराहाबाहिर गर्न पाइने जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि चौराहे पर यू-टर्न निषिद्ध है, लेकिन चौराहे के बाहर अनुमति है।",
     "answer": false,
     "correct_explanation_ja": "この標識は、転回してはいけないことを表している。",
-    "correct_explanation_en": "This sign means that making a U-turn is prohibited."
+    "correct_explanation_en": "This sign means that making a U-turn is prohibited.",
+    "correct_explanation_ne": "यो चिन्हले यू-टर्न गर्न निषेध गरिएको जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि यू-टर्न करना निषिद्ध है।"
   },
   {
     "id": 8,
     "image": "assets/signs/sign8.png",
     "question_ja": "この標識は、追い越すために道路の右側部分へはみ出して通行してはいけないことを表している。",
     "question_en": "This sign means that you must not cross into the right side of the road in order to overtake another vehicle.",
+    "question_ne": "यो चिन्हले अर्को सवारीलाई उछिन्न सडकको दायाँ भागमा निस्केर चलाउन नपाइने जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि किसी वाहन को ओवरटेक करने के लिए सड़क के दाहिने हिस्से में निकलना मना है।",
     "answer": true,
     "correct_explanation_ja": "この標識は、追い越すために道路の右側部分へはみ出して通行してはいけないことを表している。",
-    "correct_explanation_en": "This sign means that you must not cross into the right side of the road in order to overtake another vehicle."
+    "correct_explanation_en": "This sign means that you must not cross into the right side of the road in order to overtake another vehicle.",
+    "correct_explanation_ne": "यो चिन्हले उछिन्ने उद्देश्यले सडकको दायाँ भागमा पस्न नपाइने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि ओवरटेक करने के लिए सड़क के दाहिने हिस्से में जाना मना है।"
   },
   {
     "id": 9,
     "image": "assets/signs/sign10.png",
     "question_ja": "この標識は、8時から20時までは停車も駐車もどちらも禁止されていることを表している。",
     "question_en": "This sign means that both stopping and parking are prohibited from 8:00 to 20:00.",
+    "question_ne": "यो चिन्हले ८ बजेदेखि २० बजेसम्म रोक्न र पार्क गर्न दुवै निषेध गरिएको जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि 8:00 से 20:00 बजे तक रुकना और पार्क करना दोनों निषिद्ध हैं।",
     "answer": false,
     "correct_explanation_ja": "この標識は、8時から20時まで駐車してはいけないことを表している。",
-    "correct_explanation_en": "This sign means that parking is prohibited from 8:00 to 20:00."
+    "correct_explanation_en": "This sign means that parking is prohibited from 8:00 to 20:00.",
+    "correct_explanation_ne": "यो चिन्हले ८ बजेदेखि २० बजेसम्म पार्क गर्न नपाइने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि 8:00 से 20:00 बजे तक पार्किंग निषिद्ध है।"
   },
   {
     "id": 10,
     "image": "assets/signs/sign9.png",
     "question_ja": "この標識は、8時から20時までは駐車だけが禁止されていて、短時間の停車はできることを表している。",
     "question_en": "This sign means that only parking is prohibited from 8:00 to 20:00, and short stops are allowed.",
+    "question_ne": "यो चिन्हले ८ बजेदेखि २० बजेसम्म पार्क गर्न मात्रै निषेध छ र छोटो समय रोक्न पाइन्छ भन्ने जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि 8:00 से 20:00 बजे तक केवल पार्किंग निषिद्ध है और थोड़ी देर रुकना अनुमत है।",
     "answer": false,
     "correct_explanation_ja": "この標識は、8時から20時まで停車も駐車もしてはいけないことを表している。",
-    "correct_explanation_en": "This sign means that both stopping and parking are prohibited from 8:00 to 20:00."
+    "correct_explanation_en": "This sign means that both stopping and parking are prohibited from 8:00 to 20:00.",
+    "correct_explanation_ne": "यो चिन्हले ८ बजेदेखि २० बजेसम्म रोक्न र पार्क गर्न दुवै निषेध गरिएको जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि 8:00 से 20:00 बजे तक रुकना और पार्क करना दोनों निषिद्ध हैं।"
   },
   {
     "id": 11,
     "image": "assets/signs/sign11.png",
     "question_ja": "この標識は、最高速度が毎時50キロメートルであることを表している。",
     "question_en": "This sign means that the maximum speed is 50 kilometers per hour.",
+    "question_ne": "यो चिन्हले अधिकतम गति प्रतिघण्टा ५० किलोमिटर हो भन्ने जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि अधिकतम गति 50 किलोमीटर प्रति घंटा है।",
     "answer": true,
     "correct_explanation_ja": "この標識は、最高速度が毎時50キロメートルであることを表している。",
-    "correct_explanation_en": "This sign means that the maximum speed is 50 kilometers per hour."
+    "correct_explanation_en": "This sign means that the maximum speed is 50 kilometers per hour.",
+    "correct_explanation_ne": "यो चिन्हले अधिकतम गति प्रतिघण्टा ५० किलोमिटर हो भन्ने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि अधिकतम गति 50 किलोमीटर प्रति घंटा है।"
   },
   {
     "id": 12,
     "image": "assets/signs/sign12.png",
     "question_ja": "この標識は、二段階右折を禁止し、自動車と同様に道路中央から小回りで右折することを表している。",
     "question_en": "This sign indicates that two-stage right turns are prohibited, and that you must make a sharp right turn from the center of the road in the same manner as an automobile.",
+    "question_ne": "यो चिन्हले दुई चरणमा दायाँ मोड्न निषेध गरिएको र मोटरगाडी जस्तै सडकको बीचबाट सानो घुम्ती लिएर दायाँ मोड्नुपर्ने जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि दो-चरणीय दायाँ मोड़ निषिद्ध है, और आपको कार की तरह सड़क के मध्य से छोटा दायाँ मोड़ लेना होगा।",
     "answer": true,
     "correct_explanation_ja": "この標識は、二段階右折を禁止し、自動車と同様に道路中央から小回りで右折することを表している。",
-    "correct_explanation_en": "This sign indicates that two-stage right turns are prohibited, and that you must make a sharp right turn from the center of the road in the same manner as an automobile."
+    "correct_explanation_en": "This sign indicates that two-stage right turns are prohibited, and that you must make a sharp right turn from the center of the road in the same manner as an automobile.",
+    "correct_explanation_ne": "यो चिन्हले दुई चरण दायाँ मोड निषेध गरी मोटरगाडीसरह सडकको बीचबाट दायाँ मोड्नुपर्ने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि दो-चरणीय दायाँ मोड़ मना है और कार की तरह सड़क के मध्य से दायाँ मोड़ना होगा।"
   },
   {
     "id": 13,
     "image": "assets/signs/nopict.png",
     "question_ja": "徐行や停止をするときにも、合図をしなければならない。",
     "question_en": "Even when slowing down or stopping, you must give a signal.",
+    "question_ne": "धीमे चलाउँदा वा रोक्दा पनि संकेत दिनुपर्छ।",
+    "question_hi": "धीरे चलाते समय या रुकते समय भी संकेत देना आवश्यक है।",
     "answer": true,
     "correct_explanation_ja": "徐行や停止をするときには制動灯などで後続車に合図します。",
-    "correct_explanation_en": "When slowing down or stopping, you signal to the vehicles behind by using the brake light, etc."
+    "correct_explanation_en": "When slowing down or stopping, you signal to the vehicles behind by using the brake light, etc.",
+    "correct_explanation_ne": "धीमे चलाउँदा वा रोक्दा ब्रेक लाइट आदि प्रयोग गरेर पछाडिका सवारीलाई संकेत दिइन्छ।",
+    "correct_explanation_hi": "धीरे चलाने या रुकने पर ब्रेक लाइट आदि के माध्यम से पीछे आने वाले वाहनों को संकेत दिया जाता है।"
   },
   {
     "id": 14,
     "image": "assets/signs/nopict.png",
     "question_ja": "前車が一般原動機付自転車を追い越そうとしているときに、その車を追い越しても二重追い越しにはならない。",
     "question_en": "When the vehicle ahead is trying to overtake a standard motorized bicycle, overtaking that vehicle does not count as double overtaking.",
+    "question_ne": "अगाडिको गाडीले सामान्य मोटरचालित साइकललाई उछिन्न खोजिरहेको बेला त्यस गाडीलाई उछिन्दा डबल ओभरटेक मानिँदैन।",
+    "question_hi": "जब आगे वाला वाहन एक सामान्य मोटर चालित साइकिल को ओवरटेक करने की कोशिश कर रहा हो, तब उस वाहन को ओवरटेक करना डबल ओवरटेक नहीं माना जाता।",
     "answer": true,
     "correct_explanation_ja": "先頭車両が「自動車」の場合は二重追い越し禁止ですが、先頭車両が「原動機付自転車」の場合には二重追い越しになりません。",
-    "correct_explanation_en": "If the lead vehicle is an automobile, double overtaking is prohibited; however, if the lead vehicle is a motorized bicycle, it is not considered double overtaking."
+    "correct_explanation_en": "If the lead vehicle is an automobile, double overtaking is prohibited; however, if the lead vehicle is a motorized bicycle, it is not considered double overtaking.",
+    "correct_explanation_ne": "अगाडिको सवारी ‘मोटरगाडी’ भए डबल ओभरटेक निषेध हुन्छ, तर ‘मोटरचालित साइकल’ भए डबल ओभरटेक मानिँदैन।",
+    "correct_explanation_hi": "यदि आगे वाला वाहन मोटरगाड़ी है तो डबल ओवरटेक निषिद्ध है, लेकिन यदि वह मोटर चालित साइकिल है तो इसे डबल ओवरटेक नहीं माना जाता।"
   },
   {
     "id": 15,
     "image": "assets/signs/sign1.png",
     "question_ja": "この標識は、道路の右側部分へはみ出して追い越すことを禁止している。",
     "question_en": "This sign prohibits overtaking by crossing over into the right side of the road.",
+    "question_ne": "यो चिन्हले सडकको दायाँ भागमा निस्केर उछिन्न निषेध गरेको जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि सड़क के दाहिने हिस्से में निकलकर ओवरटेक करना मना है।",
     "answer": false,
     "correct_explanation_ja": "この標識は、車両が通行できないことを表している。",
-    "correct_explanation_en": "This sign means that vehicles are not allowed to pass."
+    "correct_explanation_en": "This sign means that vehicles are not allowed to pass.",
+    "correct_explanation_ne": "यो चिन्हले सवारी साधनहरू जान नपाइने जनाउँछ।",
+    "correct_explanation_hi": "यह संकेत बताता है कि वाहनों का गुजरना निषिद्ध है।"
   },
   {
     "id": 16,
     "image": "assets/signs/nopict.png",
     "question_ja": "自動車を車道の左側端に停車していて発進しようとする場合の合図は、右折の場合と同じ要領でおこない安全確認をしなければならない。",
     "question_en": "When a car is stopped at the left edge of the roadway and is about to start moving, the signal must be given in the same manner as for a right turn, and safety must be checked.",
+    "question_ne": "सडकको बायाँ किनारामा रोकिएको कार पुनः चलाउनुअघि दायाँ मोड्दा जस्तै संकेत दिई सुरक्षाको पुष्टि गर्नुपर्छ।",
+    "question_hi": "जब कार सड़क के बाएँ किनारे पर रुकी हो और चलना शुरू करने वाली हो, तो दाएँ मोड़ की तरह संकेत देकर सुरक्षा की पुष्टि करनी चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 17,
     "image": "assets/signs/nopict.png",
     "question_ja": "四輪車の運転者は、左折しようとするとき、バックミラーでは見えない部分に二輪車や自転車がいることを予測し、方向指示器により自分の意思を知らせることが必要である。",
     "question_en": "When a four-wheeled vehicle driver is about to turn left, they must anticipate that there may be motorcycles or bicycles in areas not visible in the rearview mirror, and must use the turn signal to indicate their intention.",
+    "question_ne": "चारपांग्रे सवारी चालकले बायाँ मोड्नुअघि ब्याक मिररले नदेख्ने ठाउँमा मोटरसाइकल वा साइकल हुन सक्ने अनुमान गरी इन्डिकेटर दिनु आवश्यक हुन्छ।",
+    "question_hi": "चार पहिया वाहन चालक को बाएँ मुड़ते समय यह अनुमान करना चाहिए कि रियरव्यू मिरर में न दिखने वाले हिस्से में मोटरसाइकिल या साइकिल हो सकती है, और टर्न सिग्नल देना चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 18,
     "image": "assets/signs/nopict.png",
     "question_ja": "対向車のライトがまぶしいときは、視線をやや右前方に移して目がくらまないようにする。",
     "question_en": "When the headlights of an oncoming vehicle are dazzling, you should shift your gaze slightly toward the front right so that you are not blinded.",
+    "question_ne": "विपरीत दिशाबाट आउने गाडीको बत्ती चर्को लागेमा आँखा नअन्ध्याउन अलि अगाडि दायाँतिर हेर्नुपर्छ।",
+    "question_hi": "सामने से आने वाले वाहन की हेडलाइट चकाचौंध करे तो आँखें चौंधियाने से बचाने के लिए थोड़ा आगे दाईं ओर देखना चाहिए।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 19,
     "image": "assets/signs/sign18.png",
     "question_ja": "この標識は、自動車や一般原動機付自転車及び軽車両は通行できないことを表わしている。",
     "question_en": "This sign indicates that automobiles, standard motorized bicycles, and light vehicles are not allowed to pass.",
+    "question_ne": "यो चिन्हले मोटरगाडी, सामान्य मोटरचालित साइकल र हल्का सवारी साधनहरू जान नपाइने जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि मोटरगाड़ी, सामान्य मोटर चालित साइकिल और हल्के वाहन नहीं जा सकते।",
     "answer": false,
     "correct_explanation_ja": "この標識は「自動車組み合わせ通行止め」で、軽車両は通行できます。「車両通行止め」の標識の場合は軽車両も通行できません。",
-    "correct_explanation_en": "This sign means “No entry for combinations of motor vehicles,” and light vehicles are allowed to pass. In the case of the “No vehicles allowed” sign, light vehicles are also prohibited."
+    "correct_explanation_en": "This sign means “No entry for combinations of motor vehicles,” and light vehicles are allowed to pass. In the case of the “No vehicles allowed” sign, light vehicles are also prohibited.",
+    "correct_explanation_ne": "यो चिन्ह ‘मोटर सवारी संयोजन प्रवेश निषेध’ हो, हल्का सवारी भने जान सक्छन्। ‘सवारी साधन निषेध’ चिन्ह भए हल्का सवारी पनि जान पाउँदैनन्।",
+    "correct_explanation_hi": "यह संकेत ‘मोटर वाहनों के संयोजन का प्रवेश निषेध’ दर्शाता है, और हल्के वाहन जा सकते हैं। ‘सभी वाहन निषिद्ध’ संकेत होने पर हल्के वाहन भी नहीं जा सकते।"
   },
   {
     "id": 20,
     "image": "assets/signs/nopict.png",
     "question_ja": "大型特殊免許で運転できるのは、大型特殊自動車、大型自動車、小型特殊自動車、一般原動機付自転車である。",
     "question_en": "With a large special vehicle license, you may drive a large special vehicle, a large vehicle, a small special vehicle, and a standard motorized bicycle.",
+    "question_ne": "ठूलो विशेष इजाजतपत्रले ठूलो विशेष सवारी, ठूलो सवारी, सानो विशेष सवारी र सामान्य मोटरचालित साइकल चलाउन पाइन्छ।",
+    "question_hi": "बड़े विशेष वाहन लाइसेंस से बड़ा विशेष वाहन, बड़ा वाहन, छोटा विशेष वाहन और सामान्य मोटर चालित साइकिल चलाई जा सकती है।",
     "answer": false,
     "correct_explanation_ja": "大型自動車は運転できません。",
-    "correct_explanation_en": "Large vehicles cannot be driven."
+    "correct_explanation_en": "Large vehicles cannot be driven.",
+    "correct_explanation_ne": "ठूलो मोटरगाडी चलाउन पाइँदैन।",
+    "correct_explanation_hi": "बड़े वाहन नहीं चलाए जा सकते।"
   },
   {
     "id": 21,
     "image": "assets/signs/nopict.png",
     "question_ja": "一般の車両は、交差点や交差点の付近で緊急自動車が近づいてきた場合は、交差点をさけて道路の左側に寄って一時停止をしなければならない。",
     "question_en": "When an emergency vehicle approaches at or near an intersection, ordinary vehicles must avoid the intersection, move to the left side of the road, and make a temporary stop.",
+    "question_ne": "चौराहा वा त्यस नजिक आपतकालीन सवारी आएमा साधारण सवारीले चौराहा खाली गरी सडकको बायाँपट्टि सरेर अस्थायी रूपमा रोकिनुपर्छ।",
+    "question_hi": "यदि चौराहे पर या उसके पास आपातकालीन वाहन आ रहा हो, तो सामान्य वाहन को चौराहा खाली कर सड़क के बाएँ किनारे जाकर अस्थायी रूप से रुकना चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 22,
     "image": "assets/signs/nopict.png",
     "question_ja": "仮運転免許では、練習又は路上試験（技能検定）を受ける場合のほかは路上で運転してはならない。",
     "question_en": "A learner’s permit may not be used to drive on public roads except when practicing or taking a road test (skills test).",
+    "question_ne": "अस्थायी चालक अनुमतिपत्रले अभ्यास वा सडक परीक्षण बाहेक सार्वजनिक सडकमा चलाउन पाइँदैन।",
+    "question_hi": "लर्नर परमिट के साथ अभ्यास या सड़क परीक्षा के अलावा सार्वजनिक सड़क पर वाहन नहीं चलाया जा सकता।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 23,
     "image": "assets/signs/nopict.png",
     "question_ja": "道路外の施設へ進入するため、歩道を横切るときは、歩行者のあるなしに係わらず、必ず一時停止して安全を確かめなければならない。",
     "question_en": "When crossing a sidewalk in order to enter a facility off the road, you must always come to a full stop and check safety, regardless of whether there are pedestrians or not.",
+    "question_ne": "सडक बाहिरको स्थानमा पस्न फुटपाथ काट्दा पैदलयात्री भए वा नभए पनि अनिवार्य रूपमा रोकेर सुरक्षा जाँच्नुपर्छ।",
+    "question_hi": "सड़क से बाहर किसी सुविधा में प्रवेश करने के लिए फुटपाथ पार करते समय, चाहे पैदल यात्री हों या न हों, वाहन को हमेशा पूरी तरह रोककर सुरक्षा की पुष्टि करनी चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 24,
     "image": "assets/signs/nopict.png",
     "question_ja": "進路変更をするときは、まず方向指示器で合図をしてから安全を確認する。",
     "question_en": "When changing course, you first signal with the turn indicator and then check safety.",
+    "question_ne": "लेन वा दिशा परिवर्तन गर्दा पहिले इन्डिकेटर दिएर त्यसपछि सुरक्षा जाँचिन्छ।",
+    "question_hi": "दिशा बदलते समय पहले इंडिकेटर देकर फिर सुरक्षा की जाँच की जाती है।",
     "answer": false,
     "correct_explanation_ja": "まず安全確認をしてから合図を出します。",
-    "correct_explanation_en": "First, check for safety, and then give a signal."
+    "correct_explanation_en": "First, check for safety, and then give a signal.",
+    "correct_explanation_ne": "पहिले सुरक्षा पुष्टि गरेर त्यसपछि संकेत दिनुपर्छ।",
+    "correct_explanation_hi": "पहले सुरक्षा की पुष्टि करनी चाहिए, फिर संकेत देना चाहिए।"
   },
   {
     "id": 25,
     "image": "assets/signs/nopict.png",
     "question_ja": "信号機の信号が赤色になっても、交差点ですでに右折している車はそのまま進行することができる。",
     "question_en": "Even if the traffic signal turns red, a vehicle that is already turning right in the intersection may continue forward.",
+    "question_ne": "सिग्नल रातो भए पनि चौराहाभित्र पहिले नै दायाँ मोडिरहेको गाडीले अघि बढ्न सक्छ।",
+    "question_hi": "ट्रैफिक सिग्नल लाल हो जाने पर भी, जो वाहन चौराहे में पहले से दाएँ मुड़ रहा हो, वह आगे बढ़ सकता है।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 26,
     "image": "assets/signs/nopict.png",
     "question_ja": "障害物がある場所ですれちがうときは、障害物のある方を進行する車が優先して通行することが出来る。",
     "question_en": "When passing each other at a place with an obstacle, the vehicle traveling on the side with the obstacle has priority.",
+    "question_ne": "अवरोध भएको ठाउँमा एकअर्का पास गर्दा अवरोध भएको पक्षको सवारीलाई प्राथमिकता हुन्छ।",
+    "question_hi": "जहाँ बाधा हो वहाँ एक-दूसरे को पार करते समय बाधा वाले पक्ष के वाहन को प्राथमिकता मिलती है।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 27,
     "image": "assets/signs/sign17.png",
     "question_ja": "図の交差点にさしかかったＡ車はアの交差点の手前で徐行しなければならない。",
     "question_en": "Vehicle A, approaching the intersection shown in the figure, must slow down before the intersection marked 'A.'",
+    "question_ne": "चित्रमा देखाइएको चौराहामा पुगेको A गाडीले ‘A’ चिन्हित चौराहाभन्दा अगाडि अनिवार्य रूपमा धीमे चलाउनुपर्छ।",
+    "question_hi": "चित्र में दिखाए गए चौराहे के पास पहुँचने वाला वाहन A को 'A' वाले चौराहे से पहले धीमा चलना आवश्यक है।",
     "answer": false,
     "correct_explanation_ja": "中央線が交差点内に引かれているので、Ａ車が進行している道路が優先道路です。優先道路を進行している場合は必ずしもアで徐行する必要はありません。",
-    "correct_explanation_en": "Because the center line is marked within the intersection, the road on which Vehicle A is traveling is the priority road. If you are traveling on a priority road, it is not always necessary to slow down at point A."
+    "correct_explanation_en": "Because the center line is marked within the intersection, the road on which Vehicle A is traveling is the priority road. If you are traveling on a priority road, it is not always necessary to slow down at point A.",
+    "correct_explanation_ne": "चौराहाभित्र केन्द्ररेखा कोरिएको हुँदा A गाडी चलेको सडक प्राथमिक सडक हो। प्राथमिक सडकमा हुँदा त्यहाँ अनिवार्य रूपमा धीमे चलाउनुपर्दैन।",
+    "correct_explanation_hi": "क्योंकि चौराहे के भीतर केंद्र रेखा बनी हुई है, इसलिए जिस सड़क पर वाहन A चल रहा है वह प्राथमिक सड़क है। प्राथमिक सड़क पर होने पर वहाँ हमेशा धीमा चलाना आवश्यक नहीं है।"
   },
   {
     "id": 28,
     "image": "assets/signs/nopict.png",
     "question_ja": "歩行者や自転車のそばを通るときは、必ず徐行しなければならない。",
     "question_en": "When passing near pedestrians or bicycles, you must always slow down.",
+    "question_ne": "पैदलयात्री वा साइकलको नजिकबाट जाँदा सधैं धीमे चलाउनुपर्छ।",
+    "question_hi": "पैदल यात्रियों या साइकिलों के पास से गुजरते समय हमेशा धीमा चलना चाहिए।",
     "answer": false,
     "correct_explanation_ja": "安全な間隔がとれる場合は徐行しなくてよいことになっています。「必ず」という言葉があるときは、よく考えましょう。",
-    "correct_explanation_en": "If a safe distance can be maintained, there is no need to slow down. Whenever the word “always” appears, you should think carefully."
+    "correct_explanation_en": "If a safe distance can be maintained, there is no need to slow down. Whenever the word “always” appears, you should think carefully.",
+    "correct_explanation_ne": "सुरक्षित दूरी राख्न सकिने भए अनिवार्य रूपमा धीमे चलाउनुपर्दैन। ‘सधैं’ जस्ता शब्द देख्दा ध्यानपूर्वक सोच्नुपर्छ।",
+    "correct_explanation_hi": "यदि सुरक्षित दूरी बनाए रखी जा सके तो हमेशा धीमा चलाना जरूरी नहीं है। 'हमेशा' जैसे शब्द आने पर सावधानी से सोचना चाहिए।"
   },
   {
     "id": 29,
     "image": "assets/signs/nopict.png",
     "question_ja": "車両は、車両通行帯の有無に関係なく、トンネルの中は追い越しが禁止されている。",
     "question_en": "Vehicles are prohibited from overtaking inside a tunnel, regardless of whether there are marked traffic lanes or not.",
+    "question_ne": "लेन भए नभए पनि सुरुङभित्र ओभरटेक गर्न निषेध हुन्छ।",
+    "question_hi": "टनल के भीतर, चाहे लेन चिह्नित हों या नहीं, ओवरटेक करना निषिद्ध है।",
     "answer": false,
     "correct_explanation_ja": "車両通行帯があれば追い越しは可能です（標識標示で禁止されている場合を除きます。)",
-    "correct_explanation_en": "If there is a marked traffic lane, overtaking is permitted (unless prohibited by signs or road markings)."
+    "correct_explanation_en": "If there is a marked traffic lane, overtaking is permitted (unless prohibited by signs or road markings).",
+    "correct_explanation_ne": "यदि सवारी लेन स्पष्ट रूपमा छ भने ओभरटेक गर्न पाइन्छ (तर चिन्ह वा सडक चिह्नले निषेध गरेको भए बाहेक)।",
+    "correct_explanation_hi": "यदि स्पष्ट यातायात लेन है तो ओवरटेक करना संभव है (जब तक कि संकेत या सड़क चिह्न द्वारा निषिद्ध न हो)।"
   },
   {
     "id": 30,
     "image": "assets/signs/nopict.png",
     "question_ja": "自動車や一般原動機付自転車は、交通が混雑している道路で路側帯があるときには、その路側帯の中を通行することができる。",
     "question_en": "Automobiles and standard motorized bicycles may travel in the roadside strip when traffic is congested and such a strip is present.",
+    "question_ne": "ट्राफिक भीड भएको सडकमा रोडसाइड स्ट्रिप भए मोटरगाडी र सामान्य मोटरचालित साइकलले त्यसमा चलाउन सक्छन्।",
+    "question_hi": "जब सड़क पर भीड़ हो और रोडसाइड पट्टी हो, तो मोटरगाड़ी और सामान्य मोटर चालित साइकिल उस पट्टी में चल सकती हैं।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 31,
     "image": "assets/signs/nopict.png",
     "question_ja": "前方の交差点を左折しようとするときは、左側を通行する車の安全を考え、道路の中央に寄ってから徐行しながら左折する。",
     "question_en": "When turning left at the intersection ahead, in consideration of vehicles traveling on the left side, you should move toward the center of the road and then turn left while slowing down.",
+    "question_ne": "अगाडिको चौराहामा बायाँ मोड्दा, बायाँतिरका सवारीको सुरक्षाका लागि सडकको बीचतिर सरेर धीमे बायाँ मोड्नुपर्छ।",
+    "question_hi": "आगे के चौराहे पर बाएँ मुड़ते समय, बाईं ओर चल रहे वाहनों की सुरक्षा को ध्यान में रखते हुए सड़क के मध्य की ओर जाकर धीमे बाएँ मुड़ना चाहिए।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 32,
     "image": "assets/signs/nopict.png",
     "question_ja": "車両は、停留所に止まっている路線バスに追いついたときは、一時停止しバスが発進するまでその横を通過してはならない。",
     "question_en": "When a vehicle catches up with a route bus stopped at a bus stop, it must stop temporarily and must not pass alongside it until the bus starts moving.",
+    "question_ne": "स्टपमा रोकिएको बसमा पुगेपछि बस चल्न नलागेसम्म सवारीले रोकिएर त्यसको छेउबाट जानु हुँदैन।",
+    "question_hi": "जब कोई वाहन बस स्टॉप पर रुकी हुई बस के पास पहुँचे, तो उसे अस्थायी रूप से रुकना चाहिए और बस के चलने तक उसके पास से नहीं गुजरना चाहिए।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 33,
     "image": "assets/signs/nopict.png",
     "question_ja": "仮運転免許は、第一種運転免許を受けようとする者が練習のため大型自動車、中型自動車、準中型自動車、普通自動車又は大型特殊自動車を運転しようとする場合に必要な免許である。",
     "question_en": "A learner’s permit is required when a person seeking to obtain a first-class driver’s license intends to practice driving a large vehicle, medium-sized vehicle, semi-medium-sized vehicle, ordinary vehicle, or large special vehicle.",
+    "question_ne": "पहिलो श्रेणीको लाइसेन्स लिन चाहने व्यक्तिले अभ्यासका लागि ठूलो, मध्यम, अर्ध-मध्यम, साधारण वा ठूलो विशेष सवारी चलाउन अस्थायी अनुमतिपत्र चाहिन्छ।",
+    "question_hi": "पहली श्रेणी का लाइसेंस प्राप्त करने वाला व्यक्ति यदि अभ्यास के लिए बड़ा, मध्यम, अर्द्ध-मध्यम, साधारण या बड़ा विशेष वाहन चलाना चाहता है, तो उसे लर्नर परमिट चाहिए।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 34,
     "image": "assets/signs/nopict.png",
     "question_ja": "車は、横断歩道のない交差点や、その近くを歩行者が横断しているときは、その通行を妨げてはいけません。",
     "question_en": "A car must not obstruct a pedestrian crossing at or near an intersection that has no crosswalk.",
+    "question_ne": "जेब्रा क्रसिङ नभएको चौराहा वा त्यस नजिक पैदलयात्री पार गरिरहेको बेला कारले उसको बाटो रोक्न हुँदैन।",
+    "question_hi": "जहाँ ज़ेब्रा क्रॉसिंग नहीं है ऐसे चौराहे पर या उसके पास पैदल यात्री सड़क पार कर रहा हो, तो कार को उसका रास्ता नहीं रोकना चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 35,
     "image": "assets/signs/sign15.png",
     "question_ja": "この警察官の灯火による信号の意味は、矢印の方向から接近する交通に対する信号機の青色の灯火の信号と同じである。",
     "question_en": "The meaning of this police officer’s light signal is the same as the green traffic signal for traffic approaching from the direction of the arrow.",
+    "question_ne": "यो प्रहरीको बत्ती संकेतको अर्थ, बाणको दिशाबाट आउने ट्राफिकका लागि हरियो बत्तीको जस्तै हो।",
+    "question_hi": "इस पुलिस अधिकारी के प्रकाश संकेत का अर्थ, तीर की दिशा से आने वाले यातायात के लिए हरे सिग्नल के समान है।",
     "answer": false,
     "correct_explanation_ja": "これは赤色の灯火と同じ意味です。警察官の体に対面（背面）する交通に対しては腕の状態にかかわらず「赤色」、警察官の体に平行する交通に対しては腕が上に上がっている状態は「黄色」、それ以外は「青色」と覚えておきましょう。",
-    "correct_explanation_en": "This has the same meaning as a red light. Remember it this way: for traffic facing the police officer’s front or back, it means “red” regardless of the position of the officer’s arms; for traffic parallel to the police officer’s body, if the arm is raised upward it means “yellow,” and in all other cases it means “green.”"
+    "correct_explanation_en": "This has the same meaning as a red light. Remember it this way: for traffic facing the police officer’s front or back, it means “red” regardless of the position of the officer’s arms; for traffic parallel to the police officer’s body, if the arm is raised upward it means “yellow,” and in all other cases it means “green.”",
+    "correct_explanation_ne": "यसको अर्थ रातो बत्तीसरह हो। प्रहरीको अगाडि वा पछाडिबाट आउने ट्राफिकका लागि हातको स्थितिसँग सम्बन्ध नभई ‘रातो’ हुन्छ। शरीरसँग समानान्तर ट्राफिकका लागि हात माथि उठेको भए ‘पहेंलो’, अन्यथा ‘हरियो’ हुन्छ।",
+    "correct_explanation_hi": "इसका अर्थ लाल बत्ती के समान है। पुलिस अधिकारी के सामने या पीछे की दिशा से आने वाले यातायात के लिए, हाथ की स्थिति चाहे जो हो, यह 'लाल' होता है। अधिकारी के शरीर के समानांतर यातायात के लिए, यदि हाथ ऊपर उठा है तो 'पीला', अन्यथा 'हरा' होता है।"
   },
   {
     "id": 36,
     "image": "assets/signs/nopict.png",
     "question_ja": "運転免許には、第一種運転免許、第二種運転免許及び仮運転免許の三種がある。",
     "question_en": "There are three types of driver’s licenses: first-class, second-class, and learner’s permit.",
+    "question_ne": "चालक अनुमतिपत्रका तीन प्रकार हुन्छन्: पहिलो श्रेणी, दोस्रो श्रेणी र अस्थायी अनुमति।",
+    "question_hi": "ड्राइविंग लाइसेंस के तीन प्रकार होते हैं: प्रथम श्रेणी, द्वितीय श्रेणी और लर्नर परमिट।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 37,
     "image": "assets/signs/nopict.png",
     "question_ja": "一般の通行車両が一方通行の道路で緊急自動車に進路をゆずる場合は、左側に寄るとかえってさまたげになるときは道路の右側に寄らなければならない。",
     "question_en": "When an ordinary vehicle on a one-way road gives way to an emergency vehicle, if moving to the left would instead obstruct it, the vehicle must move to the right side of the road.",
+    "question_ne": "एकतर्फी सडकमा आपतकालीन सवारीलाई बाटो दिँदा बायाँतिर सर्दा बाधा पुग्छ भने दायाँतिर सर्नुपर्छ।",
+    "question_hi": "एकतरफा सड़क पर आपातकालीन वाहन को रास्ता देते समय यदि बाईं ओर जाना बाधा बने, तो वाहन को सड़क के दाहिने ओर जाना चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 38,
     "image": "assets/signs/sign16.png",
     "question_ja": "路面に図のような標示があるときは、その前方に交差点があることを示している。",
     "question_en": "When there is a road marking as shown in the figure, it indicates that there is an intersection ahead.",
+    "question_ne": "चित्रजस्तो सडक चिह्न हुँदा अगाडि चौराहा छ भन्ने जनाउँछ।",
+    "question_hi": "चित्र जैसा सड़क चिह्न होने पर यह आगे चौराहा होने का संकेत देता है।",
     "answer": false,
     "correct_explanation_ja": "これは「前方に横断歩道・自転車横断帯あり」です。",
-    "correct_explanation_en": "This means “Pedestrian crossing and bicycle crossing ahead.”"
+    "correct_explanation_en": "This means “Pedestrian crossing and bicycle crossing ahead.”",
+    "correct_explanation_ne": "यसको अर्थ ‘अगाडि पैदल मार्ग र साइकल क्रसिङ छ’ भन्ने हो।",
+    "correct_explanation_hi": "इसका अर्थ है 'आगे पैदल पारपथ और साइकिल पारपथ है।'"
   },
   {
     "id": 39,
     "image": "assets/signs/sign14.png",
     "question_ja": "この標識は、この先の道路が右カーブになっていることを表わしている。",
     "question_en": "This sign indicates that the road ahead curves to the right.",
+    "question_ne": "यो चिन्हले अगाडिको सडक दायाँतिर मोडिएको छ भन्ने जनाउँछ।",
+    "question_hi": "यह संकेत बताता है कि आगे सड़क दाहिनी ओर मुड़ती है।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 40,
     "image": "assets/signs/nopict.png",
     "question_ja": "自動車を運転して右折するときは、あらかじめその前からできる限り道路の中央に寄り、交差点の中心のすぐ内側（標識などによって、通行すべきところが指定されているときは、その指定されたところ）を徐行しなければならない。",
     "question_en": "When driving a car and making a right turn, you must beforehand move as close as possible to the center of the road and proceed slowly just inside the center of the intersection (or through the designated place if signs, etc. specify where to pass).",
+    "question_ne": "कार दायाँ मोड्दा पहिल्यै सडकको बीचतिर सकेसम्म नजिक सरी चौराहाको केन्द्रको ठीक भित्री भागबाट वा तोकिएको स्थानबाट धीमे जानुपर्छ।",
+    "question_hi": "कार से दाएँ मुड़ते समय पहले से सड़क के केंद्र के जितना संभव हो उतना पास जाना चाहिए और चौराहे के केंद्र के ठीक अंदर से या निर्दिष्ट स्थान से धीमे गुजरना चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 41,
     "image": "assets/signs/nopict.png",
     "question_ja": "自動車を運転して追い越しを始めるときは、ハンドル操作を手ぎわよくするため、あらかじめ前車との車間距離を短くしてから始めるのがよい。",
     "question_en": "When starting to overtake while driving a car, it is better to shorten the following distance to the vehicle ahead in advance so that steering can be handled quickly.",
+    "question_ne": "ओभरटेक सुरु गर्दा स्टेयरिङ सजिलो बनाउन अगाडिको गाडीसँगको दूरी कम गर्नु राम्रो हो।",
+    "question_hi": "ओवरटेक शुरू करते समय स्टीयरिंग आसानी से संभालने के लिए आगे वाले वाहन से दूरी कम कर लेना बेहतर है।",
     "answer": false,
     "correct_explanation_ja": "車間距離を詰めるのは危険です。安全な車間距離をとって追い越しができるまで待ってから追い越しをします。",
-    "correct_explanation_en": "It is dangerous to shorten the distance between vehicles. Maintain a safe following distance and wait until it is safe to overtake before doing so."
+    "correct_explanation_en": "It is dangerous to shorten the distance between vehicles. Maintain a safe following distance and wait until it is safe to overtake before doing so.",
+    "correct_explanation_ne": "सवारीबीचको दूरी घटाउनु खतरनाक हुन्छ। सुरक्षित दूरी राखेर सुरक्षित हुँदा मात्र ओभरटेक गर्नुपर्छ।",
+    "correct_explanation_hi": "वाहनों के बीच की दूरी कम करना खतरनाक है। सुरक्षित दूरी बनाए रखें और तभी ओवरटेक करें जब यह सुरक्षित हो।"
   },
   {
     "id": 42,
     "image": "assets/signs/nopict.png",
     "question_ja": "車両は、車両通行帯のある道路では、追い越しなどでやむを得ない場合のほかは二つの車両通行帯にまたがって通行してはならない。",
     "question_en": "On a road with traffic lanes, a vehicle must not straddle two lanes except when unavoidable, such as when overtaking.",
+    "question_ne": "लेन भएको सडकमा ओभरटेकजस्ता अपरिहार्य अवस्थाबाहेक दुई लेन अतिक्रमण गरेर चलाउन पाइँदैन।",
+    "question_hi": "लेन वाली सड़क पर ओवरटेक जैसी अपरिहार्य स्थिति को छोड़कर वाहन को दो लेनों पर एक साथ चलाना निषिद्ध है।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 43,
     "image": "assets/signs/sign13.png",
     "question_ja": "この標識は、「横断歩道」を表わしている。",
     "question_en": "This sign indicates a pedestrian crossing.",
+    "question_ne": "यो चिन्हले पैदल यात्रु पारपथ जनाउँछ।",
+    "question_hi": "यह संकेत पैदल पारपथ को दर्शाता है।",
     "answer": false,
     "correct_explanation_ja": "この警戒標識は「付近に学校などがある」ことを意味しています。",
-    "correct_explanation_en": "This warning sign means that there is a school or similar facility nearby."
+    "correct_explanation_en": "This warning sign means that there is a school or similar facility nearby.",
+    "correct_explanation_ne": "यो चेतावनी चिन्हको अर्थ नजिकै विद्यालय वा यस्तै सुविधा छ भन्ने हो।",
+    "correct_explanation_hi": "इस चेतावनी संकेत का अर्थ है कि पास में स्कूल या इसी प्रकार की सुविधा है।"
   },
   {
     "id": 44,
     "image": "assets/signs/nopict.png",
     "question_ja": "交通整理中の警察官が腕を垂直に上げているとき、警察官の身体の正面に対面する交通については、信号機の赤色の灯火の信号と同じ意味である。",
     "question_en": "When a police officer directing traffic raises one arm vertically, for traffic facing the front of the officer’s body, it has the same meaning as a red traffic signal.",
+    "question_ne": "प्रहरीले ट्राफिक नियमन गर्दा एक हात सीधा माथि उठाएको अवस्थामा, उसको अगाडिबाट आउने ट्राफिकका लागि यसको अर्थ रातो बत्ती सरह हुन्छ।",
+    "question_hi": "जब ट्रैफिक नियंत्रित कर रहा पुलिस अधिकारी एक हाथ सीधा ऊपर उठाता है, तो उसके सामने की दिशा से आने वाले यातायात के लिए इसका अर्थ लाल बत्ती के समान होता है।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 45,
     "image": "assets/signs/nopict.png",
     "question_ja": "車両等は、一時停止の標識があるときは停止線の直前で、停止線がないときは交差点の直前で一時停止しなければならない。",
     "question_en": "When there is a stop sign, vehicles must stop immediately before the stop line; if there is no stop line, they must stop immediately before the intersection.",
+    "question_ne": "स्टप चिन्ह भए स्टप लाइनअगाडि र स्टप लाइन नभए चौराहाअगाडि रोकिनुपर्छ।",
+    "question_hi": "स्टॉप संकेत होने पर वाहन को स्टॉप लाइन के ठीक पहले रुकना चाहिए; यदि स्टॉप लाइन न हो तो चौराहे के ठीक पहले रुकना चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 46,
     "image": "assets/signs/nopict.png",
     "question_ja": "歩行者が横断歩道以外の場所を横断しているときは、車の方が優先するので警音器を鳴らして、走行すればよい。",
     "question_en": "When a pedestrian is crossing somewhere other than a crosswalk, the car has priority, so it is fine to sound the horn and keep driving.",
+    "question_ne": "पैदलयात्रीले जेब्रा बाहिरबाट सडक काट्दा गाडीलाई प्राथमिकता हुने भएकाले हर्न बजाएर अघि बढ्न मिल्छ।",
+    "question_hi": "यदि कोई पैदल यात्री ज़ेब्रा क्रॉसिंग के अलावा कहीं और सड़क पार कर रहा हो, तो कार को प्राथमिकता है, इसलिए हॉर्न बजाकर आगे बढ़ना ठीक है।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 47,
     "image": "assets/signs/nopict.png",
     "question_ja": "車両等は、横断歩道に近づいた場合、歩行者が横断しているときは一時停止しなければならないが、これから横断しようとしている場合は徐行すれば通行してもよい。",
     "question_en": "When approaching a crosswalk, a vehicle must stop temporarily if a pedestrian is crossing; however, if a pedestrian is only about to cross, it may proceed if it slows down.",
+    "question_ne": "जेब्रातिर जाँदा पैदलयात्री पार गरिरहेको छ भने रोक्नुपर्छ, तर पार गर्न लागिरहेको मात्र छ भने धीमे हुँदै जान मिल्छ।",
+    "question_hi": "क्रॉसवॉक के पास पहुँचते समय यदि पैदल यात्री पार कर रहा है तो वाहन को रुकना चाहिए, लेकिन यदि वह केवल पार करने वाला है तो धीमे होकर आगे बढ़ सकता है।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 48,
     "image": "assets/signs/nopict.png",
     "question_ja": "仮運転免許で路上練習をする場合は、「初心者マーク」を車の前後につけなければならない。",
     "question_en": "When practicing on public roads with a learner’s permit, a 'beginner driver mark' must be displayed on the front and rear of the car.",
+    "question_ne": "अस्थायी लाइसेन्ससहित सडकमा अभ्यास गर्दा गाडीको अगाडि र पछाडि ‘शुरुआती चालक चिन्ह’ टाँस्नुपर्छ।",
+    "question_hi": "लर्नर परमिट के साथ सड़क पर अभ्यास करते समय वाहन के आगे और पीछे 'नवसिखिया चालक चिह्न' लगाना आवश्यक है।",
     "answer": false,
     "correct_explanation_ja": "仮免許で運転するときに付けるのは「仮免許練習標識」です。",
-    "correct_explanation_en": "When driving with a learner’s permit, the sign that must be displayed is the “Learner’s Permit Practice” sign."
+    "correct_explanation_en": "When driving with a learner’s permit, the sign that must be displayed is the “Learner’s Permit Practice” sign.",
+    "correct_explanation_ne": "अस्थायी अनुमतिपत्रमा चलाउँदा टाँस्नुपर्ने चिन्ह ‘अस्थायी लाइसेन्स अभ्यास चिन्ह’ हो।",
+    "correct_explanation_hi": "लर्नर परमिट के साथ वाहन चलाते समय लगाया जाने वाला चिह्न 'लर्नर परमिट प्रैक्टिस' संकेत होता है।"
   },
   {
     "id": 49,
     "image": "assets/signs/nopict.png",
     "question_ja": "自動車または一般原動機付自転車を運転中、横断歩道や自転車横断帯の手前で止まっている車があるときは、その側方を通過して前方に出る前に一時停止しなければならない。",
     "question_en": "When driving an automobile or a standard motorized bicycle, if there is a vehicle stopped before a crosswalk or bicycle crossing zone, you must stop temporarily before passing it on the side and moving ahead.",
+    "question_ne": "जेब्रा वा साइकल क्रसिङअगाडि गाडी रोकिएको छ भने, त्यसको छेउबाट अघि निस्कनुअघि रोकिनुपर्छ।",
+    "question_hi": "यदि क्रॉसवॉक या साइकिल क्रॉसिंग से पहले कोई वाहन रुका हो, तो उसके पास से आगे निकलने से पहले अस्थायी रूप से रुकना चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 50,
     "image": "assets/signs/nopict.png",
     "question_ja": "交通整理の行われていない交差点で、道幅が同じである場合は、左方からの車にゆずる。",
     "question_en": "At an intersection not controlled by traffic signals or police, if the roads are of equal width, you must yield to vehicles coming from the left.",
+    "question_ne": "नियन्त्रण नभएको चौराहामा सडकको चौडाइ बराबर भए बायाँबाट आउने सवारीलाई बाटो दिनुपर्छ।",
+    "question_hi": "बिना सिग्नल या पुलिस नियंत्रण वाले चौराहे पर यदि सड़कों की चौड़ाई समान हो, तो बाईं ओर से आने वाले वाहन को रास्ता देना चाहिए।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 51,
     "image": "assets/signs/nopict.png",
     "question_ja": "普通貨物自動車（ミニカーを除く）の一般道路での法定最高速度は50キロメートル毎時である。",
     "question_en": "The legal maximum speed on ordinary roads for an ordinary freight vehicle (excluding minicars) is 50 kilometers per hour.",
+    "question_ne": "साधारण मालवाहक गाडी (मिनिकार बाहेक) को सामान्य सडकमा कानुनी अधिकतम गति ५० किमी/घण्टा हो।",
+    "question_hi": "सामान्य मालवाहक वाहन (मिनिकार को छोड़कर) की सामान्य सड़क पर कानूनी अधिकतम गति 50 किमी/घंटा है।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 52,
     "image": "assets/signs/nopict.png",
     "question_ja": "正面の信号が青色のときは、車は直進し、左折し、右折することができる。",
     "question_en": "When the traffic signal ahead is green, a car may go straight, turn left, or turn right.",
+    "question_ne": "अगाडिको सिग्नल हरियो हुँदा गाडी सिधा, बायाँ वा दायाँ जान सक्छ।",
+    "question_hi": "सामने का सिग्नल हरा होने पर वाहन सीधे, बाएँ या दाएँ जा सकता है।",
     "answer": false,
     "correct_explanation_ja": "自動車は直進、左折、右折できますが、軽車両は右折できません。",
-    "correct_explanation_en": "Automobiles may go straight, turn left, or turn right, but light vehicles may not turn right."
+    "correct_explanation_en": "Automobiles may go straight, turn left, or turn right, but light vehicles may not turn right.",
+    "correct_explanation_ne": "मोटरगाडी सिधा, बायाँ, दायाँ जान सक्छ तर हल्का सवारी साधनले दायाँ मोड्न पाउँदैन।",
+    "correct_explanation_hi": "मोटरगाड़ियाँ सीधे जा सकती हैं, बाएँ मुड़ सकती हैं और दाएँ भी, लेकिन हल्के वाहन दाएँ नहीं मुड़ सकते।"
   },
   {
     "id": 53,
     "image": "assets/signs/nopict.png",
     "question_ja": "右折するときには内輪差は生じない。",
     "question_en": "When turning right, off-tracking does not occur.",
+    "question_ne": "दायाँ मोड्दा भित्री पांग्राको फरक घुमाव हुँदैन।",
+    "question_hi": "दाएँ मुड़ते समय इनर व्हील ऑफ-ट्रैकिंग नहीं होती।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 54,
     "image": "assets/signs/nopict.png",
     "question_ja": "歩道と車道の区別のない道路で、車が歩行者のそばを通るときは必ず徐行しなければならない。",
     "question_en": "On a road where there is no distinction between sidewalk and roadway, a car must always slow down when passing near pedestrians.",
+    "question_ne": "फुटपाथ र सडक छुट्याइएको नभएको बाटोमा पैदलयात्रीको छेउबाट जाँदा गाडीले सधैं धीमे चलाउनुपर्छ।",
+    "question_hi": "जहाँ फुटपाथ और सड़क में भेद न हो, वहाँ पैदल यात्री के पास से गुजरते समय कार को हमेशा धीमा चलना चाहिए।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 55,
     "image": "assets/signs/nopict.png",
     "question_ja": "児童、幼児の乗り降りのため停止している通学・通園バスの側方を通るとき、バスとの間に安全な間隔がとれれば徐行しないで通ってもよい。",
     "question_en": "When passing alongside a school bus or kindergarten bus stopped for children getting on or off, if there is a safe distance between your vehicle and the bus, you may pass without slowing down.",
+    "question_ne": "बालबालिका चढाउने/ओराल्ने बसको छेउबाट जाँदा सुरक्षित दूरी भए पनि धीमे नगई जान मिल्छ।",
+    "question_hi": "बच्चों को चढ़ाने या उतारने के लिए रुकी स्कूल बस या किंडरगार्टन बस के पास से, यदि सुरक्षित दूरी हो, तो बिना धीमा किए गुजर सकते हैं।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 56,
     "image": "assets/signs/nopict.png",
     "question_ja": "車両は一方通行になっている道路では道路の中央から右の部分にはみ出して通行することができる。",
     "question_en": "On a one-way road, vehicles may travel extending into the area to the right of the center of the road.",
+    "question_ne": "एकतर्फी सडकमा सवारीले सडकको बीचरेखाको दायाँ भागमा निस्केर चलाउन सक्छ।",
+    "question_hi": "एकतरफा सड़क पर वाहन सड़क के केंद्र से दाहिनी ओर के हिस्से में चल सकते हैं।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 57,
     "image": "assets/signs/nopict.png",
     "question_ja": "バスや路面電車の停留所から10メートル以内は追い越しが禁止されている（運行時間外を除く）。",
     "question_en": "Overtaking is prohibited within 10 meters of a bus stop or streetcar stop, except outside service hours.",
+    "question_ne": "बस वा ट्राम स्टपबाट १० मिटरभित्र ओभरटेक निषेध हुन्छ (सेवा समय बाहेक)।",
+    "question_hi": "बस स्टॉप या ट्राम स्टॉप से 10 मीटर के भीतर ओवरटेक करना निषिद्ध है (सेवा समय के बाहर छोड़कर)।",
     "answer": false,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 58,
     "image": "assets/signs/nopict.png",
     "question_ja": "大型乗用自動車の一般道路での法定最高速度は60キロメートル毎時である。",
     "question_en": "The legal maximum speed on ordinary roads for a large passenger vehicle is 60 kilometers per hour.",
+    "question_ne": "ठूलो यात्रुवाहक सवारीको सामान्य सडकमा कानुनी अधिकतम गति ६० किमी/घण्टा हो।",
+    "question_hi": "बड़े यात्री वाहन की सामान्य सड़क पर कानूनी अधिकतम गति 60 किमी/घंटा है।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 59,
     "image": "assets/signs/nopict.png",
     "question_ja": "停止距離とは、ブレーキがきき始めてから車が停止するまでの距離をいう。",
     "question_en": "Stopping distance means the distance from when the brakes begin to take effect until the vehicle comes to a stop.",
+    "question_ne": "रोकिने दूरी भनेको ब्रेक लाग्न थालेपछि गाडी पूर्ण रूपमा रोकिनेसम्मको दूरी हो।",
+    "question_hi": "रुकने की दूरी वह दूरी है जो ब्रेक लगना शुरू होने से लेकर वाहन के पूरी तरह रुकने तक होती है।",
     "answer": false,
     "correct_explanation_ja": "ブレーキがきき始めてから停止するまでの距離は制動距離です。",
-    "correct_explanation_en": "The distance from the moment the brakes begin to take effect until the vehicle stops is called the braking distance."
+    "correct_explanation_en": "The distance from the moment the brakes begin to take effect until the vehicle stops is called the braking distance.",
+    "correct_explanation_ne": "ब्रेक लाग्न थालेपछि रोकिनेसम्मको दूरीलाई ब्रेकिङ दूरी भनिन्छ।",
+    "correct_explanation_hi": "ब्रेक के प्रभावी होने से लेकर वाहन के रुकने तक की दूरी को ब्रेकिंग दूरी कहा जाता है।"
   },
   {
     "id": 60,
     "image": "assets/signs/nopict.png",
     "question_ja": "重い荷物を積んでいるときは、制動距離が長くなる。",
     "question_en": "When carrying a heavy load, the braking distance becomes longer.",
+    "question_ne": "भारी सामान बोकेको बेला ब्रेक लगाएर रोकिने दूरी लामो हुन्छ।",
+    "question_hi": "भारी सामान ले जाने पर ब्रेकिंग दूरी लंबी हो जाती है।",
     "answer": true,
     "correct_explanation_ja": "",
-    "correct_explanation_en": ""
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   }
 ]
