@@ -88,7 +88,14 @@ function renderQuestion() {
 
   progressText.textContent = `Question ${currentIndex + 1} / ${selectedQuestions.length}`;
   userLabel.textContent = `Name: ${userName}`;
-  questionImage.src = q.image;
+
+  if (q.image && q.image !== "assets/signs/nopict.png") {
+    questionImage.src = q.image;
+    questionImage.classList.remove("hidden");
+  } else {
+    questionImage.classList.add("hidden");
+  }
+  
   questionTextJa.textContent = q.question_ja || "";
   questionTextEn.textContent = q.question_en || "";
   questionTextNe.textContent = q.question_ne || "";
@@ -193,11 +200,13 @@ function showResult() {
     <div class="border border-slate-200 rounded-xl p-4 bg-slate-50">
       <p class="font-semibold text-slate-800 mb-3">Question ${index + 1}</p>
 
-      <img
-        src="${item.image}"
-        alt="Traffic Sign ${index + 1}"
-        class="w-full max-h-24 object-contain bg-white rounded-xl border border-slate-200 mb-4"
-      />
+      ${item.image && item.image !== "assets/signs/nopict.png" ? `
+        <img
+          src="${item.image}"
+          alt="Traffic Sign ${index + 1}"
+          class="w-full max-h-56 object-contain bg-white rounded-xl border border-slate-200 mb-4"
+        />
+      ` : ""}
 
       <div class="space-y-2 mb-3">
         <p class="text-slate-800 font-semibold">${item.questionJa || ""}</p>
