@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "普通運転免許を受けている者は、車両総重量が3.5トンの車を運転できる。",
     "question_en": "A person who has an ordinary driver's license can drive a vehicle with a gross vehicle weight of 3.5 tons.",
     "question_ne": "साधारण सवारी चालक अनुमतिपत्र भएको व्यक्तिले कुल तौल 3.5 टन भएको सवारी साधन चलाउन सक्छ।",
@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "昼夜に関わらず二輪車を運転する時は、周囲に溶け込むため、なるべく暗い服を着用する。",
     "question_en": "When riding a two-wheeled vehicle, regardless of day or night, you should wear dark clothes as much as possible so that you blend in with your surroundings.",
     "question_ne": "दिन होस् वा रात, दुई पांग्रे सवारी साधन चलाउँदा वरिपरिको वातावरणसँग मिल्न सकेसम्म गाढा रङको कपडा लगाउनुपर्छ।",
@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "ミニカーは、軽車両に分類される。",
     "question_en": "A minicar is classified as a light vehicle.",
     "question_ne": "मिनिकारलाई हल्का सवारी साधनमा वर्गीकरण गरिन्छ।",
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "エンジンを止めた自動二輪車を押して歩いている人は、歩行者に分類される。",
     "question_en": "A person pushing a motorcycle with the engine turned off is classified as a pedestrian.",
     "question_ne": "इन्जिन बन्द गरिएको मोटरसाइकललाई धकेल्दै हिँडिरहेको व्यक्ति पैदलयात्रीमा वर्गीकृत हुन्छ।",
@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "普通免許を取得すると、普通自動二輪車も運転することができる。",
     "question_en": "If you obtain an ordinary driver's license, you can also ride an ordinary motorcycle.",
     "question_ne": "साधारण सवारी चालक अनुमतिपत्र लिएपछि साधारण मोटरसाइकल पनि चलाउन सकिन्छ।",
@@ -66,7 +66,7 @@
   },
   {
     "id": 6,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "大型特殊免許を取得すると、原動機付自転車も運転できる。",
     "question_en": "If you obtain a large special vehicle license, you can also drive a moped.",
     "question_ne": "ठूलो विशेष सवारी अनुमतिपत्र प्राप्त गरेपछि, मोपेड पनि चलाउन सकिन्छ।",
@@ -79,7 +79,7 @@
   },
   {
     "id": 7,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "自動車検査証や、強制保険の証明書は、安全のため、自宅に保管しておくべきである。",
     "question_en": "For safety, the vehicle inspection certificate and compulsory insurance certificate should be kept at home.",
     "question_ne": "सुरक्षाको लागि, सवारी निरीक्षण प्रमाणपत्र र अनिवार्य बीमा प्रमाणपत्र घरमा राख्नुपर्छ।",
@@ -92,7 +92,7 @@
   },
   {
     "id": 8,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "二輪車に乗車する時は、両膝でタンクを軽く挟むようにするとよい。",
     "question_en": "When riding a two-wheeled vehicle, it is better to lightly hold the tank with both knees.",
     "question_ne": "दुई पांग्रे सवारी साधन चलाउँदा, दुवै घुँडाले ट्याङ्कलाई हल्का रूपमा समातेर राख्नु राम्रो हुन्छ।",
@@ -105,7 +105,7 @@
   },
   {
     "id": 9,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "乗車定員が20人の車を運転するには、準中型免許が必要である。",
     "question_en": "To drive a vehicle with a seating capacity of 20 people, a semi-medium vehicle license is required.",
     "question_ne": "20 जना बस्न मिल्ने सवारी साधन चलाउन अर्ध-मध्यम सवारी अनुमतिपत्र आवश्यक हुन्छ।",
@@ -118,7 +118,7 @@
   },
   {
     "id": 10,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "馬は道路交通法における軽車両に分類される。",
     "question_en": "Horses are classified as light vehicles under the Road Traffic Act.",
     "question_ne": "घोडालाई सडक यातायात ऐनअन्तर्गत हल्का सवारी साधनमा वर्गीकरण गरिन्छ।",
@@ -131,7 +131,7 @@
   },
   {
     "id": 11,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "総排気量が750㏄の二輪車は、普通自動二輪車である。",
     "question_en": "A two-wheeled vehicle with a total engine displacement of 750cc is an ordinary motorcycle.",
     "question_ne": "750cc कुल इन्जिन क्षमताको दुई पांग्रे सवारी साधन साधारण मोटरसाइकल हो।",
@@ -144,7 +144,7 @@
   },
   {
     "id": 12,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "たとえ少量でも、お酒を飲んだら車を運転してはならない。",
     "question_en": "Even if it is only a small amount, you must not drive a car after drinking alcohol.",
     "question_ne": "थोरै मात्र भए पनि रक्सी पिएपछि गाडी चलाउनु हुँदैन।",
@@ -157,7 +157,7 @@
   },
   {
     "id": 13,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "タクシーを運転する際は、常に第二種免許が必要である。",
     "question_en": "When driving a taxi, a Class 2 driver's license is always required.",
     "question_ne": "ट्याक्सी चलाउँदा सधैं दोस्रो श्रेणीको चालक अनुमतिपत्र आवश्यक हुन्छ।",
@@ -170,7 +170,7 @@
   },
   {
     "id": 14,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "仮免許を取ったので、一人で車を運転し、買い物に出かけた。",
     "question_en": "After obtaining a learner's permit, I drove a car alone and went shopping.",
     "question_ne": "अस्थायी अनुमतिपत्र पाएपछि, म एक्लै कार चलाएर किनमेल गर्न गएँ।",
@@ -183,7 +183,7 @@
   },
   {
     "id": 15,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "普通自動二輪車は、自動車に分類される。",
     "question_en": "An ordinary motorcycle is classified as a motor vehicle.",
     "question_ne": "साधारण मोटरसाइकललाई मोटर सवारी साधनमा वर्गीकरण गरिन्छ।",
@@ -196,7 +196,7 @@
   },
   {
     "id": 16,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "総排気量が50㏄の二輪車は、自動二輪車に分類される。",
     "question_en": "A two-wheeled vehicle with a total engine displacement of 50cc is classified as a motorcycle.",
     "question_ne": "50cc कुल इन्जिन क्षमताको दुई पांग्रे सवारी साधनलाई मोटरसाइकलमा वर्गीकरण गरिन्छ।",
@@ -209,7 +209,7 @@
   },
   {
     "id": 17,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "効力を失った免許証を携帯して自動車を運転すると、無免許運転になる。",
     "question_en": "If you drive a car while carrying a driver's license that is no longer valid, it is considered driving without a license.",
     "question_ne": "वैधता गुमाइसकेको चालक अनुमतिपत्र बोकेर कार चलाएमा, त्यो अनुमतिपत्र बिना चलाएको मानिन्छ।",
@@ -222,7 +222,7 @@
   },
   {
     "id": 18,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "側車付きの自動二輪車は、普通自動車に分類される。",
     "question_en": "A motorcycle with a sidecar is classified as an ordinary motor vehicle.",
     "question_ne": "साइडकार भएको मोटरसाइकललाई साधारण मोटर सवारी साधनमा वर्गीकरण गरिन्छ।",
@@ -235,7 +235,7 @@
   },
   {
     "id": 19,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "普通免許を受けている者は、最大積載量3トン未満の貨物自動車を運転できる。",
     "question_en": "A person who has an ordinary driver's license can drive a freight vehicle with a maximum load capacity of less than 3 tons.",
     "question_ne": "साधारण चालक अनुमतिपत्र भएको व्यक्तिले अधिकतम लोड क्षमता 3 टनभन्दा कम भएको मालवाहक सवारी साधन चलाउन सक्छ।",
@@ -248,7 +248,7 @@
   },
   {
     "id": 20,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "げたやハイヒールを履いて四輪を運転するのは危険である。",
     "question_en": "It is dangerous to drive a four-wheeled vehicle while wearing geta sandals or high heels.",
     "question_ne": "गेता चप्पल वा हाई हिल लगाएर चार पांग्रे सवारी साधन चलाउनु खतरनाक हुन्छ।",
@@ -261,7 +261,7 @@
   },
   {
     "id": 21,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "車両総重量が7トンの車は、中型自動車である。",
     "question_en": "A vehicle with a gross vehicle weight of 7 tons is a medium vehicle.",
     "question_ne": "कुल सवारी तौल 7 टन भएको सवारी साधन मध्यम सवारी साधन हो।",
@@ -274,7 +274,7 @@
   },
   {
     "id": 22,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "道路で自動車や原動機付自転車を運転するときは、その車種に応じた免許を取得せねばならない。",
     "question_en": "When driving a motor vehicle or moped on the road, you must obtain a license appropriate for that type of vehicle.",
     "question_ne": "सडकमा मोटर सवारी साधन वा मोपेड चलाउँदा, त्यस सवारी साधनको प्रकारअनुसारको अनुमतिपत्र प्राप्त गर्नुपर्छ।",
@@ -287,7 +287,7 @@
   },
   {
     "id": 23,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "普通自動車の乗車定員は10人以下である。",
     "question_en": "The seating capacity of an ordinary motor vehicle is 10 people or fewer.",
     "question_ne": "साधारण मोटर सवारी साधनको बस्ने क्षमता 10 जना वा सोभन्दा कम हुन्छ।",
@@ -300,7 +300,7 @@
   },
   {
     "id": 24,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "たとえ電子メールの送信であっても、運転中に携帯電話を操作してはならない。",
     "question_en": "Even if it is only to send an email, you must not operate a mobile phone while driving.",
     "question_ne": "इमेल पठाउनका लागि मात्र भए पनि, गाडी चलाउँदा मोबाइल फोन चलाउनु हुँदैन।",
@@ -313,7 +313,7 @@
   },
   {
     "id": 25,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "道路は公共の場であるので、車を運転するときは自分の利便だけではなく、周囲の人への配慮が必要である。",
     "question_en": "Since roads are public spaces, when driving a car, you must consider not only your own convenience but also the people around you.",
     "question_ne": "सडक सार्वजनिक स्थान भएकाले, गाडी चलाउँदा आफ्नो सुविधामात्र होइन, वरिपरिका मानिसहरूको पनि ध्यान राख्नुपर्छ।",
@@ -326,7 +326,7 @@
   },
   {
     "id": 26,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "疲れて眠気を感じたので、すみやかに車を止め、休息を取った。",
     "question_en": "Because I felt tired and sleepy, I promptly stopped the car and took a rest.",
     "question_ne": "थकान र निद्रा लागेकाले, मैले तुरुन्तै गाडी रोकेर आराम गरेँ।",
@@ -339,7 +339,7 @@
   },
   {
     "id": 27,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "眼鏡等使用の条件付き免許を受けた人は、車を運転する際にコンタクトレンズを使用してもよい。",
     "question_en": "A person who has a license with the condition of wearing glasses or similar corrective devices may use contact lenses when driving a car.",
     "question_ne": "चस्मा आदि प्रयोग गर्ने सर्त भएको अनुमतिपत्र पाएको व्यक्तिले कार चलाउँदा कन्ट्याक्ट लेन्स प्रयोग गर्न सक्छ।",
@@ -456,7 +456,7 @@
   },
   {
     "id": 36,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "本標識とは、規制標識・指示標識・警戒標識・補助標識の4つを指す。",
     "question_en": "Main signs refer to four types: regulatory signs, instruction signs, warning signs, and auxiliary signs.",
     "question_ne": "मुख्य संकेत भन्नाले नियमन संकेत, निर्देशन संकेत, चेतावनी संकेत र सहायक संकेत गरी चार प्रकारलाई जनाउँछ।",
@@ -534,7 +534,7 @@
   },
   {
     "id": 42,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "黄色の点滅信号のときは、徐行して進行しなくてはならない。",
     "question_en": "When the traffic light is flashing yellow, you must proceed slowly.",
     "question_ne": "ट्राफिक बत्ती पहेँलो झिम्किरहेको बेला, बिस्तारै अघि बढ्नुपर्छ।",
@@ -560,7 +560,7 @@
   },
   {
     "id": 44,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "左右の信号が赤色や黄色でも、対面する信号が青色とは限らない。",
     "question_en": "Even if the traffic lights on the left and right are red or yellow, the traffic light facing you is not necessarily green.",
     "question_ne": "बायाँ र दायाँतर्फका ट्राफिक बत्ती रातो वा पहेँलो भए पनि, आफ्नो अगाडिको ट्राफिक बत्ती हरियो नै हुन्छ भन्ने हुँदैन।",
@@ -573,7 +573,7 @@
   },
   {
     "id": 45,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "黄色の点滅信号のときは、徐行して進行しなくてはならない。",
     "question_en": "When the traffic light is flashing yellow, you must proceed slowly.",
     "question_ne": "ट्राफिक बत्ती पहेँलो झिम्किरहेको बेला, बिस्तारै अघि बढ्नुपर्छ।",
@@ -586,7 +586,7 @@
   },
   {
     "id": 46,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "青色の矢印信号が右折の矢印であっても、転回は禁止されている。",
     "question_en": "Even if the green arrow signal indicates a right turn, U-turns are prohibited.",
     "question_ne": "हरियो तीर संकेत दायाँ मोड्ने संकेत भए पनि, यू-टर्न गर्न निषेध गरिएको छ।",
@@ -599,7 +599,7 @@
   },
   {
     "id": 47,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "対面する信号が青色になったので、直ちに発進した。",
     "question_en": "Since the traffic light facing me turned green, I started moving immediately.",
     "question_ne": "आफ्नो अगाडिको ट्राफिक बत्ती हरियो भएपछि, मैले तुरुन्तै चल्न सुरु गरेँ।",
@@ -612,7 +612,7 @@
   },
   {
     "id": 48,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "安全な車間距離は、停止距離とほぼ同じ距離である。",
     "question_en": "A safe following distance is approximately the same as the stopping distance.",
     "question_ne": "सुरक्षित सवारी दूरी रोक्ने दूरीसँग लगभग बराबर हुन्छ।",
@@ -625,7 +625,7 @@
   },
   {
     "id": 49,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "自動車は、道路の流れを考え、常に最高速度ぎりぎりで走るのが、結果的には安全である。",
     "question_en": "Considering the flow of traffic, it is ultimately safer for a car to always drive just below the maximum speed limit.",
     "question_ne": "सडकको सवारी प्रवाहलाई विचार गर्दा, कारले सधैं अधिकतम गति सीमाको नजिकै चलाउनु अन्ततः सुरक्षित हुन्छ।",
@@ -638,7 +638,7 @@
   },
   {
     "id": 50,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "一般道路で普通自動車が追い越しをするときの一時的な最高速度は、時速80キロメートルである。",
     "question_en": "On ordinary roads, the temporary maximum speed for an ordinary car when overtaking is 80 kilometers per hour.",
     "question_ne": "सामान्य सडकमा साधारण कारले ओभरटेक गर्दा अस्थायी अधिकतम गति प्रतिघण्टा 80 किलोमिटर हुन्छ।",
@@ -651,7 +651,7 @@
   },
   {
     "id": 51,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "疲れているときは、制動距離が長くなるので、運転には注意が必要である。",
     "question_en": "When you are tired, the braking distance becomes longer, so you need to be careful when driving.",
     "question_ne": "थाकेको बेला ब्रेक लागेपछि रोकिने दूरी लामो हुन्छ, त्यसैले गाडी चलाउँदा सावधानी आवश्यक हुन्छ।",
@@ -664,7 +664,7 @@
   },
   {
     "id": 52,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "一方通行の道路では、道路の右側を通行できる。",
     "question_en": "On a one-way road, vehicles may travel on the right side of the road.",
     "question_ne": "एकतर्फी सडकमा, सवारी साधनहरू सडकको दायाँपट्टि चल्न सक्छन्।",
@@ -677,7 +677,7 @@
   },
   {
     "id": 53,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "車両通行帯のない道路では、車は、道路の左に寄って通行する。",
     "question_en": "On a road without vehicle lanes, vehicles should keep to the left side of the road.",
     "question_ne": "सवारी लेन नभएको सडकमा, सवारी साधनहरू सडकको बायाँतर्फ लागेर चल्नुपर्छ।",
@@ -690,7 +690,7 @@
   },
   {
     "id": 54,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "二輪車は小回りがきくとはいえ、道路が混雑しているときに車と車の間をすり抜けてはならない。",
     "question_en": "Even though two-wheeled vehicles are maneuverable, they must not weave between cars when the road is congested.",
     "question_ne": "दुई पांग्रे सवारी साधन सजिलै मोड्न सकिने भए पनि, सडक जाम भएको बेला गाडी र गाडीको बीचबाट निस्कनु हुँदैन।",
@@ -703,7 +703,7 @@
   },
   {
     "id": 55,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "同一方向に車両通行帯が3つ以上ある場合は、原則として交通量の少ない車両通行帯を走行する。",
     "question_en": "When there are three or more vehicle lanes in the same direction, as a general rule, vehicles should drive in the lane with less traffic.",
     "question_ne": "एउटै दिशामा तीन वा सोभन्दा बढी सवारी लेन भएमा, सामान्य नियमअनुसार सवारी साधनले कम ट्राफिक भएको लेनमा चल्नुपर्छ।",
@@ -716,7 +716,7 @@
   },
   {
     "id": 56,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "右側部分の道幅が6メートル未満の見通しの良い道路で追い越しをするときは、中央線が黄線であっても、中央線から右側にはみ出してもよい。",
     "question_en": "When overtaking on a road with good visibility where the right-side part of the road is less than 6 meters wide, you may move out to the right of the center line even if the center line is yellow.",
     "question_ne": "दायाँपट्टिको सडक भाग 6 मिटरभन्दा कम चौडाइ भएको र दृश्यता राम्रो भएको सडकमा ओभरटेक गर्दा, केन्द्र रेखा पहेँलो भए पनि केन्द्र रेखाभन्दा दायाँतर्फ निस्कन सकिन्छ।",
@@ -729,7 +729,7 @@
   },
   {
     "id": 57,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "車は、歩行者がいないときに限り安全地帯を通行できる。",
     "question_en": "Vehicles may pass through a safety zone only when there are no pedestrians.",
     "question_ne": "पैदलयात्री नभएको अवस्थामा मात्र सवारी साधन सुरक्षा क्षेत्रबाट जान सक्छन्।",
@@ -742,7 +742,7 @@
   },
   {
     "id": 58,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "車は、軌道敷内を通行できない上に、軌道敷を横切ってもならない。",
     "question_en": "Vehicles may not drive within a streetcar track area, and they also must not cross the track area.",
     "question_ne": "सवारी साधनहरू ट्राम ट्र्याक क्षेत्रमा चल्न सक्दैनन्, र ट्र्याक क्षेत्र काट्न पनि हुँदैन।",
@@ -755,7 +755,7 @@
   },
   {
     "id": 59,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "エンジンを止めて二輪車を押して歩くときは、歩道や路側帯を通行できる。",
     "question_en": "When pushing a two-wheeled vehicle with the engine turned off, you may use sidewalks and roadside strips.",
     "question_ne": "इन्जिन बन्द गरेर दुई पांग्रे सवारी साधन धकेल्दै हिँड्दा, फुटपाथ र सडक छेउको पट्टी प्रयोग गर्न सकिन्छ।",
@@ -768,7 +768,7 @@
   },
   {
     "id": 60,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "歩行者専用道路は、許可を受けており、かつ法定速度を守れば車も通行可能である。",
     "question_en": "On a pedestrian-only road, vehicles may pass if they have permission and follow the legal speed limit.",
     "question_ne": "पैदलयात्री専用 सडकमा, अनुमति लिएको र कानुनी गति सीमा पालना गरेको भए सवारी साधन पनि जान सक्छ।",
@@ -781,7 +781,7 @@
   }, 
   {
     "id": 61,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "歩道は軽車両以外の車は通行してはならない。",
     "question_en": "Vehicles other than light vehicles must not travel on sidewalks.",
     "question_ne": "हल्का सवारी साधनबाहेक अन्य सवारी साधनहरू फुटपाथमा चल्नु हुँदैन।",
@@ -794,7 +794,7 @@
   }, 
   {
     "id": 62,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "横断歩道を横断しようとしている人がいたので、減速した。",
     "question_en": "There was a person trying to cross at a pedestrian crossing, so I slowed down.",
     "question_ne": "पैदलयात्री क्रसिङमा बाटो काट्न खोजिरहेको व्यक्ति भएकाले, मैले गति घटाएँ।",
@@ -807,7 +807,7 @@
   }, 
   {
     "id": 63,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "横断歩道に近づいたとき、横断している人が自車の存在に気付き止まったが、一時停止して歩行者に通行させた。",
     "question_en": "When approaching a pedestrian crossing, a pedestrian who was crossing noticed my vehicle and stopped, but I stopped temporarily and let the pedestrian pass.",
     "question_ne": "पैदलयात्री क्रसिङ नजिकिँदा, बाटो काटिरहेको पैदलयात्रीले मेरो सवारी साधन देखेर रोकियो, तर मैले एकपटक रोकिएर पैदलयात्रीलाई जान दिएँ।",
@@ -820,7 +820,7 @@
   }
 , {
     "id": 64,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "横断中の歩行者が自車に気づいていなかったので、警音器を鳴らして注意した。",
     "question_en": "Since the pedestrian crossing the road did not notice my vehicle, I sounded the horn to warn them.",
     "question_ne": "बाटो काटिरहेको पैदलयात्रीले मेरो सवारी साधन याद नगरेकाले, मैले चेतावनी दिन हर्न बजाएँ।",
@@ -833,7 +833,7 @@
   }
 , {
     "id": 65,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "横断歩道に近づいたときは、横断する歩行者のあるなしに関わらず、徐行せねばならない。",
     "question_en": "When approaching a pedestrian crossing, you must proceed slowly regardless of whether there are pedestrians crossing.",
     "question_ne": "पैदलयात्री क्रसिङ नजिकिँदा, बाटो काट्ने पैदलयात्री भए पनि नभए पनि, बिस्तारै चल्नुपर्छ।",
@@ -846,7 +846,7 @@
   }
 , {
     "id": 66,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "交通整理の行われていない横断歩道の手前にトラックが停止していたので、安全のため徐行してトラックの側方を通過した。",
     "question_en": "A truck was stopped before a pedestrian crossing where traffic control was not being conducted, so I passed alongside the truck slowly for safety.",
     "question_ne": "ट्राफिक नियन्त्रण नभएको पैदलयात्री क्रसिङ अगाडि ट्रक रोकिएको थियो, त्यसैले सुरक्षाका लागि म बिस्तारै ट्रकको छेउबाट पार भएँ।",
@@ -898,7 +898,7 @@
   }
 , {
     "id": 70,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "盲導犬を連れた人のそばを通るときに、一時停止をして、安全を確認して通行した。",
     "question_en": "When passing near a person accompanied by a guide dog, I stopped temporarily, checked for safety, and then passed.",
     "question_ne": "गाइड कुकुर साथमा भएको व्यक्तिको नजिकबाट जाँदा, मैले एकपटक रोकेर सुरक्षा確認 गरी अघि बढेँ।",
@@ -923,7 +923,7 @@
   }
 , {
     "id": 72,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "内輪差とは、車が曲がるとき、前輪が後輪より内側を通ることによる軌跡の差を呼ぶ。",
     "question_en": "The inner wheel difference refers to the difference in tracks caused by the front wheels passing inside the rear wheels when a vehicle turns.",
     "question_ne": "गाडी मोड्दा अगाडिका पाङ्ग्राहरू पछाडिका पाङ्ग्राभन्दा भित्रबाट जाने भएकाले हुने मार्गको फरकलाई इनर व्हील डिफरेन्स भनिन्छ।",
@@ -936,7 +936,7 @@
   }
 , {
     "id": 73,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "車が交差点を左折するときは、あらかじめできるだけ道路の左端に寄り、交差点の側端に沿って徐行しなければならない。",
     "question_en": "When a vehicle turns left at an intersection, it must move as close as possible to the left edge of the road in advance and proceed slowly along the side edge of the intersection.",
     "question_ne": "गाडीले चोकमा बायाँ मोड्दा, पहिल्यै सकेसम्म सडकको बायाँ किनारतिर लागेर चोकको छेउअनुसार बिस्तारै मोडिनुपर्छ।",
@@ -949,7 +949,7 @@
   }
 , {
     "id": 74,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "交通整理が行われている片側3車線の交差点では、原動機付自転車は二段階右折をする。",
     "question_en": "At a traffic-controlled intersection with three lanes on one side, mopeds must make a two-step right turn.",
     "question_ne": "ट्राफिक नियन्त्रण भएको एकतर्फी तीन लेनको चोकमा, मोपेडले दुई चरणमा दायाँ मोडिनुपर्छ।",
@@ -962,7 +962,7 @@
   }
 , {
     "id": 75,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "見通しのきかない交差点では、信号の有無にかかわらず徐行せねばならない。",
     "question_en": "At an intersection with poor visibility, you must proceed slowly regardless of whether there is a traffic signal.",
     "question_ne": "दृश्यता कम भएको चोकमा, ट्राफिक बत्ती भए पनि नभए पनि बिस्तारै चल्नुपर्छ।",
@@ -975,7 +975,7 @@
   }
 , {
     "id": 76,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "左右折をしない場合、交差点を通行するときに徐行する必要はない。",
     "question_en": "If you are not turning left or right, there is no need to proceed slowly when passing through an intersection.",
     "question_ne": "बायाँ वा दायाँ मोड्नु छैन भने, चोक पार गर्दा बिस्तारै चल्न आवश्यक छैन।",
@@ -988,7 +988,7 @@
   }
 , {
     "id": 77,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "右折や左折をするときは、必ず徐行せねばならない。",
     "question_en": "When turning right or left, you must always proceed slowly.",
     "question_ne": "दायाँ वा बायाँ मोड्दा, अनिवार्य रूपमा बिस्तारै चल्नुपर्छ।",
@@ -1001,7 +1001,7 @@
   }
 , {
     "id": 78,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "この標識は、原動機付自転車が二段階右折せねばならないことを示している。",
     "question_en": "This sign indicates that mopeds must make a two-step right turn.",
     "question_ne": "यो चिन्हले मोपेडले दुई चरणमा दायाँ मोडिनुपर्छ भन्ने जनाउँछ।",
@@ -1014,7 +1014,7 @@
   }
 , {
     "id": 79,
-    "image": "assets/signs/nosign.png",
+    "image": "assets/signs/nopict.png",
     "question_ja": "交差点を右折するときは、あらかじめ道路の中央によって右折する。",
     "question_en": "When turning right at an intersection, you should move toward the center of the road in advance before turning right.",
     "question_ne": "चोकमा दायाँ मोड्दा, पहिल्यै सडकको बीचतिर लागेर दायाँ मोड्नुपर्छ।",
@@ -1027,7 +1027,7 @@
   }
 ,{
   "id": 80,
-  "image": "assets/signs/nosign.png",
+  "image": "assets/signs/nopict.png",
   "question_ja": "交差点で右折するとき、先に交差点内に入っていたとしても、直進車より先に右折してはならない。",
   "question_en": "When turning right at an intersection, even if you entered the intersection first, you must not turn right before vehicles going straight.",
   "question_ne": "चोकमा दायाँ मोड्दा, पहिले चोकभित्र प्रवेश गरेको भए पनि, सिधा जाने सवारी साधनभन्दा पहिले दायाँ मोड्नु हुँदैन।",
