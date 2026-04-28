@@ -37,7 +37,7 @@ let userName = "";
 let userAnswers = [];
 
 async function loadQuestions() {
-  const response = await fetch("./data/questions.json");
+  const response = await fetch("./data/questions2.json");
   if (!response.ok) {
     throw new Error("Failed to load questions.json");
   }

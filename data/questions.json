@@ -41,15 +41,15 @@
   {
     "id": 4,
     "image": "assets/signs/sign4.png",
-    "question_ja": "この標識は、すべての車両が通行止めであることを表している。",
-    "question_en": "This sign indicates that all vehicles are prohibited from passing.",
-    "question_ne": "यो चिन्हले सबै सवारी साधनहरूलाई जान निषेध गरिएको जनाउँछ।",
-    "question_hi": "यह संकेत बताता है कि सभी वाहनों का गुजरना निषिद्ध है।",
-    "answer": false,
-    "correct_explanation_ja": "この標識は、自動車が通行してはいけないことを表している。",
-    "correct_explanation_en": "This sign means that automobiles are not allowed to pass.",
-    "correct_explanation_ne": "यो चिन्हले मोटरगाडीहरू जान नपाइने जनाउँछ।",
-    "correct_explanation_hi": "यह संकेत बताता है कि मोटरगाड़ियों का गुजरना निषिद्ध है।"
+    "question_ja": "四輪車やトラック、バス（三輪以上）の進入を禁止し、バイク（二輪車）や原付は通行可能であることを示している",
+    "question_en": "It indicates that the entry of four-wheeled vehicles, trucks, and buses (vehicles with three or more wheels) is prohibited, while motorcycles (two-wheeled vehicles) and mopeds are allowed to pass.",
+    "question_ne": "यसले चार पाङ्ग्रे सवारी, ट्रक, र बस (तीन वा सोभन्दा बढी पाङ्ग्रा भएका सवारी) प्रवेश गर्न निषेध गरिएको छ, तर मोटरसाइकल (दुई पाङ्ग्रे सवारी) र मोपेड भने जान सक्नेछन् भन्ने जनाउँछ।",
+    "question_hi": "यह दर्शाता है कि चार पहिया वाहन, ट्रक और बस (तीन या उससे अधिक पहियों वाले वाहन) का प्रवेश निषिद्ध है, जबकि मोटरसाइकिल (दो पहिया वाहन) और मोपेड जा सकते हैं।",
+    "answer": true,
+    "correct_explanation_ja": "",
+    "correct_explanation_en": "",
+    "correct_explanation_ne": "",
+    "correct_explanation_hi": ""
   },
   {
     "id": 5,
