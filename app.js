@@ -24,11 +24,11 @@ const resultDetail = document.getElementById("resultDetail");
 const submitStatus = document.getElementById("submitStatus");
 const restartBtn = document.getElementById("restartBtn");
 
-const questionCountButtons = document.querySelectorAll(".question-count-btn");
-const questionCountError = document.getElementById("questionCountError");
+const testModeButtons = document.querySelectorAll(".test-mode-btn");
+const testModeError = document.getElementById("testModeError");
 
-let selectedQuestionCount = 0;
-
+let selectedTestMode = "";
+let currentQuestionSource = [];
 let allQuestions = [];
 let selectedQuestions = [];
 let currentIndex = 0;
@@ -36,12 +36,54 @@ let score = 0;
 let userName = "";
 let userAnswers = [];
 
-async function loadQuestions() {
-  const response = await fetch("./data/questions2.json");
+async function loadJsonFile(path) {
+  const response = await fetch(path);
   if (!response.ok) {
-    throw new Error("Failed to load questions.json");
+    throw new Error(`Failed to load ${path}`);
   }
   return await response.json();
+}
+
+function getTestConfig(mode) {
+  const configs = {
+    random10: {
+      file: "./data/allquestion.json",
+      questionCount: 10,
+      passingScore: 9,
+      random: true,
+      label: "Random 10 Questions"
+    },
+    random50: {
+      file: "./data/allquestion.json",
+      questionCount: 50,
+      passingScore: 45,
+      random: true,
+      label: "Random 50 Questions"
+    },
+    test1: {
+      file: "./data/50q_1.json",
+      questionCount: 50,
+      passingScore: 45,
+      random: false,
+      label: "50 Questions Test 1"
+    },
+    test2: {
+      file: "./data/50q_2.json",
+      questionCount: 50,
+      passingScore: 45,
+      random: false,
+      label: "50 Questions Test 2"
+    },
+    test3: {
+      file: "./data/50q_3.json",
+      questionCount: 50,
+      passingScore: 45,
+      random: false,
+      label: "50 Questions Test 3"
+    }
+  };
+
+  return configs[mode] || null;
 }
 
 function shuffleArray(array) {
@@ -53,7 +95,7 @@ function shuffleArray(array) {
   return copied;
 }
 
-function startQuiz() {
+async function startQuiz() {
   userName = userNameInput.value.trim();
 
   if (!userName) {
@@ -61,26 +103,41 @@ function startQuiz() {
     return;
   }
 
-  if (!selectedQuestionCount) {
-    questionCountError.classList.remove("hidden");
+  if (!selectedTestMode) {
+    testModeError.classList.remove("hidden");
     return;
   }
 
-  if (allQuestions.length < selectedQuestionCount) {
-    alert(`The question database must contain at least ${selectedQuestionCount} questions.`);
-    return;
+  try {
+    const config = getTestConfig(selectedTestMode);
+
+    if (!config) {
+      alert("Invalid test mode selected.");
+      return;
+    }
+
+    currentQuestionSource = await loadJsonFile(config.file);
+
+    if (currentQuestionSource.length < config.questionCount) {
+      alert(`The database must contain at least ${config.questionCount} questions.`);
+      return;
+    }
+
+    selectedQuestions = shuffleArray(currentQuestionSource).slice(0, config.questionCount);
+
+    currentIndex = 0;
+    score = 0;
+    userAnswers = [];
+
+    startScreen.classList.add("hidden");
+    resultScreen.classList.add("hidden");
+    quizScreen.classList.remove("hidden");
+
+    renderQuestion();
+  } catch (error) {
+    alert("Failed to load test data.");
+    console.error(error);
   }
-
-  selectedQuestions = shuffleArray(allQuestions).slice(0, selectedQuestionCount);
-  currentIndex = 0;
-  score = 0;
-  userAnswers = [];
-
-  startScreen.classList.add("hidden");
-  resultScreen.classList.add("hidden");
-  quizScreen.classList.remove("hidden");
-
-  renderQuestion();
 }
 
 function renderQuestion() {
@@ -185,13 +242,14 @@ function showResult() {
   resultName.textContent = `Name: ${userName}`;
   scoreText.textContent = `${score} / ${selectedQuestions.length}`;
 
-  const passingScore = getPassingScore(selectedQuestions.length);
+  const passingScore = getPassingScoreByMode(selectedTestMode);
+  const currentConfig = getTestConfig(selectedTestMode);
 
   if (score >= passingScore) {
-    passStatus.textContent = `合格 (Passed) - Passing score: ${passingScore}/${selectedQuestions.length}`;
+    passStatus.textContent = `合格 (Passed) - ${currentConfig.label} - Passing score: ${passingScore}/${selectedQuestions.length}`;
     passStatus.className = "text-center text-2xl font-bold mb-6 text-green-600";
   } else {
-    passStatus.textContent = `不合格 (Failed) - Passing score: ${passingScore}/${selectedQuestions.length}`;
+    passStatus.textContent = `不合格 (Failed) - ${currentConfig.label} - Passing score: ${passingScore}/${selectedQuestions.length}`;
     passStatus.className = "text-center text-2xl font-bold mb-6 text-red-600";
   }
 
@@ -246,33 +304,26 @@ restartBtn.addEventListener("click", () => {
   userNameInput.value = "";
   submitStatus.textContent = "";
   passStatus.textContent = "";
-  selectedQuestionCount = 0;
-  questionCountError.classList.add("hidden");
-  questionCountButtons.forEach(btn => btn.classList.remove("active"));
+  selectedTestMode = "";
+  testModeError.classList.add("hidden");
+  testModeButtons.forEach(btn => btn.classList.remove("active"));
 });
 
-(async function init() {
-  try {
-    allQuestions = await loadQuestions();
-  } catch (error) {
-    alert("Failed to load question data.");
-    console.error(error);
-  }
+(function init() {
+  console.log("App initialized.");
 })();
 
-questionCountButtons.forEach(button => {
+testModeButtons.forEach(button => {
   button.addEventListener("click", () => {
-    questionCountButtons.forEach(btn => btn.classList.remove("active"));
+    testModeButtons.forEach(btn => btn.classList.remove("active"));
     button.classList.add("active");
 
-    selectedQuestionCount = Number(button.dataset.count);
-    questionCountError.classList.add("hidden");
+    selectedTestMode = button.dataset.mode;
+    testModeError.classList.add("hidden");
   });
 });
 
-function getPassingScore(questionCount) {
-  if (questionCount === 10) return 7;
-  if (questionCount === 30) return 25;
-  if (questionCount === 50) return 45;
-  return 0;
+function getPassingScoreByMode(mode) {
+  const config = getTestConfig(mode);
+  return config ? config.passingScore : 0;
 }

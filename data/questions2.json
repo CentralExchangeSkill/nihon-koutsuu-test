@@ -1001,7 +1001,7 @@
   }
 , {
     "id": 78,
-    "image": "assets/signs/nopict.png",
+    "image": "assets/signs/sign27.png",
     "question_ja": "この標識は、原動機付自転車が二段階右折せねばならないことを示している。",
     "question_en": "This sign indicates that mopeds must make a two-step right turn.",
     "question_ne": "यो चिन्हले मोपेडले दुई चरणमा दायाँ मोडिनुपर्छ भन्ने जनाउँछ।",
@@ -1037,5 +1037,70 @@
   "correct_explanation_en": "A vehicle turning right must not obstruct vehicles going straight.",
   "correct_explanation_ne": "दायाँ मोड्ने सवारी साधनले सिधा जाने सवारी साधनको आवागमनमा बाधा पुर्‍याउनु हुँदैन।",
   "correct_explanation_hi": "दाएँ मुड़ने वाले वाहन को सीधे जाने वाले वाहनों की आवाजाही में बाधा नहीं डालनी चाहिए।"
+}
+,{
+  "id": 81,
+  "image": "assets/signs/nopict.png",
+  "question_ja": "通行している道路が優先道路のときは、左右の見通しがきかない交差点であれば、徐行せねばならない。",
+  "question_en": "When the road you are traveling on is a priority road, you must proceed slowly at an intersection with poor visibility to the left and right.",
+  "question_ne": "आफू चलिरहेको सडक प्राथमिकता भएको सडक भएमा, बायाँ-दायाँ दृश्यता कम भएको चोकमा बिस्तारै चल्नुपर्छ।",
+  "question_hi": "जिस सड़क पर आप चल रहे हैं वह प्राथमिकता वाली सड़क हो, तो बाएँ-दाएँ दृश्यता खराब वाले चौराहे पर धीरे चलना आवश्यक है।",
+  "answer": false,
+  "correct_explanation_ja": "誤りである。優先道路を通行している場合は、徐行する必要がない。なお、通行している道が優先道路でない場合は、左右の見通しがきかない交差点では徐行しなければならない。",
+  "correct_explanation_en": "This is incorrect. When you are traveling on a priority road, you do not need to proceed slowly. However, if the road you are traveling on is not a priority road, you must proceed slowly at an intersection with poor visibility to the left and right.",
+  "correct_explanation_ne": "यो गलत हो। प्राथमिकता भएको सडकमा चलिरहेको अवस्थामा बिस्तारै चल्नुपर्ने आवश्यकता हुँदैन। तर, आफू चलिरहेको सडक प्राथमिकता भएको सडक होइन भने, बायाँ-दायाँ दृश्यता कम भएको चोकमा बिस्तारै चल्नुपर्छ।",
+  "correct_explanation_hi": "यह गलत है। प्राथमिकता वाली सड़क पर चल रहे होने पर धीरे चलने की आवश्यकता नहीं होती। हालांकि, यदि जिस सड़क पर आप चल रहे हैं वह प्राथमिकता वाली सड़क नहीं है, तो बाएँ-दाएँ दृश्यता खराब वाले चौराहे पर धीरे चलना आवश्यक है।"
+}
+,{
+  "id": 82,
+  "image": "assets/signs/nopict.png",
+  "question_ja": "同じ道幅の交差点で、左方から進行してくる車を、妨げてはならない。",
+  "question_en": "At an intersection where the roads are the same width, you must not obstruct a vehicle approaching from the left.",
+  "question_ne": "सडकको चौडाइ समान भएको चोकमा, बायाँतर्फबाट आइरहेको सवारी साधनको आवागमनमा बाधा पुर्‍याउनु हुँदैन।",
+  "question_hi": "समान चौड़ाई वाली सड़कों के चौराहे पर, बाईं ओर से आ रहे वाहन की आवाजाही में बाधा नहीं डालनी चाहिए।",
+  "answer": true,
+  "correct_explanation_ja": "たとえ原動機付自転車であっても、左方から進行してくる車を妨げてはならない。",
+  "correct_explanation_en": "Even if it is a moped, you must not obstruct a vehicle approaching from the left.",
+  "correct_explanation_ne": "मोपेड भए पनि, बायाँतर्फबाट आइरहेको सवारी साधनको आवागमनमा बाधा पुर्‍याउनु हुँदैन।",
+  "correct_explanation_hi": "भले ही वह मोपेड हो, बाईं ओर से आ रहे वाहन की आवाजाही में बाधा नहीं डालनी चाहिए।"
+}
+,{
+  "id": 83,
+  "image": "assets/signs/sign29.png",
+  "question_ja": "この標識がある交差点では、たとえ自車の走行する道路が優先道路であり、見通しがよくても、必ず一時停止しなければならない。",
+  "question_en": "At an intersection with this sign, even if the road you are traveling on is a priority road and visibility is good, you must always stop temporarily.",
+  "question_ne": "यो चिन्ह भएको चोकमा, आफू चलिरहेको सडक प्राथमिकता भएको सडक भए पनि र दृश्यता राम्रो भए पनि, अनिवार्य रूपमा एकपटक रोक्नुपर्छ।",
+  "question_hi": "इस संकेत वाले चौराहे पर, भले ही जिस सड़क पर आप चल रहे हैं वह प्राथमिकता वाली सड़क हो और दृश्यता अच्छी हो, फिर भी एक बार रुकना आवश्यक है।",
+  "answer": true,
+  "correct_explanation_ja": "この標識は、一時停止を示す。",
+  "correct_explanation_en": "This sign indicates a stop.",
+  "correct_explanation_ne": "यो चिन्हले एकपटक रोक्नुपर्ने जनाउँछ।",
+  "correct_explanation_hi": "यह संकेत एक बार रुकने को दर्शाता है।"
+}
+,{
+  "id": 84,
+  "image": "assets/signs/sign28.png",
+  "question_ja": "右図のような道幅の違う交差点では、Bの車は、Aの車を先に進行させねばならない。",
+  "question_en": "At an intersection with roads of different widths as shown in the figure on the right, vehicle B must allow vehicle A to proceed first.",
+  "question_ne": "दायाँ चित्रमा जस्तै फरक चौडाइ भएका सडकहरूको चोकमा, B गाडीले A गाडीलाई पहिले जान दिनुपर्छ।",
+  "question_hi": "दाईं ओर के चित्र जैसी अलग-अलग चौड़ाई वाली सड़कों के चौराहे पर, B वाहन को A वाहन को पहले जाने देना चाहिए।",
+  "answer": true,
+  "correct_explanation_ja": "中央線の引かれているAの車の走っている道路が優先道路である。そのため、Aの車が優先される。",
+  "correct_explanation_en": "The road on which vehicle A is traveling has a center line and is the priority road. Therefore, vehicle A has priority.",
+  "correct_explanation_ne": "A गाडी चलिरहेको सडकमा केन्द्र रेखा भएकोले त्यो प्राथमिकता भएको सडक हो। त्यसैले A गाडीलाई प्राथमिकता दिइन्छ।",
+  "correct_explanation_hi": "जिस सड़क पर A वाहन चल रहा है, उस पर केंद्र रेखा है और वह प्राथमिकता वाली सड़क है। इसलिए A वाहन को प्राथमिकता दी जाती है।"
+},
+{
+  "id": 85,
+  "image": "assets/signs/nopict.png",
+  "question_ja": "同じ道幅の交差点で路面電車が進行しているときは、右方・左方にかかわらず、路面電車の進行を妨げない。",
+  "question_en": "At an intersection where the roads are the same width, if a streetcar is proceeding, you must not obstruct it regardless of whether it is coming from the right or left.",
+  "question_ne": "सडकको चौडाइ समान भएको चोकमा ट्राम चलिरहेको छ भने, दायाँ वा बायाँ जहाँबाट आए पनि, ट्रामको आवागमनमा बाधा पुर्‍याउनु हुँदैन।",
+  "question_hi": "समान चौड़ाई वाली सड़कों के चौराहे पर यदि ट्राम चल रही हो, तो वह दाईं या बाईं ओर से आए, उसकी आवाजाही में बाधा नहीं डालनी चाहिए।",
+  "answer": true,
+  "correct_explanation_ja": "同じ道幅の交差点では、右方・左方にかかわらず路面電車の進行を妨げてはならない。ちなみに、自車の道路の方が路面電車の軌道敷幅より広い場合は、自車の道路が優先道路となり、自車が優先である。",
+  "correct_explanation_en": "At an intersection where the roads are the same width, you must not obstruct a streetcar regardless of whether it comes from the right or left. If the road you are traveling on is wider than the streetcar track area, your road is the priority road, so your vehicle has priority.",
+  "correct_explanation_ne": "सडकको चौडाइ समान भएको चोकमा, ट्राम दायाँ वा बायाँ जहाँबाट आए पनि, त्यसको आवागमनमा बाधा पुर्‍याउनु हुँदैन। यदि आफू चलिरहेको सडक ट्राम ट्र्याक क्षेत्रभन्दा फराकिलो छ भने, आफ्नो सडक प्राथमिकता भएको सडक हुन्छ र आफ्नो सवारी साधनलाई प्राथमिकता हुन्छ।",
+  "correct_explanation_hi": "समान चौड़ाई वाली सड़कों के चौराहे पर, ट्राम दाईं या बाईं ओर से आए, उसकी आवाजाही में बाधा नहीं डालनी चाहिए। यदि आपकी सड़क ट्राम ट्रैक क्षेत्र से अधिक चौड़ी है, तो आपकी सड़क प्राथमिकता वाली सड़क होती है और आपके वाहन को प्राथमिकता मिलती है।"
 }
 ]

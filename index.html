@@ -13,7 +13,7 @@
       font-family: "Noto Sans Devanagari", sans-serif;
     }
 
-    .question-count-btn.active {
+    .test-mode-btn.active {
       background-color: rgb(37 99 235);
       color: white;
       border-color: rgb(37 99 235);
@@ -25,14 +25,14 @@
     <div class="bg-white shadow-xl rounded-2xl p-6">
 
       <h1 class="text-2xl md:text-3xl font-bold text-center text-slate-800 mb-6">
-        Japanese Traffic Sign Test
+        Japanese Traffic Test
       </h1>
       
 
       <!-- Start Screen -->
       <section id="startScreen">
       <p class="text-center text-sm text-slate-500 mb-6">
-        Version 1.0.2
+        Version 1.1.0
       </p>
       <label class="block text-sm font-semibold text-slate-700 mb-2">
         Enter your name
@@ -46,37 +46,53 @@
 
       <div class="mb-4">
         <p class="block text-sm font-semibold text-slate-700 mb-2">
-          Choose number of questions
+          Choose test mode
         </p>
 
-        <div class="grid grid-cols-3 gap-3">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
           <button
             type="button"
-            class="question-count-btn border border-slate-300 rounded-xl py-3 font-semibold bg-white hover:bg-slate-50 transition"
-            data-count="10"
+            class="test-mode-btn border border-slate-300 rounded-xl py-3 px-4 font-semibold bg-white hover:bg-slate-50 transition"
+            data-mode="random10"
           >
-            10 Questions
+            Random 10 Questions
           </button>
 
           <button
             type="button"
-            class="question-count-btn border border-slate-300 rounded-xl py-3 font-semibold bg-white hover:bg-slate-50 transition"
-            data-count="30"
+            class="test-mode-btn border border-slate-300 rounded-xl py-3 px-4 font-semibold bg-white hover:bg-slate-50 transition"
+            data-mode="test1"
           >
-            30 Questions
+            50 Questions Test 1
           </button>
 
           <button
             type="button"
-            class="question-count-btn border border-slate-300 rounded-xl py-3 font-semibold bg-white hover:bg-slate-50 transition"
-            data-count="50"
+            class="test-mode-btn border border-slate-300 rounded-xl py-3 px-4 font-semibold bg-white hover:bg-slate-50 transition"
+            data-mode="test2"
           >
-            50 Questions
+            50 Questions Test 2
+          </button>
+
+          <button
+            type="button"
+            class="test-mode-btn border border-slate-300 rounded-xl py-3 px-4 font-semibold bg-white hover:bg-slate-50 transition"
+            data-mode="test3"
+          >
+            50 Questions Test 3
+          </button>
+
+          <button
+            type="button"
+            class="test-mode-btn border border-slate-300 rounded-xl py-3 px-4 font-semibold bg-white hover:bg-slate-50 transition md:col-span-2"
+            data-mode="random50"
+          >
+            Random 50 Questions
           </button>
         </div>
 
-        <p id="questionCountError" class="text-sm text-red-600 mt-2 hidden">
-          Please choose the number of questions.
+        <p id="testModeError" class="text-sm text-red-600 mt-2 hidden">
+          Please choose a test mode.
         </p>
       </div>
 
