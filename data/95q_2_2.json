@@ -1,0 +1,167 @@
+[
+  {
+    "id": 91,
+    "image": "assets/signs/final_test2/q91.png",
+    "question_ja": "時速40kmで対向車線が渋滞している道路を走行している。どのようなことに注意すべきか。",
+    "question_en": "You are driving at 40km/h on a road where the opposite lane is congested. What should you pay attention to?",
+    "question_ne": "तपाईं 40km/h को गतिमा विपरीत लेन जाम भएको सडकमा चलाइरहनुभएको छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 40km/h की गति से ऐसी सड़क पर चल रहे हैं जहाँ सामने वाली lane में traffic jam है। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "対向車線の停止車両の間から歩行者が出てくることがあるので、徐行する。",
+        "en": "You should slow down as pedestrians may come out from the stopped vehicles on the opposite lane.",
+        "ne": "विपरीत लेनमा रोकिएका सवारीहरू बीचबाट पैदल यात्री निस्कन सक्छन्, त्यसैले बिस्तारै चल्नुपर्छ।",
+        "hi": "सामने वाली lane में रुके वाहनों के बीच से pedestrian निकल सकते हैं, इसलिए धीमा चलना चाहिए।"
+      },
+      "2": {
+        "ja": "自分の車線は空いているので、そのままの速度で走行する。",
+        "en": "Drive at the current speed because my lane is not busy.",
+        "ne": "आफ्नो लेन खाली भएकाले अहिलेको गतिमै चल्नुपर्छ।",
+        "hi": "मेरी lane busy नहीं है, इसलिए current speed पर चलना चाहिए।"
+      },
+      "3": {
+        "ja": "渋滞から逃れるため、対向車線の車が急に転回したり右折したりすることがあるので、その動きに注意して走行する。",
+        "en": "Drive paying attention to the movement of vehicles in the opposite lane, as a car may U-turn suddenly or turn right to escape from the traffic jam.",
+        "ne": "जामबाट बच्न विपरीत लेनका सवारी अचानक U-turn वा दायाँ मोड्न सक्छन्, त्यसैले तिनीहरूको चालमा ध्यान दिनुपर्छ।",
+        "hi": "traffic jam से बचने के लिए opposite lane के वाहन अचानक U-turn या right turn कर सकते हैं, इसलिए उनके movement पर ध्यान देना चाहिए।"
+      }
+    },
+    "answer": "1",
+    "correct_explanation_ja": "対向車線が渋滞しているときは、停止車両の間から歩行者や自転車が出てくるおそれがある。速度を落として注意して通行する。",
+    "correct_explanation_en": "When the opposite lane is congested, pedestrians or bicycles may come out from between the stopped vehicles. Slow down and proceed carefully.",
+    "correct_explanation_ne": "विपरीत लेन जाम हुँदा रोकिएका सवारीहरू बीचबाट पैदल यात्री वा साइकल निस्कन सक्छन्। गति घटाएर सावधानीपूर्वक चल्नुपर्छ।",
+    "correct_explanation_hi": "जब opposite lane में traffic jam हो, तो रुके वाहनों के बीच से pedestrians या bicycles निकल सकते हैं। गति कम करके सावधानी से चलना चाहिए।"
+  },
+  {
+    "id": 92,
+    "image": "assets/signs/final_test2/q92.png",
+    "question_ja": "時速5kmで交差点を左折しようとしている。どのようなことに注意すべきか。",
+    "question_en": "You are driving at 5km/h to make a left turn at the intersection. What should you pay attention to?",
+    "question_ne": "तपाईं 5km/h को गतिमा चोकमा बायाँ मोड्न लाग्दै हुनुहुन्छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 5km/h की गति से चौराहे पर left turn करने जा रहे हैं। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "歩行者は横断しそうにないので、あまり注意せずに左折できる。",
+        "en": "It does not seem pedestrians are going to cross, you can turn left with little attention.",
+        "ne": "पैदल यात्री पार गर्ने जस्तो नदेखिएकाले, धेरै ध्यान नदिई बायाँ मोड्न सकिन्छ।",
+        "hi": "pedestrians crossing करने वाले नहीं लगते, इसलिए कम ध्यान देकर left turn कर सकते हैं।"
+      },
+      "2": {
+        "ja": "左側を通る二輪車を巻き込むおそれがあるので、後方から来る二輪車に注意して左折する。",
+        "en": "You should turn left by paying attention to the motorcycle coming from behind my car because it may pass through on my left side and cause accident.",
+        "ne": "पछाडिबाट आउने मोटरसाइकल बायाँ छेउबाट पस्न सक्छ र दुर्घटना हुन सक्छ, त्यसैले त्यसमा ध्यान दिँदै बायाँ मोड्नुपर्छ।",
+        "hi": "पीछे से आने वाली motorcycle left side से निकल सकती है और accident हो सकता है, इसलिए उस पर ध्यान देकर left turn करना चाहिए।"
+      },
+      "3": {
+        "ja": "対向車が急に右折することがあるので、対向車に注意して進行する。",
+        "en": "You should drive by paying attention to the oncoming which may turn right suddenly.",
+        "ne": "विपरीत दिशाबाट आउने सवारी अचानक दायाँ मोड्न सक्छ, त्यसैले त्यसमा ध्यान दिनुपर्छ।",
+        "hi": "oncoming vehicle अचानक right turn कर सकता है, इसलिए उस पर ध्यान देना चाहिए।"
+      }
+    },
+    "answer": "2",
+    "correct_explanation_ja": "左折するときは、左後方から来る二輪車や自転車を巻き込む危険がある。ミラーだけでなく直接目視して、安全を確認してから左折する。",
+    "correct_explanation_en": "When turning left, there is a risk of cutting off or hitting a motorcycle or bicycle coming from the left rear. Check directly as well as with mirrors before turning.",
+    "correct_explanation_ne": "बायाँ मोड्दा बायाँ पछाडिबाट आउने मोटरसाइकल वा साइकललाई巻き込む खतरा हुन्छ। mirror मात्र होइन, प्रत्यक्ष हेरेर सुरक्षा確認 गरेपछि मोड्नुपर्छ।",
+    "correct_explanation_hi": "left turn करते समय left rear से आने वाली motorcycle या bicycle को巻き込む खतरा होता है। mirror के साथ सीधे देखकर safety check करने के बाद turn करना चाहिए।"
+  },
+  {
+    "id": 93,
+    "image": "assets/signs/final_test2/q93.png",
+    "question_ja": "右折するため交差点で停止している。どのようなことに注意すべきか。",
+    "question_en": "The car is stopping at the intersection to make a right turn. What should you pay attention to?",
+    "question_ne": "कार दायाँ मोड्नका लागि चोकमा रोकिएको छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "कार right turn करने के लिए intersection पर रुकी है। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "対向車が譲ってくれていても、そのまま待つ。",
+        "en": "Even though the oncoming vehicle is yielding, you should stay there.",
+        "ne": "विपरीत दिशाबाट आउने सवारीले बाटो दिए पनि, त्यहीँ कुर्नुपर्छ।",
+        "hi": "oncoming vehicle रास्ता दे रहा हो तब भी वहीं रुकना चाहिए।"
+      },
+      "2": {
+        "ja": "対向車が譲ってくれていて、後続車も待っているので、すばやく右折する。",
+        "en": "You should turn right quickly because the oncoming vehicle is yielding to you and there are some vehicles waiting behind your car.",
+        "ne": "विपरीत सवारीले बाटो दिएको र पछाडि सवारी कुर्दै भएकाले छिटो दायाँ मोड्नुपर्छ।",
+        "hi": "oncoming vehicle रास्ता दे रहा है और पीछे vehicles wait कर रहे हैं, इसलिए जल्दी right turn करना चाहिए।"
+      },
+      "3": {
+        "ja": "対向車が譲ってくれていても、その陰から二輪車が出てくることがあるので注意して右折する。",
+        "en": "You should turn right while paying attention to the motorcycle which might come from behind the oncoming vehicle even though the oncoming vehicle is yielding.",
+        "ne": "विपरीत सवारीले बाटो दिए पनि, त्यसको पछाडिबाट मोटरसाइकल आउन सक्छ, त्यसैले ध्यान दिँदै दायाँ मोड्नुपर्छ।",
+        "hi": "oncoming vehicle रास्ता दे रहा हो तब भी उसके पीछे से motorcycle आ सकती है, इसलिए ध्यान देकर right turn करना चाहिए।"
+      }
+    },
+    "answer": "3",
+    "correct_explanation_ja": "対向車が譲ってくれている場合でも、その車の陰から二輪車が直進してくることがある。右折するときは、対向車の陰まで十分注意する。",
+    "correct_explanation_en": "Even when an oncoming vehicle yields, a motorcycle may come straight from behind it. When turning right, check carefully for hidden motorcycles.",
+    "correct_explanation_ne": "विपरीत सवारीले बाटो दिएको अवस्थामा पनि, त्यसको पछाडिबाट मोटरसाइकल सिधै आउन सक्छ। दायाँ मोड्दा लुकेको मोटरसाइकलमा ध्यान दिनुपर्छ।",
+    "correct_explanation_hi": "oncoming vehicle रास्ता दे रहा हो तब भी उसके पीछे से motorcycle straight आ सकती है। right turn करते समय hidden motorcycle पर ध्यान देना चाहिए।"
+  },
+  {
+    "id": 94,
+    "image": "assets/signs/final_test2/q94.png",
+    "question_ja": "時速40kmで山道を走行している。どのようなことに注意すべきか。",
+    "question_en": "You are driving at 40km/h on a mountain road. What should you pay attention to?",
+    "question_ne": "तपाईं 40km/h को गतिमा पहाडी सडकमा चलाइरहनुभएको छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 40km/h की गति से mountain road पर driving कर रहे हैं। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "カーブの先に駐車車両があるかもしれないので、徐行する。",
+        "en": "You should slow down because there might be the parked vehicles at the end of the bend.",
+        "ne": "मोडको अगाडि पार्क गरिएको सवारी हुन सक्छ, त्यसैले बिस्तारै चल्नुपर्छ।",
+        "hi": "bend के आगे parked vehicles हो सकते हैं, इसलिए slow down करना चाहिए।"
+      },
+      "2": {
+        "ja": "坂が急なので、速度が落ちないようにアクセルを強く踏む。",
+        "en": "Because the slope is steep, step on the accelerator hard so as not to lower the speed.",
+        "ne": "ढलान/उकालो steep भएकाले गति नघटोस् भनेर accelerator कडा थिच्नुपर्छ।",
+        "hi": "slope steep है, इसलिए speed कम न हो इसके लिए accelerator जोर से दबाना चाहिए।"
+      },
+      "3": {
+        "ja": "対向車はいないように見えるが、道幅が狭いので対向車に注意しながら徐行する。",
+        "en": "Though there seems to be no vehicles in the opposite direction, I should slow down while paying attention to oncoming vehicles because the road is narrow.",
+        "ne": "विपरीत दिशाबाट सवारी नदेखिए पनि सडक साँघुरो भएकाले oncoming vehicles मा ध्यान दिँदै बिस्तारै चल्नुपर्छ।",
+        "hi": "opposite direction में vehicles नहीं दिखते, फिर भी road narrow है इसलिए oncoming vehicles पर ध्यान देकर slow down करना चाहिए।"
+      }
+    },
+    "answer": "3",
+    "correct_explanation_ja": "山道のカーブでは、見通しが悪く道幅も狭いことが多い。対向車が見えなくても、速度を落として左側を通行し、対向車に注意する。",
+    "correct_explanation_en": "On mountain-road curves, visibility is often poor and the road may be narrow. Even if no oncoming vehicle is visible, slow down, keep left, and watch carefully.",
+    "correct_explanation_ne": "पहाडी सडकका मोडहरूमा दृश्यता कमजोर र सडक साँघुरो हुन सक्छ। oncoming vehicle नदेखिए पनि गति घटाएर बायाँतर्फ चल्दै ध्यान दिनुपर्छ।",
+    "correct_explanation_hi": "mountain road के curves में visibility खराब और road narrow हो सकता है। oncoming vehicle न दिखे तब भी slow down करके left side में चलना और ध्यान देना चाहिए।"
+  },
+  {
+    "id": 95,
+    "image": "assets/signs/final_test2/q95.png",
+    "question_ja": "時速50kmで走行している。どのようなことに注意すべきか。",
+    "question_en": "You are travelling at 50km/h. What should you pay attention to?",
+    "question_ne": "तपाईं 50km/h को गतिमा चलिरहनुभएको छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 50km/h की गति से चल रहे हैं। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "駐車中のトラックと自分の二輪車との間に十分な間隔があるので、そのまま進行する。",
+        "en": "I should keep proceeding because there is enough space between the parked truck and my motorcycle.",
+        "ne": "पार्क गरिएको ट्रक र मेरो मोटरसाइकलबीच पर्याप्त ठाउँ भएकाले त्यसै अघि बढ्नुपर्छ।",
+        "hi": "parked truck और मेरी motorcycle के बीच enough space है, इसलिए आगे बढ़ना चाहिए।"
+      },
+      "2": {
+        "ja": "駐車中のトラックの陰から歩行者が出てくるかもしれないので、徐行して道路の中央寄りに進路をとる。",
+        "en": "Slow down and pull over to the center of the road because there may be a pedestrian behind the parked truck.",
+        "ne": "पार्क गरिएको ट्रकको पछाडिबाट पैदल यात्री आउन सक्छ, त्यसैले गति घटाएर सडकको बीचतर्फ सर्नुपर्छ।",
+        "hi": "parked truck के पीछे से pedestrian आ सकता है, इसलिए slow down करके road center की ओर जाना चाहिए।"
+      },
+      "3": {
+        "ja": "駐車中のトラックの陰から歩行者が横断してくるかもしれないので、横断歩道の手前で停止できるように徐行する。",
+        "en": "Slow down in order to stop at the pedestrian crossing because there may be a pedestrian crossing behind the parked truck.",
+        "ne": "पार्क गरिएको ट्रकको पछाडिबाट पैदल यात्री पार गर्न आउन सक्छ, त्यसैले pedestrian crossing अगाडि रोक्न सक्ने गरी बिस्तारै चल्नुपर्छ।",
+        "hi": "parked truck के पीछे से pedestrian crossing कर सकता है, इसलिए pedestrian crossing से पहले रुक सकें ऐसा slow down करना चाहिए।"
+      }
+    },
+    "answer": "3",
+    "correct_explanation_ja": "駐車中のトラックなどの陰から歩行者が横断してくることがある。横断歩道付近では、すぐ停止できる速度に落として安全を確認する。",
+    "correct_explanation_en": "A pedestrian may come out from behind a parked truck. Near a pedestrian crossing, slow down to a speed that allows you to stop immediately and check safety.",
+    "correct_explanation_ne": "पार्क गरिएको ट्रकको पछाडिबाट पैदल यात्री निस्कन सक्छ। pedestrian crossing नजिक तुरुन्त रोक्न सक्ने गतिमा घटाएर safety check गर्नुपर्छ।",
+    "correct_explanation_hi": "parked truck के पीछे से pedestrian निकल सकता है। pedestrian crossing के पास तुरंत रुक सकने वाली speed तक slow down करके safety check करना चाहिए।"
+  }
+]

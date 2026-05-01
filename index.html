@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Japanese Traffic Sign Test</title>
+  <title>Japanese Traffic Test</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;700&display=swap" rel="stylesheet">
@@ -13,10 +13,20 @@
       font-family: "Noto Sans Devanagari", sans-serif;
     }
 
+    .test-mode-btn {
+      transition: all 0.2s ease;
+    }
+
     .test-mode-btn.active {
-      background-color: rgb(37 99 235);
+      background-color: rgb(96 165 250);
       color: white;
-      border-color: rgb(37 99 235);
+      border-color: rgb(96 165 250);
+      box-shadow: 0 0 0 3px rgba(147, 197, 253, 0.45);
+    }
+
+    .test-mode-btn:hover {
+      background-color: rgb(239 246 255);
+      border-color: rgb(147 197 253);
     }
   </style>
 </head>
@@ -32,7 +42,7 @@
       <!-- Start Screen -->
       <section id="startScreen">
       <p class="text-center text-sm text-slate-500 mb-6">
-        Version 1.1.0
+        Version 1.1.1
       </p>
       <label class="block text-sm font-semibold text-slate-700 mb-2">
         Enter your name
@@ -84,7 +94,15 @@
 
           <button
             type="button"
-            class="test-mode-btn border border-slate-300 rounded-xl py-3 px-4 font-semibold bg-white hover:bg-slate-50 transition md:col-span-2"
+            class="test-mode-btn border border-slate-300 rounded-xl py-3 px-4 font-semibold bg-white hover:bg-slate-50 transition"
+            data-mode="test4"
+          >
+            50 Questions Test 4
+          </button>
+
+          <button
+            type="button"
+            class="test-mode-btn border border-slate-300 rounded-xl py-3 px-4 font-semibold bg-white hover:bg-slate-50 transition"
             data-mode="random50"
           >
             Random 50 Questions

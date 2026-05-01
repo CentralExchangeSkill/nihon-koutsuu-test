@@ -1,4 +1,4 @@
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwvGI5vHDLcWI2AI32b6qcOOJbb96juLs-H_G6AogrbAOoCxjwZ_NYH4baOO84BsH29/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxMrrYcHl1g3qUoK8_0FDMhnjDbeuHc4NZZ-PgTzSSzp4bVgibjEzsVt8PP1QwspUVv/exec";
 
 const startScreen = document.getElementById("startScreen");
 const quizScreen = document.getElementById("quizScreen");
@@ -80,6 +80,13 @@ function getTestConfig(mode) {
       passingScore: 45,
       random: false,
       label: "50 Questions Test 3"
+    },
+    test4: {
+      file: "./data/50q_4.json",
+      questionCount: 50,
+      passingScore: 45,
+      random: false,
+      label: "50 Questions Test 4"
     }
   };
 
@@ -200,8 +207,11 @@ async function sendResultToGoogleSheet() {
       correctExplanationJa: item.correctExplanationJa || ""
     }));
 
+  const currentConfig = getTestConfig(selectedTestMode);
+
   const payload = {
     name: userName,
+    testMode: currentConfig ? currentConfig.label : selectedTestMode,
     score: score,
     total: selectedQuestions.length,
     answers: wrongAnswersOnlyJa

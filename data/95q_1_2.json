@@ -1,0 +1,167 @@
+[
+  {
+    "id": 91,
+    "image": "assets/signs/final_test1/q91.png",
+    "question_ja": "時速10kmで交差点を右折しようとしている。どのようなことに注意すべきか。",
+    "question_en": "You are driving at 10km/h to make a right turn at the intersection. What should you pay attention to?",
+    "question_ne": "तपाईं 10km/h को गतिमा चोकमा दायाँ मोड्न लाग्दै हुनुहुन्छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 10km/h की गति से चौराहे पर दाएँ मुड़ने जा रहे हैं। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "対向のバスは左折するために減速している。速度を上げて、バスの前を右折したほうがよい。",
+        "en": "The oncoming bus is slowing down to make a left turn. You should increase your speed and turn right in front of the bus.",
+        "ne": "विपरीत दिशाबाट आउने बस बायाँ मोड्नका लागि गति घटाउँदैछ। गति बढाएर बसको अगाडि दायाँ मोड्नु राम्रो हुन्छ।",
+        "hi": "सामने से आने वाली बस बाएँ मुड़ने के लिए धीमी हो रही है। गति बढ़ाकर बस के सामने दाएँ मुड़ना चाहिए।"
+      },
+      "2": {
+        "ja": "左折車の進行を妨げてはならないので、バスが左折を終えるまで停止して待つ。",
+        "en": "As we must not obstruct the vehicles turning left, we stop and wait until the bus completes left turn.",
+        "ne": "बायाँ मोड्ने सवारीलाई बाधा दिनु हुँदैन, त्यसैले बसले बायाँ मोडिसकेपछि मात्र जानुपर्छ।",
+        "hi": "बाएँ मुड़ने वाले वाहन को बाधा नहीं देनी चाहिए, इसलिए बस के बाएँ मुड़ने के बाद तक रुककर इंतजार करना चाहिए।"
+      },
+      "3": {
+        "ja": "バスを追い越してくる車が、バスの陰から出てくることがあるので注意して進行する。",
+        "en": "As a car who overtakes the bus may appear from behind it, proceed with caution.",
+        "ne": "बसलाई ओभरटेक गर्ने कार बसको पछाडिबाट अचानक देखिन सक्छ, त्यसैले सावधानीपूर्वक अघि बढ्नुपर्छ।",
+        "hi": "बस को ओवरटेक करने वाली कार बस के पीछे से अचानक आ सकती है, इसलिए सावधानी से आगे बढ़ना चाहिए।"
+      }
+    },
+    "answer": "3",
+    "correct_explanation_ja": "右折時は、対向車だけでなく、対向車の陰から出てくる車や二輪車にも注意しなければならない。バスの陰から追い越してくる車が出てくるおそれがある。",
+    "correct_explanation_en": "When turning right, you must watch not only the oncoming vehicle itself but also vehicles or motorcycles that may appear from behind it. A vehicle may overtake the bus and suddenly appear.",
+    "correct_explanation_ne": "दायाँ मोड्दा विपरीत दिशाबाट आउने सवारी मात्र होइन, त्यसको पछाडिबाट देखिन सक्ने कार वा मोटरसाइकलमा पनि ध्यान दिनुपर्छ। बसलाई ओभरटेक गर्ने सवारी अचानक आउन सक्छ।",
+    "correct_explanation_hi": "दाएँ मुड़ते समय केवल सामने से आने वाले वाहन पर ही नहीं, उसके पीछे से निकलने वाली कार या मोटरसाइकिल पर भी ध्यान देना चाहिए। बस को ओवरटेक करने वाला वाहन अचानक आ सकता है।"
+  },
+  {
+    "id": 92,
+    "image": "assets/signs/final_test1/q92.png",
+    "question_ja": "時速10kmで前の車に続いて左折しようとしている。どのようなことに注意すべきか。",
+    "question_en": "You are following the car ahead at 10km/h to make a left turn. What should you pay attention to?",
+    "question_ne": "तपाईं 10km/h को गतिमा अगाडिको कारलाई पछ्याउँदै बायाँ मोड्न लाग्दै हुनुहुन्छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 10km/h की गति से आगे की कार के पीछे बाएँ मुड़ने जा रहे हैं। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "後続車が追い越そうとすると危険である。追い越されないように右に寄る。",
+        "en": "It is dangerous if the car behind tries to overtake. Pull over to the right in order to avoid being overtaken.",
+        "ne": "पछाडिको कारले ओभरटेक गर्न खोजेमा खतरनाक हुन्छ। ओभरटेक हुन नदिन दायाँतर्फ सर्नुपर्छ।",
+        "hi": "पीछे की कार ओवरटेक करने की कोशिश करे तो खतरनाक है। ओवरटेक न होने देने के लिए दाईं ओर जाना चाहिए।"
+      },
+      "2": {
+        "ja": "歩行者が横断し始めたので、前の車が停止するかもしれないことに注意する。",
+        "en": "Because a pedestrian has started to cross the road, pay attention to the car in front as it may stop.",
+        "ne": "पैदल यात्रीले सडक पार गर्न थालेकाले, अगाडिको कार रोकिन सक्छ भन्ने कुरामा ध्यान दिनुपर्छ।",
+        "hi": "पैदल यात्री सड़क पार करना शुरू कर चुका है, इसलिए आगे की कार रुक सकती है इस बात पर ध्यान देना चाहिए।"
+      },
+      "3": {
+        "ja": "二輪車がミラーの死角に入っていることがあるので、左後方を直接目で確認する。",
+        "en": "A motorcycle may be in the blind spot of your mirror. Check by turning your head to the left.",
+        "ne": "मोटरसाइकल ऐनाको blind spot मा हुन सक्छ। टाउको बायाँतर्फ घुमाएर प्रत्यक्ष確認 गर्नुपर्छ।",
+        "hi": "मोटरसाइकिल mirror के blind spot में हो सकती है। सिर को बाईं ओर घुमाकर सीधे確認 करना चाहिए।"
+      }
+    },
+    "answer": "3",
+    "correct_explanation_ja": "左折時は、左後方の死角に二輪車や自転車がいることがある。ミラーだけでなく、直接目で安全を確認する必要がある。",
+    "correct_explanation_en": "When turning left, a motorcycle or bicycle may be in the left rear blind spot. You must check directly, not only with the mirror.",
+    "correct_explanation_ne": "बायाँ मोड्दा बायाँ पछाडिको blind spot मा मोटरसाइकल वा साइकल हुन सक्छ। ऐनामा मात्र होइन, प्रत्यक्ष हेरेर確認 गर्नुपर्छ।",
+    "correct_explanation_hi": "बाएँ मुड़ते समय बाएँ पीछे के blind spot में मोटरसाइकिल या साइकिल हो सकती है। केवल mirror से नहीं, सीधे देखकर確認 करना चाहिए।"
+  },
+  {
+    "id": 93,
+    "image": "assets/signs/final_test1/q93.png",
+    "question_ja": "時速40kmで走行している。どのようなことに注意すべきか。",
+    "question_en": "You are driving at 40km/h. What should you pay attention to?",
+    "question_ne": "तपाईं 40km/h को गतिमा चलाइरहनुभएको छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 40km/h की गति से वाहन चला रहे हैं। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "自転車が横断しようとしているので、横断歩道の手前で停止する。",
+        "en": "As a bicycle is trying to cross the road, stop before the pedestrian crossing.",
+        "ne": "साइकल सडक पार गर्न लागेकाले, पैदल यात्री क्रसिङ अगाडि रोकिनुपर्छ।",
+        "hi": "साइकिल सड़क पार करने की कोशिश कर रही है, इसलिए पैदल यात्री क्रॉसिंग से पहले रुकना चाहिए।"
+      },
+      "2": {
+        "ja": "急に止まると後続車に追突されるおそれがあるので、速度を落とさず横断歩道を通過する。",
+        "en": "You should cross the pedestrian crossing without slowing down because the car behind may hit you if you stop suddenly.",
+        "ne": "अचानक रोकिने हो भने पछाडिको कारले ठोक्न सक्छ, त्यसैले गति नघटाई क्रसिङ पार गर्नुपर्छ।",
+        "hi": "अचानक रुकने पर पीछे की कार टक्कर मार सकती है, इसलिए बिना धीमे हुए क्रॉसिंग पार करनी चाहिए।"
+      },
+      "3": {
+        "ja": "自転車が横断し始めても間隔を保てるように、道路の中央に寄って走行する。",
+        "en": "You should stay close to the center of the road to maintain the distance even if the bicycle begins to cross.",
+        "ne": "साइकल पार गर्न थाले पनि दूरी कायम गर्न सडकको बीचतिर सर्नुपर्छ।",
+        "hi": "साइकिल पार करना शुरू करे तब भी दूरी बनाए रखने के लिए सड़क के केंद्र के पास चलना चाहिए।"
+      }
+    },
+    "answer": "1",
+    "correct_explanation_ja": "横断歩道や自転車横断帯で歩行者や自転車が横断しようとしているときは、その手前で一時停止して通行を妨げてはならない。",
+    "correct_explanation_en": "When a pedestrian or bicycle is about to cross at a pedestrian or bicycle crossing, the driver must stop before the crossing and must not obstruct them.",
+    "correct_explanation_ne": "पैदल यात्री वा साइकल क्रसिङमा पैदल यात्री वा साइकल पार गर्न लागेका छन् भने, चालकले क्रसिङ अगाडि रोकेर उनीहरूको आवागमनमा बाधा दिनु हुँदैन।",
+    "correct_explanation_hi": "पैदल यात्री या साइकिल क्रॉसिंग पर पैदल यात्री या साइकिल पार करने वाली हो तो चालक को क्रॉसिंग से पहले रुककर उन्हें बाधा नहीं देनी चाहिए।"
+  },
+  {
+    "id": 94,
+    "image": "assets/signs/final_test1/q94.png",
+    "question_ja": "踏切の手前で停止している。どのようなことに注意すべきか。",
+    "question_en": "You are stopping in front of railway crossing. What should you pay attention to?",
+    "question_ne": "तपाईं रेलवे क्रसिङ अगाडि रोकिरहनुभएको छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप रेलवे क्रॉसिंग के सामने रुके हुए हैं। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "踏切の向こう側に十分な余地ができるまで待つ。",
+        "en": "You should wait until there is enough room across the railway crossing.",
+        "ne": "रेलवे क्रसिङ पार गरेपछि अगाडि पर्याप्त ठाउँ नभएसम्म पर्खनुपर्छ।",
+        "hi": "रेलवे क्रॉसिंग पार करने के बाद आगे पर्याप्त जगह होने तक इंतजार करना चाहिए।"
+      },
+      "2": {
+        "ja": "車の前に歩行者が出てくることがあるので、歩行者が全員いなくなるまで待つ。",
+        "en": "As pedestrians may come out in front of your car, you should wait until all the pedestrians are gone.",
+        "ne": "पैदल यात्री कारको अगाडि आउन सक्ने भएकाले सबै पैदल यात्री गएपछि मात्र चल्नुपर्छ।",
+        "hi": "पैदल यात्री कार के सामने आ सकते हैं, इसलिए सभी पैदल यात्री चले जाने तक इंतजार करना चाहिए।"
+      },
+      "3": {
+        "ja": "踏切上で対向車とすれ違わないように、すばやく渡る。",
+        "en": "You should cross it quickly so that you don't pass the oncoming car on the railway crossing.",
+        "ne": "रेलवे क्रसिङमा विपरीत दिशाको कारसँग नपरोस् भनेर छिटो पार गर्नुपर्छ।",
+        "hi": "रेलवे क्रॉसिंग पर सामने से आने वाली कार से न मिलना पड़े इसलिए जल्दी पार करना चाहिए।"
+      }
+    },
+    "answer": "1",
+    "correct_explanation_ja": "踏切の先が混雑していて、踏切内で停止するおそれがあるときは、踏切に入ってはならない。踏切の向こう側に十分な余地ができるまで待つ。",
+    "correct_explanation_en": "If there is a possibility of stopping on the railway crossing because the space ahead is not clear, you must not enter the crossing. Wait until there is enough room beyond it.",
+    "correct_explanation_ne": "अगाडि ठाउँ नभएर रेलवे क्रसिङभित्र रोकिने सम्भावना भए, क्रसिङमा प्रवेश गर्नु हुँदैन। पार गरेपछि पर्याप्त ठाउँ नभएसम्म पर्खनुपर्छ।",
+    "correct_explanation_hi": "आगे जगह न होने के कारण रेलवे क्रॉसिंग के अंदर रुकने की संभावना हो तो क्रॉसिंग में प्रवेश नहीं करना चाहिए। पार करने के बाद पर्याप्त जगह होने तक इंतजार करना चाहिए।"
+  },
+  {
+    "id": 95,
+    "image": "assets/signs/final_test1/q95.png",
+    "question_ja": "時速40kmで走行している。どのようなことに注意すべきか。",
+    "question_en": "You are driving at 40km/h. What should you pay attention to?",
+    "question_ne": "तपाईं 40km/h को गतिमा चलाइरहनुभएको छ। के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 40km/h की गति से वाहन चला रहे हैं। आपको किस बात पर ध्यान देना चाहिए?",
+    "choices": {
+      "1": {
+        "ja": "対向車が中央線を越えてくることがあるので、速度を落とし、道路の左側を走行する。",
+        "en": "Reduce your speed and drive on the left side of the road because an oncoming vehicle may cross over the centerline.",
+        "ne": "विपरीत दिशाबाट आउने सवारी केन्द्र रेखा काटेर आउन सक्छ, त्यसैले गति घटाएर सडकको बायाँतर्फ चल्नुपर्छ।",
+        "hi": "सामने से आने वाला वाहन केंद्र रेखा पार कर सकता है, इसलिए गति कम करके सड़क के बाईं ओर चलना चाहिए।"
+      },
+      "2": {
+        "ja": "遠心力で車は左に押し出されやすいので、中央線寄りを走行する。",
+        "en": "You should drive close to the centerline as vehicles tend to be pushed out on the left because of centrifugal force.",
+        "ne": "केन्द्रापसारक बलका कारण सवारी बायाँतर्फ धकेलिन सक्छ, त्यसैले केन्द्र रेखा नजिक चल्नुपर्छ।",
+        "hi": "centrifugal force के कारण वाहन बाईं ओर धकेला जा सकता है, इसलिए केंद्र रेखा के पास चलना चाहिए।"
+      },
+      "3": {
+        "ja": "対向車に自分の存在を知らせるため、警音器を鳴らし続ける。",
+        "en": "Keep sounding your horn to let the oncoming vehicle know your presence.",
+        "ne": "विपरीत दिशाबाट आउने सवारीलाई आफ्नो उपस्थिति थाहा दिन लगातार हर्न बजाउनुपर्छ।",
+        "hi": "सामने से आने वाले वाहन को अपनी उपस्थिति बताने के लिए लगातार हॉर्न बजाते रहना चाहिए।"
+      }
+    },
+    "answer": "1",
+    "correct_explanation_ja": "見通しの悪いカーブでは、対向車が中央線を越えてくるおそれがある。速度を落とし、道路の左側を安全に通行することが大切である。",
+    "correct_explanation_en": "On a curve with poor visibility, an oncoming vehicle may cross the centerline. It is important to slow down and keep safely to the left side of the road.",
+    "correct_explanation_ne": "दृश्यता कम भएको मोडमा विपरीत दिशाबाट आउने सवारी केन्द्र रेखा काटेर आउन सक्छ। गति घटाएर सडकको बायाँतर्फ सुरक्षित रूपमा चल्नु महत्त्वपूर्ण छ।",
+    "correct_explanation_hi": "कम दृश्यता वाले मोड़ पर सामने से आने वाला वाहन केंद्र रेखा पार कर सकता है। गति कम करके सड़क के बाईं ओर सुरक्षित रूप से चलना जरूरी है।"
+  }
+]
