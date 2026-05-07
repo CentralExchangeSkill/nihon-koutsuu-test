@@ -87,6 +87,13 @@ function getTestConfig(mode) {
       passingScore: 45,
       random: false,
       label: "50 Questions Test 4"
+    },
+    test5: {
+      file: "./data/50q_5.json",
+      questionCount: 50,
+      passingScore: 45,
+      random: false,
+      label: "50 Questions Test 5"
     }
   };
 
