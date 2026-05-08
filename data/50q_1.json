@@ -32,11 +32,11 @@
     "question_en": "Even though the vehicle lane is marked with a yellow line, you are allowed to move over the yellow line to make a right turn or left turn.",
     "question_ne": "सवारी लेन पहेँलो रेखाले चिन्हित गरिएको भए पनि, दायाँ वा बायाँ मोड्नका लागि पहेँलो रेखा काटेर जान पाइन्छ।",
     "question_hi": "भले ही वाहन लेन पीली रेखा से चिन्हित हो, दाएँ या बाएँ मुड़ने के लिए पीली रेखा पार की जा सकती है।",
-    "answer": false,
-    "correct_explanation_ja": "黄色の線で区画された車両通行帯では、原則として進路変更をしてはいけません。右折や左折をする場合でも、黄色の線を越えて進路変更することはできません。右左折に備えて、黄色の線が始まる前にあらかじめ必要な車線に移っておく必要があります。",
-    "correct_explanation_en": "When a vehicle lane is marked with a yellow line, changing lanes is generally prohibited. Even when making a right or left turn, you are not allowed to cross the yellow line to change lanes. You must move into the necessary lane before the yellow line begins.",
-    "correct_explanation_ne": "सवारी लेन पहेँलो रेखाले छुट्याइएको छ भने सामान्यतया लेन परिवर्तन गर्न पाइँदैन। दायाँ वा बायाँ मोड्नुपर्ने अवस्थामा पनि, पहेँलो रेखा पार गरेर लेन परिवर्तन गर्न पाइँदैन। त्यसैले दायाँ वा बायाँ मोड्ने तयारीका लागि, पहेँलो रेखा सुरु हुनुभन्दा पहिले नै आवश्यक लेनमा सर्नुपर्छ।",
-    "correct_explanation_hi": "यदि वाहन लेन पीली रेखा से विभाजित है, तो सामान्य रूप से लेन बदलना मना है। दाएँ या बाएँ मुड़ने के लिए भी पीली रेखा पार करके लेन बदलना अनुमति नहीं है। इसलिए दाएँ या बाएँ मुड़ने की तैयारी के लिए, पीली रेखा शुरू होने से पहले ही आवश्यक लेन में चले जाना चाहिए।"
+    "answer": true,
+    "correct_explanation_ja": "黄色の線は原則として進路変更禁止を示すが、右折・左折などのために必要な場合は越えることができる。",
+    "correct_explanation_en": "A yellow line generally means changing lanes is prohibited, but it may be crossed when necessary to turn right or left.",
+    "correct_explanation_ne": "पहेँलो रेखाले सामान्यतया लेन परिवर्तन निषेध जनाउँछ, तर दायाँ वा बायाँ मोड्न आवश्यक भएमा काट्न सकिन्छ।",
+    "correct_explanation_hi": "पीली रेखा सामान्यतः लेन बदलने की मनाही बताती है, लेकिन दाएँ या बाएँ मुड़ने के लिए आवश्यकता होने पर इसे पार किया जा सकता है।"
   },
   {
     "id": 4,
@@ -331,11 +331,11 @@
     "question_en": "You should check safety after signaling when overtaking.",
     "question_ne": "ओभरटेक गर्दा संकेत दिएपछि पनि सुरक्षा確認 गर्नुपर्छ।",
     "question_hi": "ओवरटेक करते समय संकेत देने के बाद भी सुरक्षा確認 करनी चाहिए।",
-    "answer": false,
-    "correct_explanation_ja": "追い越しをする際は、「安全確認（後ろ・前）をしてから、合図（ウインカー）を出す」のが正しい順序です。 ",
-    "correct_explanation_en": "When overtaking, the correct order is: first check safety, behind and ahead, and then give a signal using the turn indicator.",
-    "correct_explanation_ne": "ओभरटेक गर्दा सही क्रम यस्तो हुन्छ: पहिले पछाडि र अगाडिको सुरक्षा जाँच गर्ने, त्यसपछि टर्न इन्डिकेटर प्रयोग गरेर संकेत दिने।",
-    "correct_explanation_hi": "ओवरटेक करते समय सही क्रम यह है: पहले पीछे और आगे की सुरक्षा की जाँच करें, फिर टर्न इंडिकेटर का उपयोग करके संकेत दें।"
+    "answer": true,
+    "correct_explanation_ja": "追い越しをするときは、合図を出す前後に安全を十分確認する必要がある。",
+    "correct_explanation_en": "When overtaking, you must check safety sufficiently before and after signaling.",
+    "correct_explanation_ne": "ओभरटेक गर्दा संकेत दिनुअघि र पछि दुबै समयमा सुरक्षा राम्रोसँग確認 गर्नुपर्छ।",
+    "correct_explanation_hi": "ओवरटेक करते समय संकेत देने से पहले और बाद में सुरक्षा की अच्छी तरह確認 करनी चाहिए।"
   },
   {
     "id": 27,
@@ -381,7 +381,7 @@
     "image": "assets/signs/nopict.png",
     "question_ja": "路面がぬれていてタイヤがすり減っているときの制動距離は、路面が乾いていてタイヤの状態がよいときの約2倍になることがある。",
     "question_en": "The braking distance when the road surface is wet and tires are worn could become double as long as when the road surface is dry and tires are in good condition.",
-    "question_ne": "सडक भिजेको र टायर घिसिएको अवस्थामा ब्रेकिङ दूरी, सडक सुक्खा र टायर राम्रो हुँदा भन्दा दुई गुणासम्म हुन सक्छ।",
+    "question_ne": "सडक भिजेको र टायर खिएको अवस्थामा ब्रेकिङ दूरी, सडक सुक्खा र टायर राम्रो हुँदा भन्दा दुई गुणासम्म हुन सक्छ।",
     "question_hi": "सड़क गीली और टायर घिसे होने पर ब्रेकिंग दूरी, सूखी सड़क और अच्छे टायर की तुलना में लगभग दोगुनी हो सकती है।",
     "answer": true,
     "correct_explanation_ja": "ぬれた路面やすり減ったタイヤでは制動距離が長くなり、乾いた路面でタイヤの状態がよい場合の約2倍になることがある。",
@@ -407,7 +407,7 @@
     "image": "assets/signs/nopict.png",
     "question_ja": "高齢運転者標識を付けている自動車を追い越してはならない。",
     "question_en": "You must not overtake a motor vehicle with a \"senior driver's sign\".",
-    "question_ne": "वरिष्ठ चालक चिन्ह लगाएको मोटर सवारीलाई ओभरटेक गर्नु हुँदैन।",
+    "question_ne": "बृद्ध चालक चिन्ह लगाएको मोटर सवारीलाई ओभरटेक गर्नु हुँदैन।",
     "question_hi": "वरिष्ठ चालक चिह्न वाले वाहन को ओवरटेक नहीं करना चाहिए।",
     "answer": false,
     "correct_explanation_ja": "高齢運転者標識を付けている車に対して禁止されているのは、危険な幅寄せや割り込みであり、追い越しそのものが禁止されているわけではない。",
@@ -524,7 +524,7 @@
     "image": "assets/signs/nopict.png",
     "question_ja": "交通整理の行われていない交差点で、交差する道路が優先道路であるときは、徐行し、その道路を通行する車両の進行を妨げてはならない。",
     "question_en": "Vehicle must slow down and must not obstruct the vehicle proceeding on the crossing road which is the right of way at the uncontrolled intersection.",
-    "question_ne": "ट्राफिक नियन्त्रण नभएको चोकमा काट्ने सडक प्राथमिकता सडक हो भने, बिस्तारै चल्दै त्यस सडकका सवारीलाई बाधा पुर्‍याउनु हुँदैन।",
+    "question_ne": "ट्राफिक व्यवस्थापन नभएको चोकमा काट्ने सडक प्राथमिकता सडक हो भने, बिस्तारै चल्दै त्यस सडकका सवारीलाई बाधा पुर्‍याउनु हुँदैन।",
     "question_hi": "बिना ट्रैफिक नियंत्रण वाले चौराहे पर यदि पार करने वाली सड़क प्राथमिकता वाली सड़क है, तो धीमा चलना चाहिए और उस सड़क के वाहनों को बाधा नहीं देनी चाहिए।",
     "answer": true,
     "correct_explanation_ja": "優先道路に入るときは徐行し、優先道路を通行する車両の進行を妨げてはならない。",
@@ -613,15 +613,15 @@
   {
     "id": 48,
     "image": "assets/signs/50q_1/figure5.png",
-    "question_ja": "図5の道路標示より先ではUターンしてはいけない。",
+    "question_ja": "図5の道路標示の先では、転回してはならない。",
     "question_en": "U-turn is not allowed after the road marking shown in Figure No.5.",
     "question_ne": "चित्र ५ मा देखाइएको सडक चिन्हपछि यू-टर्न गर्न पाइँदैन।",
     "question_hi": "चित्र 5 में दिखाए गए सड़क चिह्न के बाद यू-टर्न करना अनुमत नहीं है।",
-    "answer": false,
-    "correct_explanation_ja": "これは標示の意味と合っているので、普通は Maru（○ / True） に見えますが、問題文の “after” がポイントです。日本の 転回禁止の道路標示 は、一般的に その標示のある場所・区間で転回禁止 を示します。もし問題の意図が「標示を過ぎた後もずっとUターン禁止」という意味なら、それは不正確なので × になります。",
-    "correct_explanation_en": "This matches the meaning of the road marking, so normally it looks like True / Maru（○）. However, the key point is the word “after” in the question. In Japan, the No U-turn road marking generally means that U-turns are prohibited at that place or within that marked section. If the question means “U-turns are prohibited forever after passing the marking,” then that is inaccurate, so the answer becomes False / Batsu（×）.",
-    "correct_explanation_ne": "यो सडक चिन्हको अर्थसँग मिल्छ, त्यसैले सामान्यतया यो True / Maru（○） जस्तो देखिन्छ। तर प्रश्नमा रहेको “after” शब्द महत्वपूर्ण बिन्दु हो। जापानमा No U-turn road marking ले सामान्यतया त्यो स्थानमा वा चिन्ह लगाइएको क्षेत्रमा U-turn गर्न निषेध छ भन्ने अर्थ दिन्छ। यदि प्रश्नको अर्थ “त्यो चिन्ह पार गरेपछि सधैं U-turn गर्न पाइँदैन” भन्ने हो भने, त्यो सही हुँदैन। त्यसैले उत्तर False / Batsu（×） हुन्छ।",
-    "correct_explanation_hi": "यह सड़क चिह्न के अर्थ से मेल खाता है, इसलिए सामान्य रूप से यह True / Maru（○） जैसा लगता है। लेकिन प्रश्न में “after” शब्द महत्वपूर्ण है। जापान में No U-turn road marking का सामान्य अर्थ है कि उस स्थान पर या उस चिन्हित क्षेत्र में U-turn करना मना है। यदि प्रश्न का मतलब है कि “उस चिह्न को पार करने के बाद हमेशा U-turn मना है,” तो यह सही नहीं है। इसलिए उत्तर False / Batsu（×） होगा।"
+    "answer": true,
+    "correct_explanation_ja": "図5は転回禁止を示す道路標示であり、その先で転回してはならない。",
+    "correct_explanation_en": "Figure 5 indicates that U-turns are prohibited. You must not make a U-turn after this marking.",
+    "correct_explanation_ne": "चित्र ५ ले यू-टर्न निषेध जनाउँछ। यो चिन्हपछि यू-टर्न गर्नु हुँदैन।",
+    "correct_explanation_hi": "चित्र 5 यू-टर्न निषेध बताता है। इस चिह्न के बाद यू-टर्न नहीं करना चाहिए।"
   },
   {
     "id": 49,
