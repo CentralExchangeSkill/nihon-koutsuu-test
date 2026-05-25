@@ -94,6 +94,13 @@ function getTestConfig(mode) {
       passingScore: 45,
       random: false,
       label: "50 Questions Test 5"
+    },
+    karimenFinal1: {
+      file: "./data/95q_1_1.json",
+      questionCount: 90,
+      passingScore: 85,
+      random: false,
+      label: "Karimen Final Test 1"
     }
   };
 
