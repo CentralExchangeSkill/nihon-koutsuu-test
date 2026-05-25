@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const data = JSON.parse(fs.readFileSync("50q_3.json", "utf8"));
+const data = JSON.parse(fs.readFileSync("95q_1_1.json", "utf8"));
 
 const updatedData = data.map((item, index) => ({
   ...item,
@@ -8,7 +8,7 @@ const updatedData = data.map((item, index) => ({
 }));
 
 fs.writeFileSync(
-  "50q_3.json",
+  "95q_1_1.json",
   JSON.stringify(updatedData, null, 2),
   "utf8"
 );

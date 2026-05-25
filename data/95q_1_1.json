@@ -652,6 +652,136 @@
   {
     "id": 51,
     "image": "assets/signs/nopict.png",
+    "question_ja": "道路標示とは、路面にペイントなどで示された線、記号、文字のことで、規制標示と指示標示の2種類がある。",
+    "question_en": "Road marking refers to lines, symbols and letters shown on the road by paint or something like that. There are two types of road markings: Regulatory markings and Indication markings.",
+    "question_ne": "सडक मार्किङ भनेको सडकमा रंग आदि द्वारा देखाइएका रेखा, चिन्ह र अक्षरहरू हुन्। यसको दुई प्रकार हुन्छ: नियामक मार्किङ र निर्देशन मार्किङ।",
+    "question_hi": "सड़क मार्किंग सड़क पर पेंट आदि से दिखाए गए रेखा, चिह्न और अक्षर होते हैं। इसके दो प्रकार होते हैं: नियामक मार्किंग और निर्देश मार्किंग।",
+    "answer": true,
+    "correct_explanation_ja": "道路標示には、交通規制を示す規制標示と、交通上必要な場所などを示す指示標示がある。",
+    "correct_explanation_en": "Road markings are divided into regulatory markings and indication markings.",
+    "correct_explanation_ne": "सडक मार्किङ नियामक मार्किङ र निर्देशन मार्किङमा विभाजित हुन्छ।",
+    "correct_explanation_hi": "सड़क मार्किंग नियामक मार्किंग और निर्देश मार्किंग में विभाजित होती है।"
+  },
+  {
+    "id": 52,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "進行方向別通行区分に従って走行中に緊急自動車が近づいてきた場合は、その指定された区間を通過してから進路を譲ればよい。",
+    "question_en": "If an emergency vehicle approaches while you are driving within the lane direction designation, you should yield / give way to it after the designated section.",
+    "question_ne": "लेन दिशा指定 भएको भागमा चलिरहेको बेला आपतकालीन सवारी आएमा, तोकिएको भाग पार गरेपछि मात्र बाटो दिनुपर्छ।",
+    "question_hi": "लेन दिशा指定 वाले भाग में चलते समय आपातकालीन वाहन आए तो निर्धारित भाग पार करने के बाद ही रास्ता देना चाहिए।",
+    "answer": false,
+    "correct_explanation_ja": "緊急自動車に進路を譲るためにやむを得ない場合は、進行方向別通行区分に従わないことも認められる。指定区間を通過してからでよいとは限らない。",
+    "correct_explanation_en": "If necessary to yield to an emergency vehicle, a driver may temporarily disregard lane direction designations. It is not always correct to wait until after the designated section.",
+    "correct_explanation_ne": "आपतकालीन सवारीलाई बाटो दिन आवश्यक भएमा, लेन दिशा指定लाई अस्थायी रूपमा नमान्न सकिन्छ। तोकिएको भाग पार गरेपछि मात्र बाटो दिनुपर्छ भन्ने होइन।",
+    "correct_explanation_hi": "आपातकालीन वाहन को रास्ता देने के लिए आवश्यकता होने पर, लेन दिशा指定 को अस्थायी रूप से न मान सकते हैं। हमेशा निर्धारित भाग पार करने के बाद ही रास्ता देना सही नहीं है।"
+  },
+  {
+    "id": 53,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "二輪車でカーブを走行するとき、クラッチを切ったりギアをニュートラルにしたりするのは危険である。",
+    "question_en": "When driving a two wheels vehicle such as motorcycle at a bend, it is dangerous to disengage the clutch or shift to neutral.",
+    "question_ne": "मोटरसाइकल जस्ता दुई पाङ्ग्रे सवारीले मोडमा चल्दा क्लच छुट्याउनु वा न्यूट्रलमा राख्नु खतरनाक हुन्छ।",
+    "question_hi": "मोटरसाइकिल जैसे दोपहिया वाहन को मोड़ पर चलाते समय क्लच छोड़ना या न्यूट्रल में करना खतरनाक है।",
+    "answer": true,
+    "correct_explanation_ja": "カーブではエンジンブレーキが効かなくなったり安定性を失ったりするため、クラッチを切ったりニュートラルにしたりして走行してはならない。",
+    "correct_explanation_en": "At a bend, disengaging the clutch or shifting to neutral can reduce control and stability.",
+    "correct_explanation_ne": "मोडमा क्लच छुट्याउँदा वा न्यूट्रलमा राख्दा नियन्त्रण र स्थिरता घट्न सक्छ।",
+    "correct_explanation_hi": "मोड़ पर क्लच छोड़ने या न्यूट्रल में करने से नियंत्रण और स्थिरता घट सकती है।"
+  },
+  {
+    "id": 54,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "二輪車を運転するときは、右足の土踏まずをステップにのせ、つま先をブレーキペダルの下に置き、左足のつま先をギアシフトの下に置く。",
+    "question_en": "When driving a two wheels vehicle, put the arch of your right foot on the step and the toe should be under the brake pedal, the toe of your left feet should be under the gear-shaft.",
+    "question_ne": "दुई पाङ्ग्रे सवारी चलाउँदा दायाँ खुट्टाको बीच भाग स्टेपमा राखी औँला ब्रेक पेडलको मुनि, र बायाँ खुट्टाको औँला गियर सिफ्टको मुनि राख्नुपर्छ।",
+    "question_hi": "दोपहिया वाहन चलाते समय दाएँ पैर का मध्य भाग स्टेप पर, पैर की उंगली ब्रेक पेडल के नीचे और बाएँ पैर की उंगली गियर शिफ्ट के नीचे रखनी चाहिए।",
+    "answer": false,
+    "correct_explanation_ja": "二輪車では、ブレーキペダルやチェンジペダルをすぐ操作できるように足を置く。つま先を常にペダルの下に置くという説明は適切ではない。",
+    "correct_explanation_en": "On a motorcycle, the feet should be positioned so that the brake and gear pedals can be operated quickly. Keeping the toes under the pedals is not the proper general explanation.",
+    "correct_explanation_ne": "मोटरसाइकलमा ब्रेक र गियर पेडल छिटो चलाउन मिल्ने गरी खुट्टा राख्नुपर्छ। औँला सधैं पेडलको मुनि राख्ने説明 सही होइन।",
+    "correct_explanation_hi": "मोटरसाइकिल पर ब्रेक और गियर पेडल तुरंत चलाने योग्य स्थिति में पैर रखना चाहिए। उंगलियों को हमेशा पेडल के नीचे रखना सही説明 नहीं है।"
+  },
+  {
+    "id": 55,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "同じような幅の道路が交わる交通整理の行われていない交差点では、左方から来る車の進行を妨げてはならない。",
+    "question_en": "You must not obstruct a vehicle coming from your left at an uncontrolled intersection if the width of both roads is similar.",
+    "question_ne": "दुवै सडकको चौडाइ समान भएको ट्राफिक नियन्त्रण नभएको चोकमा, बायाँबाट आउने सवारीलाई बाधा दिनु हुँदैन।",
+    "question_hi": "दोनों सड़कों की चौड़ाई समान हो और ट्रैफिक नियंत्रण न हो, ऐसे चौराहे पर बाईं ओर से आने वाले वाहन को बाधा नहीं देनी चाहिए।",
+    "answer": true,
+    "correct_explanation_ja": "同じような幅の道路が交わる交差点では、左方から来る車が優先される。",
+    "correct_explanation_en": "At an uncontrolled intersection with roads of similar width, vehicles coming from the left have priority.",
+    "correct_explanation_ne": "समान चौडाइका सडक भएको चोकमा बायाँबाट आउने सवारीलाई प्राथमिकता हुन्छ।",
+    "correct_explanation_hi": "समान चौड़ाई वाली सड़कों के चौराहे पर बाईं ओर से आने वाले वाहन को प्राथमिकता होती है।"
+  },
+  {
+    "id": 56,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "信号が青であったので、自分に向かって警察官が両腕を水平に伸ばしていたが交差点で左折した。",
+    "question_en": "When the traffic signal ahead was green, I turned left at the intersection because the police officer facing me extended his/her arms horizontally.",
+    "question_ne": "अगाडिको सिग्नल हरियो भएकाले, मसँग सामुन्ने भएको प्रहरीले दुवै हात तेर्सो फैलाए पनि म चोकमा बायाँ मोडेँ।",
+    "question_hi": "आगे की बत्ती हरी थी, इसलिए सामने खड़े पुलिस अधिकारी ने दोनों हाथ क्षैतिज फैलाए होने पर भी मैंने चौराहे पर बाएँ मोड़ा।",
+    "answer": false,
+    "correct_explanation_ja": "警察官が両腕を水平に伸ばしているとき、警察官の身体に対面する交通は赤信号と同じ意味である。信号機より警察官の手信号に従う。",
+    "correct_explanation_en": "When a police officer stretches both arms horizontally, traffic facing the officer's body must treat it as a red light. The officer's hand signal has priority over the traffic light.",
+    "correct_explanation_ne": "प्रहरीले दुवै हात तेर्सो फैलाउँदा, प्रहरीको शरीरतर्फ आउने ट्राफिकका लागि यो रातो बत्तीसरह हुन्छ। प्रहरीको संकेत ट्राफिक बत्तीभन्दा प्राथमिक हुन्छ।",
+    "correct_explanation_hi": "पुलिस अधिकारी दोनों हाथ क्षैतिज फैलाए तो उसके शरीर की ओर आने वाले यातायात के लिए यह लाल बत्ती के समान होता है। पुलिस का हाथ संकेत ट्रैफिक लाइट से प्राथमिक होता है।"
+  },
+  {
+    "id": 57,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "初心運転者標識や高齢運転者標識を付けている自動車に対して、幅寄せや割り込みをしてはならない。",
+    "question_en": "You must not squeeze or cut in ahead of the motor vehicle with a beginner or senior driver's sign.",
+    "question_ne": "नयाँ चालक वा वरिष्ठ चालक चिन्ह भएको सवारीलाई साइडबाट च्याप्नु वा अगाडि कट गर्नु हुँदैन।",
+    "question_hi": "नए चालक या वरिष्ठ चालक चिह्न वाले वाहन को साइड से दबाना या आगे कट करना नहीं चाहिए।",
+    "answer": true,
+    "correct_explanation_ja": "初心運転者標識や高齢運転者標識などを付けた車に対して、危険な幅寄せや割り込みは禁止されている。",
+    "correct_explanation_en": "Dangerous squeezing or cutting in against vehicles with beginner or senior driver signs is prohibited.",
+    "correct_explanation_ne": "नयाँ चालक वा वरिष्ठ चालक चिन्ह भएको सवारीलाई खतरनाक रूपमा च्याप्नु वा कट गर्नु निषेध छ।",
+    "correct_explanation_hi": "नए चालक या वरिष्ठ चालक चिह्न वाले वाहन को खतरनाक तरीके से दबाना या कट करना निषेध है।"
+  },
+  {
+    "id": 58,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "高速自動車国道の本線車道とは、加速車線、減速車線、登坂車線、路側帯、路肩を除いた、自動車が通常走行する部分をいう。",
+    "question_en": "The main traffic lane means the part of the road for cars to drive generally on expressway excluding the acceleration lane, deceleration lane, slower traffic lane, side strip and hard shoulder.",
+    "question_ne": "एक्सप्रेसवेमा मुख्य सडक भाग भन्नाले एक्सेलेरेशन लेन, डिसेलेरेशन लेन, ढिलो सवारी लेन, साइड स्ट्रिप र हार्ड शोल्डर बाहेक सामान्यतया सवारी चल्ने भाग हो।",
+    "question_hi": "एक्सप्रेसवे पर मुख्य यातायात लेन वह भाग है जहाँ वाहन सामान्यतः चलते हैं, जिसमें acceleration lane, deceleration lane, धीमी लेन, side strip और hard shoulder शामिल नहीं होते।",
+    "answer": true,
+    "correct_explanation_ja": "本線車道とは、高速自動車国道で自動車が通常走行する部分をいう。",
+    "correct_explanation_en": "The main carriageway is the part of an expressway where vehicles normally travel.",
+    "correct_explanation_ne": "मुख्य सडक भाग एक्सप्रेसवेमा सवारी सामान्यतया चल्ने भाग हो।",
+    "correct_explanation_hi": "मुख्य यातायात भाग एक्सप्रेसवे का वह हिस्सा है जहाँ वाहन सामान्यतः चलते हैं।"
+  },
+  {
+    "id": 59,
+    "image": "assets/signs/nopict.png",
+    "question_ja": "高速自動車国道では、危険を避ける場合でも最低速度を下回って運転してはならない。",
+    "question_en": "On national expressway, you must not drive below the minimum speed limit even when you avoid danger.",
+    "question_ne": "राष्ट्रिय एक्सप्रेसवेमा खतरा避ける अवस्थामा पनि न्यूनतम गतिभन्दा कम चलाउनु हुँदैन।",
+    "question_hi": "राष्ट्रीय एक्सप्रेसवे पर खतरे से बचने की स्थिति में भी न्यूनतम गति से कम नहीं चलना चाहिए।",
+    "answer": false,
+    "correct_explanation_ja": "危険を防止するためやむを得ない場合などは、最低速度を下回って走行することが認められる。",
+    "correct_explanation_en": "Driving below the minimum speed is allowed when unavoidable to prevent danger.",
+    "correct_explanation_ne": "खतरा रोक्न अपरिहार्य अवस्थामा न्यूनतम गतिभन्दा कम चलाउन सकिन्छ।",
+    "correct_explanation_hi": "खतरे को रोकने के लिए अपरिहार्य स्थिति में न्यूनतम गति से कम चलना अनुमति है।"
+  },
+  {
+    "id": 60,
+    "image": "assets/signs/50q_4/figure1.png",
+    "question_ja": "図1の標識は、前方の信号が赤または黄であっても、周囲の交通に注意しながら左折できることを示している。",
+    "question_en": "The road sign in Figure 1 indicates that a vehicle may turn left while paying attention to the surrounding traffic, even when the traffic signal ahead is red or amber.",
+    "question_ne": "चित्र १ को संकेतले अगाडिको सिग्नल रातो वा पहेँलो भए पनि वरपरको ट्राफिकमा ध्यान दिँदै बायाँ मोड्न सकिने जनाउँछ।",
+    "question_hi": "चित्र 1 का संकेत बताता है कि आगे की बत्ती लाल या पीली होने पर भी आसपास के यातायात पर ध्यान देते हुए बाएँ मुड़ा जा सकता है।",
+    "answer": false,
+    "correct_explanation_ja": "図1の標識は「一方通行（326-A）」を示している。これは矢印の方向にだけ通行できることを示す標識であり、赤信号や黄信号でも左折できることを示す「左折可」ではない。",
+    "correct_explanation_en": "The sign in Figure 1 indicates “One-way” (326-A). It means vehicles may proceed only in the direction of the arrow. It is not a “Left Turn Permitted” sign, so it does not mean that vehicles may turn left at a red or amber light.",
+    "correct_explanation_ne": "चित्र १ को संकेत “एकतर्फी सडक” (326-A) हो। यसको अर्थ सवारी साधन तीरको दिशामा मात्र जान सक्छन्। यो “बायाँ मोड्न अनुमति” संकेत होइन, त्यसैले रातो वा पहेँलो बत्तीमा बायाँ मोड्न पाइन्छ भन्ने अर्थ हुँदैन।",
+    "correct_explanation_hi": "चित्र 1 का संकेत “वन-वे” (326-A) है। इसका अर्थ है कि वाहन केवल तीर की दिशा में जा सकते हैं। यह “बाएँ मुड़ना अनुमत” संकेत नहीं है, इसलिए लाल या पीली बत्ती पर बाएँ मुड़ सकते हैं ऐसा अर्थ नहीं है।"
+  },
+  {
+    "id": 61,
+    "image": "assets/signs/nopict.png",
     "question_ja": "原則として、指定された車両、小型特殊自動車、軽車両を除き、車両はバス専用通行帯を通行できない。",
     "question_en": "In principle, vehicles except for designated vehicles, special light equipment and light vehicles cannot drive on the exclusive lane for buses.",
     "question_ne": "सिद्धान्ततः, तोकिएका सवारी, साना विशेष सवारी र हलुका सवारी बाहेक अन्य सवारी बस専用 लेनमा चल्न सक्दैनन्।",
@@ -663,7 +793,7 @@
     "correct_explanation_hi": "専用 लेन में निर्धारित वाहन, छोटे विशेष वाहन और हल्के वाहन को छोड़कर सामान्यतः चलना अनुमति नहीं है।"
   },
   {
-    "id": 52,
+    "id": 62,
     "image": "assets/signs/nopict.png",
     "question_ja": "左側部分の幅が6メートル以上ある道路でも、他の交通を妨げなければ中央線を越えて追い越すことができる。",
     "question_en": "Even if the width of the lane on the left is 6m or more, drivers can cross over the centerline to overtake another vehicle ahead if you don't obstruct other drivers.",
@@ -676,7 +806,7 @@
     "correct_explanation_hi": "बाईं ओर का भाग 6 मीटर या अधिक चौड़ा हो तो सामान्यतः दाईं ओर निकलकर ओवरटेक नहीं करना चाहिए।"
   },
   {
-    "id": 53,
+    "id": 63,
     "image": "assets/signs/nopict.png",
     "question_ja": "追い越しをするときは、合図をしてから周囲の交通の安全を確認すればよい。",
     "question_en": "When overtaking, you should signal and then check safety of the traffic around.",
@@ -689,7 +819,7 @@
     "correct_explanation_hi": "ओवरटेक करते समय पहले आगे और पीछे की सुरक्षा確認 करें, संकेत दें, फिर दोबारा सुरक्षा確認 करके ही進路変更 करें।"
   },
   {
-    "id": 54,
+    "id": 64,
     "image": "assets/signs/nopict.png",
     "question_ja": "幅の広い路側帯で駐停車するときは、道路の左側に0.75メートル以上の余地をあけなければならない。",
     "question_en": "When stopping or parking on a wide side strip, at least 0.75 meters must be left open on the left hand side of the road.",
@@ -702,20 +832,20 @@
     "correct_explanation_hi": "चौड़ी side strip में रुकने/पार्क करने पर पैदल यात्रियों के लिए बाईं ओर कम से कम 0.75 मीटर जगह छोड़नी चाहिए।"
   },
   {
-    "id": 55,
+    "id": 65,
     "image": "assets/signs/nopict.png",
     "question_ja": "荷台に荷物の積み下ろしのため必要最小限の人を乗せてトラックを運転した。",
     "question_en": "I drove a truck with the minimum number of people required to load/unload on the load-carrying platform.",
     "question_ne": "सामान लोड/अनलोड गर्न आवश्यक न्यूनतम मानिसलाई ट्रकको सामान बोक्ने भागमा राखेर चलाएँ।",
     "question_hi": "सामान चढ़ाने/उतारने के लिए आवश्यक न्यूनतम लोगों को ट्रक के माल ढोने वाले हिस्से में बैठाकर चलाया।",
-    "answer": true,
-    "correct_explanation_ja": "貨物自動車では、荷物の積み下ろしのため必要最小限の人を荷台に乗せることが認められる場合がある。",
-    "correct_explanation_en": "In a truck, the minimum number of people necessary for loading or unloading may be allowed to ride on the cargo bed.",
-    "correct_explanation_ne": "ट्रकमा सामान लोड/अनलोड गर्न आवश्यक न्यूनतम मानिसलाई सामान बोक्ने भागमा बस्न अनुमति हुन सक्छ।",
-    "correct_explanation_hi": "ट्रक में सामान चढ़ाने/उतारने के लिए आवश्यक न्यूनतम लोगों को माल ढोने वाले हिस्से में बैठने की अनुमति हो सकती है।"
+    "answer": false,
+    "correct_explanation_ja": "貨物自動車の荷台に人を乗せて運転してはならない。荷物の見張りのために必要最小限の人を乗せる場合は、出発地を管轄する警察署長の許可が必要である。荷物の積み下ろしのためという理由だけでは認められない。",
+    "correct_explanation_en": "People must not be carried on the cargo bed of a truck. If the minimum number of people is needed to watch over the load, permission from the police chief with jurisdiction over the starting point is required. Simply carrying people for loading or unloading is not allowed.",
+    "correct_explanation_ne": "ट्रकको सामान बोक्ने भागमा मानिस राखेर चलाउनु हुँदैन। सामानको निगरानीका लागि आवश्यक न्यूनतम मानिस राख्ने場合मा, प्रस्थान स्थानको क्षेत्राधिकार भएको प्रहरी प्रमुखको अनुमति आवश्यक हुन्छ। सामान लोड/अनलोड गर्ने कारण मात्रले अनुमति हुँदैन।",
+    "correct_explanation_hi": "ट्रक के माल ढोने वाले हिस्से में लोगों को बैठाकर चलाना नहीं चाहिए। यदि सामान की निगरानी के लिए न्यूनतम लोगों को बैठाना आवश्यक हो, तो प्रस्थान स्थान के क्षेत्राधिकार वाले पुलिस प्रमुख की अनुमति जरूरी है। केवल सामान चढ़ाने/उतारने के लिए लोगों को बैठाना अनुमति नहीं है।"
   },
   {
-    "id": 56,
+    "id": 66,
     "image": "assets/signs/nopict.png",
     "question_ja": "交通事故が起きたときは、負傷者を救護し、続発事故を防ぐ措置をとらなければならない。",
     "question_en": "When a traffic accident occurs, stop and help the injured, and take measures to prevent farther accident.",
@@ -728,7 +858,7 @@
     "correct_explanation_hi": "दुर्घटना होने पर चालक को तुरंत रुकना, घायल की मदद करना, आगे का खतरा रोकना और पुलिस को रिपोर्ट करना चाहिए।"
   },
   {
-    "id": 57,
+    "id": 67,
     "image": "assets/signs/nopict.png",
     "question_ja": "ブレーキペダルやクラッチペダルには、ある程度の遊びが必要である。",
     "question_en": "Some degree of \"play\" is essential in the brake and clutch pedals.",
@@ -741,7 +871,7 @@
     "correct_explanation_hi": "ब्रेक और क्लच पेडल में उचित play आवश्यक है। बहुत ज्यादा या बहुत कम play खतरनाक हो सकता है।"
   },
   {
-    "id": 58,
+    "id": 68,
     "image": "assets/signs/nopict.png",
     "question_ja": "歩道や路側帯のない道路で駐停車するときは、歩行者が通行できるように車の左側に0.75メートル以上の余地をあけなければならない。",
     "question_en": "When parking or stopping on a road without a sidewalk or side strip, at least 0.75 meters must be left open on the left hand side of the car to allow pedestrians to proceed.",
@@ -754,7 +884,7 @@
     "correct_explanation_hi": "फुटपाथ या side strip न होने वाली सड़क पर वाहन को बाएँ किनारे के साथ रोकना/पार्क करना चाहिए। 0.75 मीटर जगह छोड़ने का नियम चौड़ी side strip में लागू होता है।"
   },
   {
-    "id": 59,
+    "id": 69,
     "image": "assets/signs/nopict.png",
     "question_ja": "高速自動車国道での普通自動二輪車の法定最高速度は80km/h、大型自動二輪車は100km/hである。",
     "question_en": "The maximum legal speed of regular motorcycles on a national expressway is 80km/h, and 100km/h for large motorcycles.",
@@ -767,7 +897,7 @@
     "correct_explanation_hi": "राष्ट्रीय एक्सप्रेसवे पर बड़ी और सामान्य मोटरसाइकिल दोनों की कानूनी अधिकतम गति 100km/h है।"
   },
   {
-    "id": 60,
+    "id": 70,
     "image": "assets/signs/nopict.png",
     "question_ja": "ハンドルを改造した二輪車は危険なので、そのような改造をしてはならない。",
     "question_en": "As two-wheeled vehicles with modified handlebars are dangerous to drive, such remodeling must not be conducted.",
@@ -780,7 +910,7 @@
     "correct_explanation_hi": "मोटरसाइकिल के हैंडल आदि का अनुचित改造 सुरक्षित ड्राइविंग में बाधा बन सकता है, इसलिए नहीं करना चाहिए।"
   },
   {
-    "id": 61,
+    "id": 71,
     "image": "assets/signs/nopict.png",
     "question_ja": "普通自動二輪車や大型自動二輪車を運転するときは、前の車を左側または右側のどちらからでも追い越すことができる。",
     "question_en": "When driving regular or large motorcycle, you can overtake another vehicle on either the left or right.",
@@ -793,7 +923,7 @@
     "correct_explanation_hi": "ओवरटेक सामान्यतः आगे वाले वाहन के दाईं ओर से किया जाता है।"
   },
   {
-    "id": 62,
+    "id": 72,
     "image": "assets/signs/nopict.png",
     "question_ja": "普通自動二輪免許で、小型特殊自動車と一般原動機付自転車を運転できる。",
     "question_en": "Special light equipment and general motorized bicycle can be driven with a regular motorcycle license.",
@@ -806,7 +936,7 @@
     "correct_explanation_hi": "सामान्य मोटरसाइकिल लाइसेंस से सामान्य मोटरसाइकिल, छोटे विशेष वाहन और सामान्य मोपेड चला सकते हैं।"
   },
   {
-    "id": 63,
+    "id": 73,
     "image": "assets/signs/nopict.png",
     "question_ja": "一般原動機付自転車の積載重量制限は30kg以下で、大型自動二輪車と普通自動二輪車は60kg以下である。",
     "question_en": "The load weight restriction of a moped is 30kg or less, and 60kg or less for a large and regular motorcycle.",
@@ -819,7 +949,7 @@
     "correct_explanation_hi": "सामान्य मोपेड की लदान सीमा 30kg या कम, और बड़ी/सामान्य मोटरसाइकिल की 60kg या कम है।"
   },
   {
-    "id": 64,
+    "id": 74,
     "image": "assets/signs/nopict.png",
     "question_ja": "任意保険に加入していれば、自動車損害賠償責任保険に加入する必要はない。",
     "question_en": "If a driver purchases an optional insurance, the driver does not need to purchase a third party liability automobile insurance.",
@@ -832,7 +962,7 @@
     "correct_explanation_hi": "optional insurance होने पर भी compulsory automobile liability insurance आवश्यक है।"
   },
   {
-    "id": 65,
+    "id": 75,
     "image": "assets/signs/nopict.png",
     "question_ja": "エンジンを切って大型自動二輪車や普通自動二輪車を押して歩いているときは、歩行者とみなされ、歩道や路側帯を通行できる。",
     "question_en": "When pushing a large or regular motorcycle with the engine off, you are considered to be a pedestrian and you can proceed on the sidewalk or side strip.",
@@ -845,7 +975,7 @@
     "correct_explanation_hi": "इंजन बंद करके मोटरसाइकिल धकेलने वाला व्यक्ति पैदल यात्री माना जाता है। लेकिन sidecar या दूसरा वाहन खींचने जैसे मामलों में अपवाद है।"
   },
   {
-    "id": 66,
+    "id": 76,
     "image": "assets/signs/nopict.png",
     "question_ja": "つえをついて歩く高齢者など、歩行が困難な人のそばを通るときは、一時停止または徐行して安全に通行できるようにしなければならない。",
     "question_en": "When driving around senior citizen who has difficulty in walking such as walking with cane, a driver must stop or slow down to allow him/her to pass safely.",
@@ -858,7 +988,7 @@
     "correct_explanation_hi": "चलने में कठिनाई वाले व्यक्ति के पास से गुजरते समय चालक को रुकना या धीमा होना चाहिए।"
   },
   {
-    "id": 67,
+    "id": 77,
     "image": "assets/signs/nopict.png",
     "question_ja": "交差点で右折するときは、一方通行の道路でもあらかじめ中央線に寄り、徐行し、交差点の中心のすぐ外側を通行しなければならない。",
     "question_en": "When making a right turn at an intersection, drivers must move over close to the centerline even on one way road, slow down and pass immediately outside the center of the intersection.",
@@ -871,7 +1001,7 @@
     "correct_explanation_hi": "दाएँ मुड़ते समय चौराहे के केंद्र के अंदरूनी पास से धीमे गुजरना चाहिए। वन-वे सड़क पर पहले दाहिने किनारे के पास जाना चाहिए।"
   },
   {
-    "id": 68,
+    "id": 78,
     "image": "assets/signs/nopict.png",
     "question_ja": "他の交通や道路状況にかかわらず、円滑な交通のためには指定最高速度で走行したほうがよい。",
     "question_en": "Regardless of the other traffic or road conditions, it is better to driver at the designated maximum speed for smooth traffic flow.",
@@ -884,20 +1014,20 @@
     "correct_explanation_hi": "निर्धारित अधिकतम गति ऊपरी सीमा है। चालक को यातायात और सड़क स्थिति के अनुसार सुरक्षित गति चुननी चाहिए।"
   },
   {
-    "id": 69,
+    "id": 79,
     "image": "assets/signs/nopict.png",
     "question_ja": "左右の見通しがきかない交差点を通行するときは、徐行しなければならない。",
     "question_en": "Drivers must slow down to pass through any intersection where it is hard to see on the right or left.",
     "question_ne": "दायाँ वा बायाँ देख्न गाह्रो हुने कुनै पनि चोक पार गर्दा बिस्तारै चल्नुपर्छ।",
     "question_hi": "दाएँ या बाएँ देखना कठिन हो ऐसे किसी भी चौराहे से गुजरते समय धीमा चलना चाहिए।",
-    "answer": true,
-    "correct_explanation_ja": "左右の見通しがきかない交差点では、優先道路を通行している場合などを除き、徐行しなければならない。",
-    "correct_explanation_en": "At intersections where visibility to the left and right is poor, drivers must slow down except in cases such as when driving on a priority road.",
-    "correct_explanation_ne": "दायाँ-बायाँ दृश्यता कमजोर भएका चोकमा, प्राथमिकता सडकमा चलिरहेको अवस्था आदि बाहेक बिस्तारै चल्नुपर्छ।",
-    "correct_explanation_hi": "दाएँ-बाएँ दृश्यता खराब चौराहे पर, प्राथमिकता सड़क पर चलने जैसी स्थिति को छोड़कर धीमा चलना चाहिए।"
+    "answer": false,
+    "correct_explanation_ja": "左右の見通しがきかない交差点では、原則として徐行しなければならない。ただし、優先道路を通行している場合などは徐行義務の例外となるため、すべての交差点で必ず徐行しなければならないわけではない。",
+    "correct_explanation_en": "At intersections where visibility to the left and right is poor, drivers must generally slow down. However, there are exceptions, such as when driving on a priority road, so it is not always mandatory at every such intersection.",
+    "correct_explanation_ne": "दायाँ र बायाँतर्फ राम्रोसँग देख्न नसकिने चोकमा सामान्यतया बिस्तारै चल्नुपर्छ। तर priority road मा चलिरहेको अवस्था जस्ता अपवाद छन्, त्यसैले त्यस्ता सबै चोकमा सधैं बिस्तारै चल्नुपर्छ भन्ने होइन।",
+    "correct_explanation_hi": "दाएँ और बाएँ की दृश्यता खराब चौराहों पर सामान्यतः धीमा चलना चाहिए। लेकिन priority road पर चलने जैसी कुछ exceptions हैं, इसलिए ऐसे हर चौराहे पर हमेशा धीमा चलना अनिवार्य नहीं है।"
   },
   {
-    "id": 70,
+    "id": 80,
     "image": "assets/signs/nopict.png",
     "question_ja": "駐車禁止の場所でも、人の乗り降りや荷物の積み下ろしのための5分以内の停止は認められる。",
     "question_en": "Stopping for less than 5 minutes for loading/unloading or picking up/dropping off passengers are allowed even on No parking area.",
@@ -910,7 +1040,7 @@
     "correct_explanation_hi": "नो-पार्किंग क्षेत्र में यात्रियों को चढ़ाने/उतारने या 5 मिनट के भीतर सामान लोड/अनलोड करने के लिए रुकना पार्किंग नहीं माना जाता।"
   },
   {
-    "id": 71,
+    "id": 81,
     "image": "assets/signs/nopict.png",
     "question_ja": "黄色の中央線は「追い越し禁止」を示している。",
     "question_en": "Yellow centerline indicates \"Overtaking is prohibited\".",
@@ -923,7 +1053,7 @@
     "correct_explanation_hi": "पीली केंद्र रेखा का मतलब सड़क के दाईं ओर निकलकर ओवरटेक करना निषेध है। इसका अर्थ यह नहीं कि हर प्रकार का ओवरटेक निषेध है।"
   },
   {
-    "id": 72,
+    "id": 82,
     "image": "assets/signs/nopict.png",
     "question_ja": "中央線は、必ず道路の中央にあるとは限らない。",
     "question_en": "The centerline is not always located in the center of the road.",
@@ -936,7 +1066,7 @@
     "correct_explanation_hi": "केंद्र रेखा हमेशा सड़क के ठीक बीच में नहीं होती; सड़क की स्थिति के अनुसार हटकर हो सकती है।"
   },
   {
-    "id": 73,
+    "id": 83,
     "image": "assets/signs/nopict.png",
     "question_ja": "エンジンオイルの量はオイルレベルゲージで点検し、Lより下は不足、Fより上は適量である。",
     "question_en": "The level of engine oil should be inspected by using the oil level gauge. Below L is not enough but above F is appropriate.",
@@ -949,7 +1079,7 @@
     "correct_explanation_hi": "इंजन ऑयल का सही स्तर L और F के बीच होता है। L से नीचे कम और F से ऊपर ज्यादा है।"
   },
   {
-    "id": 74,
+    "id": 84,
     "image": "assets/signs/nopict.png",
     "question_ja": "夜間に故障のため高速道路の路側帯で停止するときは、非常点滅表示灯をつけ、停止表示器材を車の後方に置かなければならない。",
     "question_en": "When stopping a vehicle on the side strip on expressway at night because of break down, you must turn on the hazard light and put emergency reflector behind the vehicle.",
@@ -962,7 +1092,7 @@
     "correct_explanation_hi": "expressway पर खराबी से रुकने पर hazard lights जलाकर पीछे emergency warning device रखना चाहिए।"
   },
   {
-    "id": 75,
+    "id": 85,
     "image": "assets/signs/nopict.png",
     "question_ja": "原則として、車両は軌道敷内を通行してはならない。",
     "question_en": "In principle, vehicles must not drive on the streetcar tracks.",
@@ -975,7 +1105,7 @@
     "correct_explanation_hi": "दाएँ/बाएँ मुड़ने या खतरे से बचने जैसी अपरिहार्य स्थिति को छोड़कर, वाहनों को streetcar tracks पर नहीं चलना चाहिए।"
   },
   {
-    "id": 76,
+    "id": 86,
     "image": "assets/signs/nopict.png",
     "question_ja": "少量の酒を飲んだが、酔っていなかったので注意して運転を続けた。",
     "question_en": "Though I had drunk a small amount of alcohol, I continued to drive carefully, because I was not intoxicated.",
@@ -988,7 +1118,7 @@
     "correct_explanation_hi": "थोड़ी मात्रा में भी शराब पीने के बाद वाहन नहीं चलाना चाहिए।"
   },
   {
-    "id": 77,
+    "id": 87,
     "image": "assets/signs/nopict.png",
     "question_ja": "高速道路を走行するときは、スタンディングウェーブ現象を防ぐため、タイヤの空気圧をやや高めにする。",
     "question_en": "When driving on an expressway, air pressure of tires should be set slightly higher to prevent the standing wave phenomenon.",
@@ -1001,7 +1131,7 @@
     "correct_explanation_hi": "उच्च गति पर standing wave phenomenon होने की संभावना होती है, इसलिए टायर का air pressure उचित रूप से सामान्य से थोड़ा अधिक रखना अच्छा है।"
   },
   {
-    "id": 78,
+    "id": 88,
     "image": "assets/signs/nopict.png",
     "question_ja": "車両通行帯のある道路では、やむを得ない場合を除き、2つの車両通行帯にまたがって通行してはならない。",
     "question_en": "On a road with vehicle lanes, vehicles must not straddle two lanes except for unavoidable situations.",
@@ -1014,7 +1144,7 @@
     "correct_explanation_hi": "लेन वाली सड़क पर एक ही लेन में चलना चाहिए और दो लेन पर फैलकर नहीं चलना चाहिए।"
   },
   {
-    "id": 79,
+    "id": 89,
     "image": "assets/signs/nopict.png",
     "question_ja": "故障車をロープでけん引するときは、0.3メートル四方以上の白い布をロープに付けなければならない。",
     "question_en": "When towing a broken down vehicle by rope, a red square cloth 0.3m×0.3m or larger must to be attached to the rope.",
@@ -1027,7 +1157,7 @@
     "correct_explanation_hi": "रस्सी से खींचते समय कम से कम 0.3m वर्ग का सफेद कपड़ा रस्सी पर लगाना चाहिए, लाल नहीं।"
   },
   {
-    "id": 80,
+    "id": 90,
     "image": "assets/signs/nopict.png",
     "question_ja": "トンネル内など昼間でも視界が50メートル以下の場所では、前照灯をつけなければならない。高速道路では200メートル以下の場合である。",
     "question_en": "When driving a vehicle and your visibility is less than 50m (200m on expressway), even during the daytime such as in tunnel, headlights must be turned on.",
@@ -1040,7 +1170,7 @@
     "correct_explanation_hi": "दिन में भी दृश्यता 50m से कम, या expressway पर 200m से कम हो तो headlights जलानी चाहिए।"
   },
   {
-    "id": 81,
+    "id": 91,
     "image": "assets/signs/nopict.png",
     "question_ja": "夜間は交通量が少ないので、普段より速く走行したほうがよい。",
     "question_en": "As the number of traffics (vehicles) is less at night, you should drive faster than usual.",
@@ -1053,7 +1183,7 @@
     "correct_explanation_hi": "रात में दृश्यता कम होती है और खतरे देर से दिखते हैं, इसलिए सुरक्षित मध्यम गति से चलना चाहिए।"
   },
   {
-    "id": 82,
+    "id": 92,
     "image": "assets/signs/nopict.png",
     "question_ja": "一方通行の道路で緊急自動車が近づいてきたとき、左に寄るとかえって妨げになるおそれがあったので、右に寄って進路を譲った。",
     "question_en": "When driving on one-way road and an emergency vehicle approached, I pulled over to the right to give way to it because there was a possibility that I obstruct it if I pull over to the left.",
@@ -1066,7 +1196,7 @@
     "correct_explanation_hi": "वन-वे सड़क पर यदि बाईं ओर जाना आपातकालीन वाहन को बाधा देता है, तो दाईं ओर जाकर रास्ता दिया जा सकता है।"
   },
   {
-    "id": 83,
+    "id": 93,
     "image": "assets/signs/nopict.png",
     "question_ja": "前方の信号が青でも、交通渋滞のため交差点内で立ち往生するおそれがあるときは、交差点に入ってはならない。",
     "question_en": "Even if the traffic light ahead is green, you must not enter the intersection if there is a possibility that you may be stuck at intersection because of the traffic jam.",
@@ -1079,7 +1209,7 @@
     "correct_explanation_hi": "आगे जाम के कारण चौराहे में रुकने की संभावना हो तो हरी बत्ती पर भी प्रवेश नहीं करना चाहिए।"
   },
   {
-    "id": 84,
+    "id": 94,
     "image": "assets/signs/nopict.png",
     "question_ja": "交差点で左折するときは、左に寄り、左後方の死角を直接目で見て自転車や一般原動機付自転車を確認しなければならない。",
     "question_en": "When making a left turn at intersection, you have to move over to the left and check for bicycles or general motorized bicycles by looking directly at the blind spot behind on your left.",
@@ -1092,7 +1222,7 @@
     "correct_explanation_hi": "बाएँ मुड़ते समय पहले बाएँ किनारे की ओर जाएँ और केवल mirror से नहीं, सीधे देखकर बाएँ पीछे की सुरक्षा確認 करें।"
   },
   {
-    "id": 85,
+    "id": 95,
     "image": "assets/signs/nopict.png",
     "question_ja": "高速道路では、故障車をロープやクレーンでけん引してはならない。",
     "question_en": "On national expressways, you must not tow a broken down vehicle by rope or crane.",
@@ -1105,7 +1235,7 @@
     "correct_explanation_hi": "expressway पर खराब वाहन को रस्सी या क्रेन से खींचकर नहीं चलना चाहिए।"
   },
   {
-    "id": 86,
+    "id": 96,
     "image": "assets/signs/nopict.png",
     "question_ja": "踏切内で車が動かなくなったときは、ギアをローに入れ、セルモーターを使って非常手段として車を移動させる。",
     "question_en": "When your vehicle has stalled on a railway crossing, shift the gear into low and move it using the cell motor as the emergency means.",
@@ -1118,7 +1248,7 @@
     "correct_explanation_hi": "रेलवे crossing पर engine stall हो जाए तो low या second gear में डालकर starter motor से वाहन हटाने का उपाय भी होता है।"
   },
   {
-    "id": 87,
+    "id": 97,
     "image": "assets/signs/nopict.png",
     "question_ja": "オートマチック車でチェンジレバーをDからR、またはRからDに入れるときは、車を完全に停止させ、ブレーキをしっかり踏まなければならない。",
     "question_en": "When you change the gearshift from D to R or from R to D in Automatic car, the vehicle must be stopped completely and the brake must be pressed securely.",
@@ -1131,7 +1261,7 @@
     "correct_explanation_hi": "ऑटोमैटिक कार में forward और reverse बदलते समय पूरी तरह रुककर ब्रेक दबाने के बाद操作 करना चाहिए।"
   },
   {
-    "id": 88,
+    "id": 98,
     "image": "assets/signs/nopict.png",
     "question_ja": "乗車定員5人の普通自動車には、12歳未満の子どもを6人まで乗せることができる。",
     "question_en": "The regular vehicle with a seating capacity of 5 can accommodate up to 6 children below 12 years old.",
@@ -1144,7 +1274,7 @@
     "correct_explanation_hi": "12 वर्ष से कम उम्र के 3 बच्चे = 2 वयस्क माने जाते हैं। इसलिए 6 बच्चे = 4 वयस्क के बराबर हैं और 5 लोगों की क्षमता में आ सकते हैं।"
   },
   {
-    "id": 89,
+    "id": 99,
     "image": "assets/signs/nopict.png",
     "question_ja": "坂の頂上付近では、「徐行」の標識がなければ徐行しなくてもよい。",
     "question_en": "Drivers don't need to slow down if there is no sign \"Slow down\" near the top of hill.",
@@ -1157,7 +1287,7 @@
     "correct_explanation_hi": "पहाड़ी की चोटी के पास Slow Down संकेत न होने पर भी धीमा चलना चाहिए।"
   },
   {
-    "id": 90,
+    "id": 100,
     "image": "assets/signs/nopict.png",
     "question_ja": "交差点の中では転回が禁止されている。",
     "question_en": "U-turn is prohibited inside an intersection.",

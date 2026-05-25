@@ -42,7 +42,7 @@
       <!-- Start Screen -->
       <section id="startScreen">
       <p class="text-center text-sm text-slate-500 mb-6">
-        Version 1.2.0
+        Version 1.2.1
       </p>
       <label class="block text-sm font-semibold text-slate-700 mb-2">
         Enter your name
@@ -139,7 +139,7 @@
 
     </section>
 
-      <!-- Quiz Screen -->
+    <!-- Quiz Screen -->
       <section id="quizScreen" class="hidden">
         <div class="flex justify-between items-center mb-4">
           <p id="progressText" class="text-sm font-medium text-slate-600">Question 1 / 30</p>
@@ -154,14 +154,14 @@
             class="w-full max-h-72 object-contain bg-white rounded-xl mb-4"
           />
 
-            <div class="mb-6 space-y-2">
-              <p id="questionTextJa" class="text-xl font-bold text-slate-800 leading-relaxed"></p>
-              <p id="questionTextEn" class="text-base text-slate-600 leading-relaxed"></p>
-              <p id="questionTextNe" class="text-base text-slate-700 leading-relaxed devanagari-font"></p>
-              <p id="questionTextHi" class="text-base text-slate-700 leading-relaxed devanagari-font"></p>
-            </div>
+          <div class="mb-6 space-y-2">
+            <p id="questionTextJa" class="text-xl font-bold text-slate-800 leading-relaxed"></p>
+            <p id="questionTextEn" class="text-base text-slate-600 leading-relaxed"></p>
+            <p id="questionTextNe" class="text-base text-slate-700 leading-relaxed devanagari-font"></p>
+            <p id="questionTextHi" class="text-base text-slate-700 leading-relaxed devanagari-font"></p>
+          </div>
 
-          <div class="grid grid-cols-2 gap-3">
+          <div id="trueFalseArea" class="grid grid-cols-2 gap-3">
             <button
               id="trueBtn"
               class="bg-green-600 hover:bg-green-700 text-white font-bold py-3 rounded-xl"
@@ -173,6 +173,17 @@
               class="bg-red-600 hover:bg-red-700 text-white font-bold py-3 rounded-xl"
             >
               False
+            </button>
+          </div>
+
+          <div id="extraQuestionArea" class="hidden">
+            <div id="extraChoices" class="space-y-3 mb-4"></div>
+
+            <button
+              id="submitExtraBtn"
+              class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded-xl transition"
+            >
+              Submit Answer
             </button>
           </div>
         </div>
