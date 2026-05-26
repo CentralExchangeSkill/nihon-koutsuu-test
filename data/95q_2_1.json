@@ -136,15 +136,15 @@
     "question_en": "The maximum legal speed on a motorway is the same as on a general road.",
     "question_ne": "मोटरवेमा कानुनी अधिकतम गति सामान्य सडकसँग समान हुन्छ।",
     "question_hi": "मोटरवे पर कानूनी अधिकतम गति सामान्य सड़क जैसी ही होती है।",
-    "answer": false,
-    "correct_explanation_ja": "自動車専用道路の法定最高速度は一般道路と同じとは限らない。標識や道路の種類に従って走行する。",
-    "correct_explanation_en": "The legal maximum speed on a motorway is not always the same as on a general road. Drivers must follow the road type and posted signs.",
-    "correct_explanation_ne": "मोटरवेमा कानुनी अधिकतम गति सधैं सामान्य सडकसँग समान हुँदैन। सडकको प्रकार र संकेत पालना गर्नुपर्छ।",
-    "correct_explanation_hi": "मोटरवे पर कानूनी अधिकतम गति हमेशा सामान्य सड़क जैसी नहीं होती। सड़क के प्रकार और संकेतों का पालन करना चाहिए।"
+    "answer": true,
+    "correct_explanation_ja": "自動車専用道路の法定最高速度は、基本的に一般道路と同じである。ただし、標識や標示で最高速度が指定されている場合は、その指定速度に従わなければならない。",
+    "correct_explanation_en": "The legal maximum speed on a motorway is basically the same as on a general road. However, if a maximum speed is designated by signs or markings, drivers must follow that posted speed limit.",
+    "correct_explanation_ne": "मोटरवेमा कानुनी अधिकतम गति सामान्यतया सामान्य सडकसँग समान हुन्छ। तर संकेत वा सडक मार्किङले अधिकतम गति तोकेको छ भने, त्यस तोकिएको गतिलाई पालना गर्नुपर्छ।",
+    "correct_explanation_hi": "मोटरवे पर कानूनी अधिकतम गति मूल रूप से सामान्य सड़क जैसी ही होती है। लेकिन यदि संकेत या सड़क मार्किंग से अधिकतम गति निर्धारित है, तो उस निर्धारित गति का पालन करना चाहिए।"
   },
   {
     "id": 12,
-    "image": "assets/signs/final_test2/figure1.png",
+    "image": "assets/signs/95q_2_1/figure1.png",
     "question_ja": "図1の標識は「一方通行」を示している。",
     "question_en": "The road sign shown in Figure 1 indicates \"one way\".",
     "question_ne": "चित्र १ को सडक संकेतले “एकतर्फी सडक” जनाउँछ।",
@@ -157,7 +157,7 @@
   },
   {
     "id": 13,
-    "image": "assets/signs/final_test2/figure2.png",
+    "image": "assets/signs/95q_2_1/figure2.png",
     "question_ja": "図2の標識は「車両進入禁止」を示している。",
     "question_en": "The road sign shown in Figure 2 indicates \"No entry for vehicle\".",
     "question_ne": "चित्र २ को संकेतले “सवारी साधन प्रवेश निषेध” जनाउँछ।",
@@ -170,20 +170,20 @@
   },
   {
     "id": 14,
-    "image": "assets/signs/final_test2/figure3.png",
+    "image": "assets/signs/95q_2_1/figure3.png",
     "question_ja": "図3の標識は「追越し禁止」を示している。",
     "question_en": "The road sign shown in Figure 3 indicates \"No overtaking\".",
     "question_ne": "चित्र ३ को सडक संकेतले “ओभरटेक निषेध” जनाउँछ।",
     "question_hi": "चित्र 3 का सड़क संकेत “ओवरटेक निषेध” दर्शाता है।",
     "answer": false,
-    "correct_explanation_ja": "図3は追越し禁止の標識ではない。標識の意味を正しく確認して運転する必要がある。",
-    "correct_explanation_en": "Figure 3 is not a No Overtaking sign. Drivers must correctly confirm the meaning of road signs.",
-    "correct_explanation_ne": "चित्र ३ ओभरटेक निषेध संकेत होइन। सडक संकेतको अर्थ सही रूपमा確認 गर्नुपर्छ।",
-    "correct_explanation_hi": "चित्र 3 ओवरटेक निषेध संकेत नहीं है। सड़क संकेत का अर्थ सही रूप से確認 करना चाहिए।"
+    "correct_explanation_ja": "図3の標識は「追越しのための右側部分はみ出し通行禁止（314）」を示している。これは追越しのために道路の右側部分にはみ出して通行することを禁止する標識であり、「追越し禁止」そのものを示す標識ではない。",
+    "correct_explanation_en": "The sign in Figure 3 indicates “No crossing into the right side of the road for overtaking” (Sign 314). It prohibits entering the right side of the road for the purpose of overtaking. It is not the sign that means “No overtaking” itself.",
+    "correct_explanation_ne": "चित्र ३ को संकेत “ओभरटेक गर्नका लागि सडकको दायाँ भागमा निस्कन निषेध” (संकेत 314) हो। यसले ओभरटेक गर्न सडकको दायाँ भागमा निस्केर चल्न निषेध गर्छ। यो “ओभरटेक निषेध” स्वयं जनाउने संकेत होइन।",
+    "correct_explanation_hi": "चित्र 3 का संकेत “ओवरटेक करने के लिए सड़क के दाएँ भाग में निकलना निषेध” (संकेत 314) है। यह ओवरटेक के लिए सड़क के दाएँ भाग में निकलकर चलने को निषेध करता है। यह स्वयं “ओवरटेक निषेध” का संकेत नहीं है।"
   },
   {
     "id": 15,
-    "image": "assets/signs/final_test2/figure4.png",
+    "image": "assets/signs/95q_2_1/figure4.png",
     "question_ja": "図4の道路標示は、車両がこの部分に入ってはならないことを示している。",
     "question_en": "The road marking shown in Figure 4 indicates vehicles are prohibited from entering this area.",
     "question_ne": "चित्र ४ को सडक मार्किङले सवारी साधनलाई यो भागमा प्रवेश निषेध भएको जनाउँछ।",
@@ -196,7 +196,7 @@
   },
   {
     "id": 16,
-    "image": "assets/signs/final_test2/figure5.png",
+    "image": "assets/signs/95q_2_1/figure5.png",
     "question_ja": "図5の道路標示は「自転車横断帯」を示している。",
     "question_en": "The road marking shown in Figure 5 indicates \"bicycle crossing zone\".",
     "question_ne": "चित्र ५ को सडक मार्किङले “साइकल क्रसिङ क्षेत्र” जनाउँछ।",
@@ -209,7 +209,7 @@
   },
   {
     "id": 17,
-    "image": "assets/signs/final_test2/figure6.png",
+    "image": "assets/signs/95q_2_1/figure6.png",
     "question_ja": "図6の標識がある道路では、許可を受けた車両は通行できるが、この場合は徐行し、歩行者に特に注意しなければならない。",
     "question_en": "On a road with the road sign shown in Figure 6, vehicles with permission can pass, however in this case, they must slow down and pay special attention to pedestrians.",
     "question_ne": "चित्र ६ को संकेत भएको सडकमा अनुमति प्राप्त सवारी चल्न सक्छ, तर यस अवस्थामा बिस्तारै चल्दै पैदल यात्रीलाई विशेष ध्यान दिनुपर्छ।",
@@ -222,20 +222,20 @@
   },
   {
     "id": 18,
-    "image": "assets/signs/final_test2/figure7.png",
+    "image": "assets/signs/95q_2_1/figure7.png",
     "question_ja": "図7の標識は「8時から20時まで駐停車禁止」を示している。",
     "question_en": "The road sign shown in Figure 7 indicates \"no parking or stopping between 8:00 and 20:00\".",
     "question_ne": "चित्र ७ को सडक संकेतले “8:00 देखि 20:00 सम्म रोक्न वा पार्क गर्न निषेध” जनाउँछ।",
     "question_hi": "चित्र 7 का सड़क संकेत “8:00 से 20:00 तक रुकना या पार्किंग निषेध” दर्शाता है।",
     "answer": false,
-    "correct_explanation_ja": "図7は駐車禁止の標識であり、駐停車禁止ではない。また、補助標識がなければ時間帯も指定されていない。",
-    "correct_explanation_en": "Figure 7 is a No Parking sign, not a No Stopping or Parking sign. Without an auxiliary sign, no time period is specified.",
-    "correct_explanation_ne": "चित्र ७ पार्किङ निषेध संकेत हो, रोक्न र पार्क गर्न निषेध होइन। सहायक संकेत नभए समय पनि तोकिएको हुँदैन।",
-    "correct_explanation_hi": "चित्र 7 नो-पार्किंग संकेत है, नो-स्टॉपिंग/नो-पार्किंग नहीं। सहायक संकेत न हो तो समय भी निर्दिष्ट नहीं है।"
+    "correct_explanation_ja": "図7の標識は「駐車禁止（316）」を示しており、上の補助標識「8-20」により、8時から20時まで駐車が禁止されることを示している。駐停車禁止を示すものではない。",
+    "correct_explanation_en": "The sign in Figure 7 indicates “No Parking” (Sign 316), and the supplementary sign “8-20” above it means that parking is prohibited from 8:00 to 20:00. It does not indicate “No Parking or Stopping.”",
+    "correct_explanation_ne": "चित्र ७ को संकेत “पार्किङ निषेध” (संकेत 316) हो, र माथिको सहायक संकेत “8-20” ले 8:00 देखि 20:00 सम्म पार्किङ निषेध हुन्छ भन्ने जनाउँछ। यसले “रोक्न र पार्क गर्न निषेध” भनेको होइन।",
+    "correct_explanation_hi": "चित्र 7 का संकेत “पार्किंग निषेध” (संकेत 316) है, और ऊपर लगा सहायक संकेत “8-20” यह दर्शाता है कि 8:00 से 20:00 तक पार्किंग निषेध है। यह “रुकना और पार्किंग निषेध” नहीं दर्शाता।"
   },
   {
     "id": 19,
-    "image": "assets/signs/final_test2/figure8.png",
+    "image": "assets/signs/95q_2_1/figure8.png",
     "question_ja": "図8の道路標示がある道路では、矢印のように進路変更してはならない。",
     "question_en": "On a road with the road marking shown in Figure 8, vehicles must not change lanes as the arrow indicates.",
     "question_ne": "चित्र ८ को सडक मार्किङ भएको सडकमा, तीरले देखाएजस्तो लेन परिवर्तन गर्नु हुँदैन।",
@@ -344,11 +344,11 @@
     "question_en": "In a location where there is less than 3.5 meters on the right hand side of a parked vehicle, I loaded/unloaded within 10 minutes while I was able to move the vehicle immediately.",
     "question_ne": "पार्क गरेको सवारीको दायाँतर्फ 3.5m भन्दा कम ठाउँ भएको स्थानमा, तुरुन्त सार्न सक्ने अवस्थामा 10 मिनेटभित्र सामान लोड/अनलोड गरेँ।",
     "question_hi": "पार्क किए वाहन के दाईं ओर 3.5m से कम जगह वाली जगह पर, तुरंत हटाने योग्य स्थिति में 10 मिनट के भीतर सामान लोड/अनलोड किया।",
-    "answer": false,
-    "correct_explanation_ja": "荷物の積み下ろしで5分を超えて停止する場合は駐車となる。右側に3.5メートル以上の余地がない場所では駐車してはならない。",
-    "correct_explanation_en": "Stopping for loading or unloading for more than 5 minutes is considered parking. Parking is prohibited where less than 3.5 meters remains on the right side.",
-    "correct_explanation_ne": "सामान लोड/अनलोडका लागि 5 मिनेटभन्दा बढी रोक्नु पार्किङ मानिन्छ। दायाँतर्फ 3.5m भन्दा कम ठाउँ भए पार्किङ निषेध छ।",
-    "correct_explanation_hi": "सामान लोड/अनलोड के लिए 5 मिनट से अधिक रुकना parking माना जाता है। दाईं ओर 3.5m से कम जगह हो तो parking निषेध है।"
+    "answer": true,
+    "correct_explanation_ja": "車の右側に3.5メートル以上の余地がない場所では原則として駐車してはならない。しかし、荷物の積み下ろしのための短時間の停止で、運転者がすぐに移動できる状態であれば、駐車ではなく停車として扱われる。",
+    "correct_explanation_en": "Parking is generally prohibited where there is less than 3.5 meters of space on the right side of the vehicle. However, a short stop for loading or unloading, while the driver is able to move the vehicle immediately, is treated as stopping rather than parking.",
+    "correct_explanation_ne": "सवारीको दायाँतर्फ 3.5m भन्दा कम ठाउँ हुने स्थानमा सामान्यतया पार्किङ निषेध हुन्छ। तर सामान लोड/अनलोडका लागि छोटो समय रोकिएको र चालकले तुरुन्त सवारी सार्न सक्ने अवस्थामा, यसलाई पार्किङ नभई stopping मानिन्छ।",
+    "correct_explanation_hi": "वाहन के दाईं ओर 3.5m से कम जगह होने पर सामान्यतः parking निषेध है। लेकिन सामान लोड/अनलोड के लिए थोड़ी देर रुकना और चालक का तुरंत वाहन हटा सकना, parking नहीं बल्कि stopping माना जाता है।"
   },
   {
     "id": 28,
@@ -822,14 +822,14 @@
     "id": 64,
     "image": "assets/signs/nopict.png",
     "question_ja": "トラックに荷物を積むとき、荷物の見張りに必要最小限の人を荷台に乗せる場合でも、出発地を管轄する警察署長の許可が必要である。",
-    "question_en": "When loading a truck, the minimum number of people required to oversee the load may sit on the load-carrying platform without permission by a police chief in the jurisdiction at the starting point.",
-    "question_ne": "ट्रकमा सामान राख्दा सामान हेर्न आवश्यक न्यूनतम मानिसलाई starting point को police chief को अनुमति बिना荷台मा बसाउन सकिन्छ।",
-    "question_hi": "truck में load करते समय load देखने के लिए आवश्यक minimum people को starting point jurisdiction police chief की अनुमति बिना load-carrying platform पर बैठा सकते हैं।",
-    "answer": false,
-    "correct_explanation_ja": "荷物の見張りのために人を荷台に乗せる場合は、出発地を管轄する警察署長の許可が必要である。許可なしではできない。",
-    "correct_explanation_en": "When people ride on the cargo bed to watch over the load, permission from the police chief with jurisdiction over the starting point is required. It cannot be done without permission.",
-    "correct_explanation_ne": "सामान हेर्न मानिसलाई荷台मा बसाउने場合मा starting point को jurisdiction भएको police chief बाट अनुमति चाहिन्छ। अनुमति बिना हुँदैन।",
-    "correct_explanation_hi": "load की निगरानी के लिए people को cargo bed पर बैठाने के लिए starting point jurisdiction police chief की अनुमति आवश्यक है। बिना अनुमति नहीं कर सकते।"
+    "question_en": "When loading a truck, even if only the minimum number of people required to watch over the load ride on the cargo bed, permission from the police chief with jurisdiction over the starting point is required.",
+    "question_ne": "ट्रकमा सामान राख्दा, सामानको निगरानीका लागि आवश्यक न्यूनतम मानिसलाई मात्र荷台मा बसाउने場合でも, प्रस्थान स्थानको क्षेत्राधिकार भएको प्रहरी प्रमुखको अनुमति आवश्यक हुन्छ।",
+    "question_hi": "ट्रक में सामान लादते समय, सामान की निगरानी के लिए आवश्यक न्यूनतम लोगों को ही cargo bed पर बैठाने के मामले में भी, प्रस्थान स्थान के क्षेत्राधिकार वाले पुलिस प्रमुख की अनुमति आवश्यक होती है।",
+    "answer": true,
+    "correct_explanation_ja": "荷物の見張りのために必要最小限の人を荷台に乗せる場合でも、出発地を管轄する警察署長の許可が必要である。",
+    "correct_explanation_en": "Even when only the minimum number of people needed to watch over the load ride on the cargo bed, permission from the police chief with jurisdiction over the starting point is required.",
+    "correct_explanation_ne": "सामानको निगरानीका लागि आवश्यक न्यूनतम मानिसलाई मात्र荷台मा बसाउने 경우でも, प्रस्थान स्थानको क्षेत्राधिकार भएको प्रहरी प्रमुखको अनुमति आवश्यक हुन्छ।",
+    "correct_explanation_hi": "सामान की निगरानी के लिए आवश्यक न्यूनतम लोगों को ही cargo bed पर बैठाने के मामले में भी, प्रस्थान स्थान के क्षेत्राधिकार वाले पुलिस प्रमुख की अनुमति आवश्यक होती है।"
   },
   {
     "id": 65,

@@ -115,6 +115,16 @@ function getTestConfig(mode) {
       random: false,
       label: "Karimen Final Test 1",
       specialScoring: true
+    },
+    karimenFinal2: {
+      file: "./data/95q_2_1.json",
+      extraFile: "./data/95q_2_2.json",
+      questionCount: 90,
+      extraQuestionCount: 5,
+      passingScore: 95,
+      random: false,
+      label: "Karimen Final Test 2",
+      specialScoring: true
     }
   };
 
