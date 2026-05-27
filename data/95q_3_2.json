@@ -1,0 +1,182 @@
+[
+  {
+    "id": 91,
+    "image": "assets/signs/final_test3/q91.png",
+    "question_ja": "踏切を通過しようとしています。何に注意しますか。",
+    "question_en": "You are going to cross a railway crossing. What should the driver pay attention to?",
+    "question_ne": "तपाईं रेल क्रसिङ पार गर्न लाग्नुभएको छ। चालकले के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप रेलवे क्रॉसिंग पार करने जा रहे हैं। चालक को किन बातों पर ध्यान देना चाहिए?",
+    "choices": [
+      {
+        "id": 1,
+        "text_ja": "前の車が停止して安全確認をしているので、自分は停止せずにそのまま踏切を通過する。",
+        "text_en": "Because the vehicle in front has stopped and has checked safety, you cross the railway crossing without stopping.",
+        "text_ne": "अगाडिको गाडी रोकेर सुरक्षा जाँच गरिसकेको छ, त्यसैले आफू नरोकी रेल क्रसिङ पार गर्छु।",
+        "text_hi": "क्योंकि आगे वाला वाहन रुककर सुरक्षा जाँच कर चुका है, इसलिए मैं बिना रुके रेलवे क्रॉसिंग पार करूँगा।"
+      },
+      {
+        "id": 2,
+        "text_ja": "踏切の向こう側に進む余地があることを確認してから、踏切を通過し始める。",
+        "text_en": "You start crossing the railway crossing after confirming your space after the railway crossing.",
+        "text_ne": "रेल क्रसिङ पार गरेपछि अगाडि जान पर्याप्त ठाउँ छ भन्ने पुष्टि गरेर मात्र क्रसिङ पार गर्न सुरु गर्छु।",
+        "text_hi": "रेलवे क्रॉसिंग के आगे पर्याप्त जगह होने की पुष्टि करने के बाद ही मैं क्रॉसिंग पार करना शुरू करता हूँ।"
+      },
+      {
+        "id": 3,
+        "text_ja": "対向車がいるので、踏切の左側寄りを通行する。",
+        "text_en": "There is an oncoming vehicle so you drive closer to the left side of the railway crossing.",
+        "text_ne": "अगाडिबाट अर्को गाडी आइरहेको छ, त्यसैले म रेल क्रसिङको बायाँ किनारतिर चलाउँछु।",
+        "text_hi": "सामने से वाहन आ रहा है, इसलिए मैं रेलवे क्रॉसिंग के बाईं ओर के पास चलाता हूँ।"
+      }
+    ],
+    "correct_answers": [2],
+    "correct_explanation_ja": "踏切では、前車が安全確認していても自分で一時停止して安全を確認しなければなりません。また、踏切の先に進む余地があることを確認してから進行します。踏切内はできるだけ中央寄りを通行するのが安全です。",
+    "correct_explanation_en": "At a railway crossing, even if the vehicle ahead has already checked safety, you must stop and check safety by yourself. You should also make sure there is enough space beyond the crossing before entering it. It is safer to drive as close to the center as possible when crossing.",
+    "correct_explanation_ne": "रेल क्रसिङमा अगाडिको गाडीले सुरक्षा जाँच गरिसकेको भए पनि, आफूले एकपटक रोकेर सुरक्षा जाँच गर्नुपर्छ। साथै, क्रसिङ पार गरेपछि अगाडि पर्याप्त ठाउँ छ भन्ने पुष्टि गरेर मात्र अघि बढ्नुपर्छ। क्रसिङभित्र सकेसम्म बीचतिर चलाउनु सुरक्षित हुन्छ।",
+    "correct_explanation_hi": "रेलवे क्रॉसिंग पर, आगे वाले वाहन ने सुरक्षा जाँच की हो तब भी आपको स्वयं रुककर सुरक्षा की पुष्टि करनी चाहिए। साथ ही, क्रॉसिंग के आगे पर्याप्त जगह होने की पुष्टि करके ही आगे बढ़ना चाहिए। क्रॉसिंग के भीतर यथासंभव बीच की ओर चलाना अधिक सुरक्षित होता है।"
+  },
+  {
+    "id": 92,
+    "image": "assets/signs/final_test3/q92.png",
+    "question_ja": "時速40kmで走行しています。何に注意しますか。",
+    "question_en": "You are driving at 40 km/h. What should the driver pay attention to?",
+    "question_ne": "तपाईं 40 किमी/घण्टाको गतिमा चलिरहनुभएको छ। चालकले के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 40 किमी/घंटा की रफ्तार से गाड़ी चला रहे हैं। चालक को किन बातों पर ध्यान देना चाहिए?",
+    "choices": [
+      {
+        "id": 1,
+        "text_ja": "左側から車が飛び出してくるかもしれないので、中央線を越えて走行する。",
+        "text_en": "Since a vehicle may jump out from the left, you should drive over the center line.",
+        "text_ne": "बायाँतर्फबाट गाडी निस्कन सक्छ, त्यसैले म सेन्टर लाइन काटेर चलाउँछु।",
+        "text_hi": "बाईं ओर से वाहन निकल सकता है, इसलिए मुझे सेंटर लाइन पार करके चलना चाहिए।"
+      },
+      {
+        "id": 2,
+        "text_ja": "左側から車が飛び出してくるかもしれないので、速度を落とす。",
+        "text_en": "Since a vehicle may jump out from the left, you should reduce your speed.",
+        "text_ne": "बायाँतर्फबाट गाडी निस्कन सक्छ, त्यसैले मैले गति घटाउनुपर्छ।",
+        "text_hi": "बाईं ओर से वाहन निकल सकता है, इसलिए मुझे गति कम करनी चाहिए।"
+      },
+      {
+        "id": 3,
+        "text_ja": "優先道路を通行しているので左側から車は来ない。速度を上げて交差点を通過する。",
+        "text_en": "Vehicles won't come from the left as you are driving on a priority road. Increase your speed and go through the intersection.",
+        "text_ne": "म प्राथमिकता सडकमा चलिरहेको छु, त्यसैले बायाँतर्फबाट गाडी आउँदैन। गति बढाएर चोक पार गर्छु।",
+        "text_hi": "मैं प्राथमिकता सड़क पर चल रहा हूँ, इसलिए बाईं ओर से वाहन नहीं आएगा। मुझे गति बढ़ाकर चौराहा पार करना चाहिए।"
+      }
+    ],
+    "correct_answers": [2],
+    "correct_explanation_ja": "優先道路を通行していても、左側から車が飛び出してくる可能性があります。交差点では油断せず、速度を落として安全を確認しながら進行することが大切です。",
+    "correct_explanation_en": "Even if you are driving on a priority road, a vehicle may still come out from the left. At an intersection, you should not be careless; reduce speed and proceed while checking safety.",
+    "correct_explanation_ne": "तपाईं प्राथमिकता सडकमा भए पनि बायाँतर्फबाट गाडी अचानक आउन सक्छ। चोकमा सतर्क रहँदै गति घटाएर सुरक्षा जाँच गर्दै अघि बढ्नुपर्छ।",
+    "correct_explanation_hi": "भले ही आप प्राथमिकता सड़क पर चल रहे हों, बाईं ओर से वाहन अचानक आ सकता है। चौराहे पर लापरवाही नहीं करनी चाहिए; गति कम करके सुरक्षा की पुष्टि करते हुए आगे बढ़ना चाहिए।"
+  },
+  {
+    "id": 93,
+    "image": "assets/signs/final_test3/q93.png",
+    "question_ja": "時速40kmで走行しています。何に注意しますか。",
+    "question_en": "You are driving at 40 km/h. What should the driver pay attention to?",
+    "question_ne": "तपाईं 40 किमी/घण्टाको गतिमा चलिरहनुभएको छ। चालकले के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 40 किमी/घंटा की रफ्तार से गाड़ी चला रहे हैं। चालक को किन बातों पर ध्यान देना चाहिए?",
+    "choices": [
+      {
+        "id": 1,
+        "text_ja": "カーブの手前の路面が凍結しているので、カーブに入る前に十分速度を落とす。",
+        "text_en": "Because the road surface before the curve is frozen, reduce your speed sufficiently before the curve.",
+        "text_ne": "घुम्ती अघि सडक जमेको हुन सक्छ, त्यसैले घुम्तीमा पस्नु अघि पर्याप्त रूपमा गति घटाउनुपर्छ।",
+        "text_hi": "क्योंकि मोड़ से पहले सड़क जमी हुई हो सकती है, इसलिए मोड़ में प्रवेश करने से पहले पर्याप्त रूप से गति कम करनी चाहिए।"
+      },
+      {
+        "id": 2,
+        "text_ja": "対向車がセンターラインをはみ出してくるかもしれないので、カーブの手前でそれに応じて速度を調整する。",
+        "text_en": "Since an oncoming vehicle may cross the center line, you should adjust your speed accordingly before the curve.",
+        "text_ne": "सामनेबाट आउने गाडीले सेन्टर लाइन काट्न सक्छ, त्यसैले घुम्तीमा पुग्नु अघि त्यसअनुसार गति मिलाउनुपर्छ।",
+        "text_hi": "सामने से आने वाला वाहन सेंटर लाइन पार कर सकता है, इसलिए मोड़ से पहले उसी अनुसार गति समायोजित करनी चाहिए।"
+      },
+      {
+        "id": 3,
+        "text_ja": "スタッドレスタイヤを付けているので、現在の速度のまま走り続ける。",
+        "text_en": "Because you put studless tires on, you should continue driving at the current speed.",
+        "text_ne": "स्टडलेस टायर लगाएकोले, अहिलेको गतिमै चलिरहनुपर्छ।",
+        "text_hi": "क्योंकि आपने स्टडलेस टायर लगाए हैं, इसलिए वर्तमान गति से ही चलते रहना चाहिए।"
+      }
+    ],
+    "correct_answers": [1, 2],
+    "correct_explanation_ja": "凍結しやすいカーブでは、手前で十分に減速することが重要です。また、見通しの悪いカーブでは対向車がセンターラインをはみ出す危険もあるため、それを考えて速度を調整しなければなりません。スタッドレスタイヤを付けていても過信は禁物です。",
+    "correct_explanation_en": "On a curve where the road may be frozen, it is important to slow down sufficiently before entering the curve. Also, on a curve with poor visibility, an oncoming vehicle may cross the center line, so you should adjust your speed accordingly. Even with studless tires, you must not be overconfident.",
+    "correct_explanation_ne": "जमेको हुन सक्ने घुम्तीमा पस्नु अघि पर्याप्त रूपमा गति घटाउनु महत्त्वपूर्ण हुन्छ। साथै, दृश्यता कम भएको घुम्तीमा विपरीत दिशाबाट आउने गाडीले सेन्टर लाइन काट्न सक्छ, त्यसैले त्यसलाई ध्यानमा राखी गति मिलाउनुपर्छ। स्टडलेस टायर लगाए पनि ढुक्क भएर तीव्र गतिमा चलाउनु हुँदैन।",
+    "correct_explanation_hi": "जिस मोड़ पर सड़क जमी हुई हो सकती है, वहाँ मोड़ में प्रवेश करने से पहले पर्याप्त रूप से धीमा होना आवश्यक है। साथ ही, कम दृश्यता वाले मोड़ पर सामने से आने वाला वाहन सेंटर लाइन पार कर सकता है, इसलिए उसी अनुसार गति समायोजित करनी चाहिए। स्टडलेस टायर लगे हों तब भी अधिक भरोसा नहीं करना चाहिए।"
+  },
+  {
+    "id": 94,
+    "image": "assets/signs/final_test3/q94.png",
+    "question_ja": "時速30kmで走行しています。何に注意しますか。",
+    "question_en": "You are driving at 30 km/h. What should the driver pay attention to?",
+    "question_ne": "तपाईं 30 किमी/घण्टाको गतिमा चलिरहनुभएको छ। चालकले के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप 30 किमी/घंटा की रफ्तार से गाड़ी चला रहे हैं। चालक को किन बातों पर ध्यान देना चाहिए?",
+    "choices": [
+      {
+        "id": 1,
+        "text_ja": "右側から来る車が自車に気づかずに出てくるかもしれないので、交差点の手前で止まれる速度で進行する。",
+        "text_en": "Because a vehicle coming from the right may not notice your car and come out, you should drive at a speed which enables you to stop before the intersection.",
+        "text_ne": "दायाँतर्फबाट आउने गाडीले तपाईंको गाडी नदेखी निस्कन सक्छ, त्यसैले चोकअघि रोक्न सकिने गतिमा चलाउनुपर्छ।",
+        "text_hi": "दाईं ओर से आने वाला वाहन आपकी गाड़ी को देखे बिना निकल सकता है, इसलिए चौराहे से पहले रुक सकने वाली गति से चलना चाहिए।"
+      },
+      {
+        "id": 2,
+        "text_ja": "交差点の左側から自転車や歩行者が飛び出してくるかもしれないので、交差点の手前で止まれる速度で進行する。",
+        "text_en": "Since a bicycle or a pedestrian may come out from the left of the intersection, you should drive at a speed which enables you to stop before the intersection.",
+        "text_ne": "चोकको बायाँतर्फबाट साइकल वा पैदल यात्री अचानक आउन सक्छ, त्यसैले चोकअघि रोक्न सकिने गतिमा चलाउनुपर्छ।",
+        "text_hi": "चौराहे के बाईं ओर से साइकिल या पैदल यात्री अचानक आ सकते हैं, इसलिए चौराहे से पहले रुक सकने वाली गति से चलना चाहिए।"
+      },
+      {
+        "id": 3,
+        "text_ja": "右側から車が出てこないように警音器を鳴らし、現在の速度のまま進行する。",
+        "text_en": "You should sound your horn so that no vehicle would come out from the right and continue driving at the current speed.",
+        "text_ne": "दायाँतर्फबाट गाडी ननिस्कियोस् भनेर हर्न बजाएर अहिलेको गतिमै अघि बढ्नुपर्छ।",
+        "text_hi": "दाईं ओर से वाहन न निकले इसलिए हॉर्न बजाकर वर्तमान गति से ही आगे बढ़ना चाहिए।"
+      }
+    ],
+    "correct_answers": [1, 2],
+    "correct_explanation_ja": "見通しの悪い夜間の交差点では、右側からの車だけでなく、左側から自転車や歩行者が飛び出してくる危険もあります。いつでも停止できる速度まで落として、安全を確認しながら進行することが必要です。警音器に頼ってそのまま進むのは危険です。",
+    "correct_explanation_en": "At a poorly visible intersection at night, there is a risk not only of vehicles coming from the right, but also bicycles and pedestrians coming out from the left. You should reduce your speed to a level that allows you to stop at any time and proceed while checking safety. It is dangerous to rely on the horn and continue at the same speed.",
+    "correct_explanation_ne": "रातिको कम दृश्यता भएको चोकमा दायाँतर्फबाट गाडी आउनुका साथै बायाँतर्फबाट साइकल वा पैदल यात्री पनि अचानक निस्कन सक्छन्। जहिले पनि रोक्न सकिने गतिमा घटाएर सुरक्षा जाँच गर्दै अघि बढ्नुपर्छ। हर्नमा भर परेर उही गतिमा जानु खतरनाक हुन्छ।",
+    "correct_explanation_hi": "रात में कम दृश्यता वाले चौराहे पर केवल दाईं ओर से वाहन ही नहीं, बल्कि बाईं ओर से साइकिल या पैदल यात्री भी अचानक आ सकते हैं। इसलिए ऐसी गति तक धीमा होना चाहिए जिस पर कभी भी रुक सकें, और सुरक्षा की पुष्टि करते हुए आगे बढ़ना चाहिए। केवल हॉर्न पर भरोसा करके उसी गति से चलना खतरनाक है।"
+  },
+  {
+    "id": 95,
+    "image": "assets/signs/final_test3/q95.png",
+    "question_ja": "高速自動車国道を時速80kmで走行しています。何に注意しますか。",
+    "question_en": "You are driving at 80 km/h on a national expressway. What should the driver pay attention to?",
+    "question_ne": "तपाईं राष्ट्रिय एक्सप्रेसवेमा 80 किमी/घण्टाको गतिमा चलिरहनुभएको छ। चालकले के कुरामा ध्यान दिनुपर्छ?",
+    "question_hi": "आप राष्ट्रीय एक्सप्रेसवे पर 80 किमी/घंटा की रफ्तार से गाड़ी चला रहे हैं। चालक को किन बातों पर ध्यान देना चाहिए?",
+    "choices": [
+      {
+        "id": 1,
+        "text_ja": "前方で渋滞しているおそれがあるので、ハザードランプを点灯し、数回ブレーキを踏んで後続車に自分の意思を知らせる。",
+        "text_en": "There may be a traffic congestion ahead of you, use hazard lights and step on the brake pedal several times to let vehicles behind you know your intention.",
+        "text_ne": "अगाडि ट्राफिक जाम हुन सक्छ, त्यसैले हाजार्ड बत्ती बालेर केही पटक ब्रेक थिची पछाडिका गाडीलाई आफ्नो इरादा बुझाउनुपर्छ।",
+        "text_hi": "आगे ट्रैफिक जाम हो सकता है, इसलिए हज़ार्ड लाइट जलाकर और ब्रेक पैडल कई बार दबाकर पीछे के वाहनों को अपना इरादा बताना चाहिए।"
+      },
+      {
+        "id": 2,
+        "text_ja": "ブレーキをかけると後続車に影響するので、前の車にできるだけ近づいてからブレーキをかける。",
+        "text_en": "Since applying the brake affects the vehicles behind, apply the brake after getting as close as possible to the vehicle in front.",
+        "text_ne": "ब्रेक लगाउँदा पछाडिका गाडीमा असर पर्छ, त्यसैले अगाडिको गाडीको सकेसम्म नजिक पुगेपछि मात्र ब्रेक लगाउनुपर्छ।",
+        "text_hi": "ब्रेक लगाने से पीछे के वाहनों पर असर पड़ता है, इसलिए आगे वाले वाहन के जितना संभव हो उतना पास जाने के बाद ब्रेक लगाना चाहिए।"
+      },
+      {
+        "id": 3,
+        "text_ja": "前の車がハザードランプをつけて停止しようとしているので、すぐに急ブレーキをかける。",
+        "text_en": "Because the vehicle in front turns on the hazard lights and is going to stop, you should apply the sudden brake immediately.",
+        "text_ne": "अगाडिको गाडीले हाजार्ड बत्ती बालेर रोकिन लागेको छ, त्यसैले तुरुन्तै कडा ब्रेक लगाउनुपर्छ।",
+        "text_hi": "आगे वाला वाहन हज़ार्ड लाइट जलाकर रुकने वाला है, इसलिए तुरंत तेज़ ब्रेक लगाना चाहिए।"
+      }
+    ],
+    "correct_answers": [1],
+    "correct_explanation_ja": "高速道路で前方の渋滞に気づいたときは、早めにハザードランプを点灯し、ブレーキランプでも後続車に減速の意思を知らせることが大切です。前車に近づきすぎたり、急ブレーキをかけたりすると追突事故の危険が高まります。",
+    "correct_explanation_en": "When you notice congestion ahead on an expressway, it is important to turn on your hazard lights early and also use your brake lights to let following vehicles know that you are slowing down. Getting too close to the vehicle in front or braking suddenly increases the risk of a rear-end collision.",
+    "correct_explanation_ne": "एक्सप्रेसवेमा अगाडि जाम देखिएपछि छिट्टै हाजार्ड बत्ती बाल्नु र ब्रेक बत्तीमार्फत पछाडिका गाडीलाई आफूले गति घटाउँदैछु भन्ने जानकारी दिनु महत्त्वपूर्ण हुन्छ। अगाडिको गाडीको धेरै नजिक जानु वा अचानक कडा ब्रेक लगाउनु पछाडिबाट ठोक्किने जोखिम बढाउँछ।",
+    "correct_explanation_hi": "एक्सप्रेसवे पर आगे जाम दिखने पर जल्दी हज़ार्ड लाइट जलाना और ब्रेक लाइट के माध्यम से पीछे के वाहनों को यह बताना महत्वपूर्ण है कि आप धीमे हो रहे हैं। आगे वाले वाहन के बहुत पास जाना या अचानक तेज़ ब्रेक लगाना पीछे से टक्कर के जोखिम को बढ़ाता है।"
+  }
+]
