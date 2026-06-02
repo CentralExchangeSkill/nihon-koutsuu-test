@@ -111,7 +111,7 @@ function getTestConfig(mode) {
       extraFile: "./data/95q_1_2.json",
       questionCount: 90,
       extraQuestionCount: 5,
-      passingScore: 95,
+      passingScore: 90,
       random: false,
       label: "Karimen Final Test 1",
       specialScoring: true
@@ -121,7 +121,7 @@ function getTestConfig(mode) {
       extraFile: "./data/95q_2_2.json",
       questionCount: 90,
       extraQuestionCount: 5,
-      passingScore: 95,
+      passingScore: 90,
       random: false,
       label: "Karimen Final Test 2",
       specialScoring: true
@@ -131,7 +131,7 @@ function getTestConfig(mode) {
       extraFile: "./data/95q_3_2.json",
       questionCount: 90,
       extraQuestionCount: 5,
-      passingScore: 95,
+      passingScore: 90,
       random: false,
       label: "Karimen Final Test 3",
       specialScoring: true
